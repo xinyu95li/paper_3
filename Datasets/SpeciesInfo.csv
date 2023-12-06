@@ -1,0 +1,503 @@
+﻿spCode,spName,gHabit,Categorization2,Categorization,Nat_Non,covertype,csprouting
+ACMAME,Acmispon_americanus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ACMARG,Acmispon argophyllus,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ACMGLA,Acmispon_glaber,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ACMHER,Acmispon heermannii,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ACMMAR,Acmispon_maritimus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ACMMIC,Acmispon_micranthus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ACMSPP,Acmispon_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ACMSPP(D),dead_Acmispon,Forb,,,NATIVE,plant,non
+ACMSTR,Acmispon_strigosus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ACMWRA,Acmispon_wrangelianus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ACOMIC,Acourtia_microcephala,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ADEFAS,Adenostoma_fasciculatum,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ADEFAS(D),dead_Adenostoma_fasciculatum,,Standing_Dead,,NATIVE,plant,non
+ADESPP(D),dead_Adenostoma,,Standing_Dead,,NATIVE,plant,non
+AGOGRA,Agoseris_grandiflora,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+AGOSPP,Agoseris species,Forb,NativeForb,,NATIVE,plant,non
+AGRPAL,Agrostis_pallens,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+AGRSPP,Agrostis_species,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+AGRSPP(D),dead_Agrostis,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+AMBACA,Ambrosia_acanthicarpa,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+AMBCON,Ambrosia_confertiflora,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+AMBPSI,Ambrosia_psilostachya,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+AMSINT,Amsinckia_intermedia,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+AMSMEN,Amsinckia_menziesii,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+AMSRET,Amsinckia retrorsa,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ANAARV,Anagallis_arvensis,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+ANTCAU,Anthriscus caucalis,Forb,NN_Forb,,NONNATIVE,plant,non
+ANTCOU,Antirrhinum_coulterianum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ANTKEL,Antirrhinum_kelloggii,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ANTNUT,Antirrhinum_nuttallianum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ANTSPP,Antirrhinum species,Forb,,,,plant,non
+APIANG,Apiastrum_angustifolium,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ARIPUR,Aristida purpurea,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+ARISPP,Aristida_species,Grass,Grass,Grass,NA,plant,non
+ARTCAL,Artemisia_californica,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ARTCAL(D),dead_Artemisia_californica,,Standing_Dead,,NATIVE,plant,non
+ARTPAL,Artemisia_palmeri,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ARTSPP(D),dead_Artemisia,,Standing_Dead,,NATIVE,plant,non
+ASCFAS,Asclepias fascicularis,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ASTERACEAE,Asteraceae family,,,,,plant,non
+ASTGAM,Astragalus gambelianus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ATHPUS,Athysanus pusillus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ATRSEM,Atriplex semibaccata,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+AVEBAR,Avena_barbata,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+AVEFAT,Avena_fatua,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+AVESPP,Avena_species,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+AVESPP(D),dead_Avena,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NONNATIVE,plant,non
+B,Bareground,Cover,BAREGROUND,BAREGROUND,cover,Gcover,non
+BACPIL,Baccharis_pilularis,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+BACSAL,Baccharis_salicifolia,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+BACSPP(D),dead_Baccharis,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+BLOCRO,Bloomeria_crocea,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+BOTBAR,Bothriochloa barbinodis,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+BOWINC,Bowlesia_incana,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+BRADIS,Brachypodium_distachyon,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+BRANIG,Brassica_nigra,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+BRASPP(D),dead_Brassica,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NONNATIVE,plant,non
+BRATOU,Brassica_tournefortii,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+BROCAR,Bromus_carinatus,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+BROCAT,Bromus_catharticus,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+BRODIA,Bromus_diandrus,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+BROHOR,Bromus_hordeaceus,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+BROMAD,Bromus_madritensis,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+BROSPP,Bromus_species,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+BROSPP(D),Dead_Bromus,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+BROTEC,Bromus tectorum,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+C,Crypto-biotic_Crust,Cover,CRUST,CRYPTOBIOTIC CRUST,cover,Gcover,non
+CALBRE,Calandrinia breweri,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CALCAT,Calochortus_catalinae,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CALMAC,Calystegia_macrostegia,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CALCIL,Calandrinia_menziesii,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CALSPL,Calochortus_splendens,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CALSPP,Calochortus_species,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CALWED,Calochortus weedii var. weedii,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CAMBIS,Camissoniopsis_bistorta,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CAMHIR,Camissonia_hirtella,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CAMMIC,Camissoniopsis_micrantha,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CAMSPP,Camissoniopsis_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CAPBUR,Capsella bursa-pastoris,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+CARPYC,Carduus_pycnocephalus,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+CARSPP,Carex_species,Grass,NativeGrass,Rumex crispus,NATIVE,plant,non
+CARTRI,Carex triquetra,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+CASEXS,Castilleja_exserta,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CAUHET,CAULANTHUS HETEROPHYLLUS,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CAUSPP,Caulanthus species,Forb,NativeForb,,NATIVE,plant,non
+CEACRA,Ceanothus_crassifolius,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CEAGRE,Ceanothus_greggii,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CEAMEG,Ceanothus_megacarpus,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CEAOLI,Ceanothus_oliganthus,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CEASPP,Ceanothus_species,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CEASPP(D),dead_Ceanothus,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+CEATOM,Ceanothus_tomentosus,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CEATOM(D),dead_Ceanothus_tomentosus,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+CENMEL,Centaurea_melitensis,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+CERBET,Cercocarpus_betuloides,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CERGLO,Cerastium_glomeratum,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+CHAALB,Chamaesyce_albomarginata,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CHAART,Chaenactis_artemisiifolia,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CHAGLA,Chaenactis_glabriuscula,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CHASPP,Chaenactis_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CHEALB,Chenopodium album,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+CHECAL,Chenopodium_californicum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CHEMUR,Chenopodium murale,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+CHLPAR,Chlorogalum_parviflorum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CHLPOM,Chlorogalum_pomeridianum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CHLSPP,Chlorogalum_species,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CHOPAR,Chorizanthe parryi,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CIROCC,Cirsium_occidentale,Forb,NativeForb,FORB_Biennial,NATIVE,plant,non
+CIRSPP,Cirsium_species,Forb,NativeForb,FORB_Biennial,NATIVE,plant,non
+CLAPAR,Claytonia_parviflora,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CLAPER,Claytonia_perfoliata,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CLAPUR,Clarkia_purpurea,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+COLHET,Collinsia_heterophylla,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CONARV,Convolvulus_arvensis,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+CONCAN,Conyza_canadensis,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CONMAC,Conium_maculatum,Forb,NN_Forb,FORB_Biennial,NONNATIVE,plant,non
+CORFIL,Corethrogyne_filaginifolia,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+CORRIG,Cordylanthus_rigidus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CORSPP(D),dead_Corethrogyne,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+CRACON,Crassula_connata,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CROSET,Croton_setigerus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CRYINT,Cryptantha_intermedia,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CRYMIC,Cryptantha_micromeres,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CRYMUR,Cryptantha_muricata,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CRYSPP,Cryptantha_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CUPFOR,Hesperocyparis_forbesii,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CUPSPP,Hesperocyparis_species,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CUPSPP(D),dead_Hesperocyparis,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+CUSCAL,Cuscuta_californica,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CUSSPP,Cuscuta_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+CYLPRO,Cylindropuntia prolifera,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+CYNCAR,Cynara_cardunculus,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+CYPERA,Cyperus eragrostis,Grass,NativeGrass,GRASS_Annual,NATIVE,plant,non
+DATWRI,Datura wrightii,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+DAUPUS,Daucus_pusillus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+DAUSPP,Daucus species,Forb,,,,plant,non
+DCS(ARTCAL),dead_crown_sprouting_Artemisia_californica,Dead,,,,plant,non
+DCS(QUEDUM),dead_crown_sprouting_Quercus_dumosa,Dead,,,,plant,non
+DEIFAS,Deinandra_fasciculata,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+DEISPP,Deinandra_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+DENRIG,Dendromecon_rigida,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+DENSPP(D),dead_Dendromecon,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+DICCAP,Dichelostemma_capitatum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+DISSPI,Distichlis_spicata_,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+DISSPP,Distichlis_spicata,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+DPCS(MALFAS),Dead_part_of_crown_sprouting_Malacothamnus_fasciculatus,Forb,,,,plant,non
+DUDLAN,Dudleya_lanceolata,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+DUDVIS,Dudleya viscida,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ELEMON,Eleocharis_montevidensis,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+ELEPAL,Eleocharis_palustris,Forb,NativeForb,GRASS_Perennial,NATIVE,plant,non
+ELYCON,Elymus_condensatus,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+ELYSPP,Elymus_species,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+EMMPEN,Emmenanthe_penduliflora,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ENCCAL,Encelia_californica,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ENCFAR,Encelia_farinosa,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ENCSPP(D),dead_Encelia,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+ENCSPP(D),Enecelia_species,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+EPICAN,Epilobium_canum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+EPISPP,Epilobium species,Forb,,,,plant,non
+ERIBON,Erigeron bonariensis,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+ERICAM(D),dead_Ericameria,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+ERICON,Eriophyllum_confertiflorum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ERICRA,Eriodictyon_crassifolium,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ERIELO,Eriogonum_elongatum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ERIFAS,Eriogonum_fasciculatum,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ERIFAS(D),dead_Eriogonum_fasciculatum,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+ERIFOL,Erigeron_foliosus,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+ERIODI(D),dead_Eriodictyon,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+ERIOGO(D),dead_Eriogonum,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+ERIOPH(D),dead_Eriophyllum,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+ERIPAL,Ericameria_palmeri,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ERIPIN,Ericameria_pinifolia,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ERISAP,Eriastrum sapphirinum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+ERISPP1,Ericameria_species,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ERISPP2,Erigeron_species,Forb,NativeForb,FORB,NATIVE,plant,non
+ERISPP3,Eriophyllum species,Forb,NativeForb,,NATIVE,plant,non
+EROBOT,Erodium_botrys,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+EROBRA,Erodium_brachycarpum,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+EROCIC,Erodium_cicutarium,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+EROMOS,Erodium_moschatum,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+EROSPP,Erodium_species,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+EROSPP(D),dead_Erodium,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NONNATIVE,plant,non
+ESCCAL,Escholzia_californica,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+EUCCHR,Eucrypta_chrysanthemifolia,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+EULCAL,Eulobus_californicus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+EUPALB,Euphorbia_albomarginata,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+EUPPEP,Euphorbia peplus,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+F,Fine woody debris,,,,,Gcover,non
+FESARU,Festuca_arundinacea,Grass,NN_Grass,GRASS_Perennial,NONNATIVE,plant,non
+FESMIC,Festuca microstachys,Grass,NativeGrass,GRASS_Annual,NATIVE,plant,non
+FESMYU,Festuca_myuros,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+FESOCT,Festuca_octoflora,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+FESPER,Festuca_perennis,Grass,NN_Grass,GRASS_Perennial,NONNATIVE,plant,non
+FESSPP,Festuca_species,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+FOEVUL,Foeniculum_vulgare,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+FORB(D),Dead_Forb,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NA,plant,non
+FRIBIF,Fritillaria_biflora,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+FUNCYN,Funastrum_cynanchoides,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+GALAND,Galium_andrewsii,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+GALANG,Galium_angustifolium,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+GALAPA,Galium_aparine,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+GALNUT,Galium_nuttallii,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+GALPAR,Galium_parisiense,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+GALSPP,Galium_species,Forb,NativeForb,,NATIVE,plant,non
+GALSPP(D),Dead_Galium,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+GASPHL,Gastridium_phleoides,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+GAZLIN,Gazania linearis,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+GERDIS,Geranium_dissectum,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+GILANG,Gilia_angelensis,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+GILCAP,Gilia_capitata,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+GILDIE,Gilia diegensis,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+GILSPP,Gilia species,Forb,,,,plant,non
+GNASPP,Gnaphalium spp,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+GRASS(D),Dead_Grass,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NA,plant,non
+GRICAM,Grindelia_camporum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+GUTCAL,Gutierrezia_californica,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+GUTSAR,Gutierrezia_sarothrae,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+GUTSPP,Gutierrezia_species,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+GUTSPP(D),dead_Gutierrezia,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+HARPAL,Harpagonella_palmeri,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+HAZSPP(D),dead_Hazardia,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+HAZSQU,Hazardia_squarrosa,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+HEDCRE,Hedypnois_cretica,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+HELANN,Helianthus_annuus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+HELECH,Helminthotheca_echioides,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+HELGRA,Helianthus_gracilentus,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+HELSCO,Helianthemum_scoparium,Forb,NativeForb,SHRUB_Biennial,NATIVE,plant,non
+HELSPP(D),dead_Helianthemum,Dead,Standing_Dead,SHRUB_Biennial,NATIVE,plant,non
+HESFOR,Hesperocyparis forbesii ,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+HESSPP(D),dead_Hesperoyucca,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+HESWHI,Hesperoyucca_whipplei,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+HETARB,Heteromeles_arbutifolia,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+HETGRA,Heterotheca grandiflora,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+HETSPP(D),dead_Heteromeles,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+HIRINC,Hirschfeldia_incana,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+HORMUR,Hordeum_murinum,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+HORSPP,Hordeum species,Grass,,,,plant,non
+HORVUL,Hordeum vulgare,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+HYPGLA,Hypochaeris_glabra,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+HYPSPP,Hypochaeris_species,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+ISOMEN,Isocoma_menziesii,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ISOSPP(D),dead_Isocoma,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+JEPPAR,Jepsonia parryi,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+JUNBAL,Juncus balticus,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+JUNSPP,Juncus_species,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+JUNXIP,Juncus_xiphioides,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+KECANT,Keckiella_antirrhinoides,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+KECCOR,Keckiella_cordifolia,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+KECSPP(D),dead_Keckiella,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+L,Litter,cover,Litter,SURFACE  LEVEL DEAD ORGANIC MATTER,.,Gcover,non
+LACSER,Lactuca_serriola,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+LACSPP,Lactuca species,Forb,,,,plant,non
+LAECOU,Laennecia_coulteri,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LAMAUR,Lamarckia_aurea,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+LASCAL,Lasthenia_californica,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LASCOR,Lasthenia coronaria,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LASGRA,Lasthenia_gracilis,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LATVES,Lathyrus vestitus,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+LAYPLA,Layia_platyglossa,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LEPNIT,Lepidium_nitidum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LEPSPP,Lepidium_species,Forb,,FORB_Annual,.,plant,non
+LINCAN,Nuttallanthus_texanus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LINDIA,Linanthus dianthiflorus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LINSPP,Linanthus_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LOGARI,Logfia arizonica,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LOGFIL,Logfia_filanginoides,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LOGGAL,Logfia_gallica,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+LOGSPP,Logfia species,,,,,plant,non
+LOLSPP(D),dead_Lolium,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NONNATIVE,plant,non
+LOLSPP(D),Lolium_species,Grass,NN_Grass,GRASS,NONNATIVE,plant,non
+LOMLUC,Lomatium lucidum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+LOMSPP,Lomatium species,Forb,,,,plant,non
+LONSUB,Lonicera_subspicata,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+LOTCOR,Lotus corniculatus,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+LOTSPP,Lotus_species,Forb,Forb,FORB_Annual,NA,plant,non
+LUPAGA,Lupinus concinnus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LUPBIC,Lupinus_bicolor,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LUPHIR,Lupinus_hirsutissimus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LUPMIC,Lupinus microcarpus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LUPSPA,Lupinus_sparsiflorus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LUPSPP,Lupinus_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LUPSUC,Lupinus_succulentus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LUPTRU,Lupinus_truncatus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+LYSARV,Lysimachia_arvensis,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+M,Moss,Forb,CRUST,Non Vascular SURFACE VEGETATION,,Gcover,non
+MALFAS,Malacothamnus_fasciculatus,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+MALFAS(D),dead_Malacothamnus_fasciculatus,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+MALLAU,Malosma_laurina,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+MALNUS(D),dead_Malacothamnus,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+MALPAR,Malva_parviflora,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+MALRIX(D),dead_Malacothrix,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+MALSAX,Malacothrix_saxatilis,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+MALSMA(D),dead_Malosma,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+MARMAC,Marah_macrocarpa,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+MARVUL,Marrubium_vulgare,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+MEDPOL,Medicago_polymorpha,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+MEDSPP,Medicago_species,Forb,NN_Forb,FORB,NONNATIVE,plant,non
+MEDTRU,Medicago truncatula,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+MELIMP,Melica_imperfecta,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+MELIND,Melilotus_indicus,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+MELSPP,Melilotus species,Forb,NN_Forb,,NONNATIVE,plant,non
+MICCAL,Micropus_californicus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+MICLIN,Microseris_lindleyi,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+MIMAUR,Mimulus_aurantiacus,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+MIMSPP(D),dead_Mimulus,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+MIRLAE,Mirabilis_laevis,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+MUHMIC,Muhlenburgia_microsperma,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+MUHRIG,Muhlenbergia_rigens,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+MUHSPP,Muhlenbergia species,Grass,,,,plant,non
+MUIMAR,Muilla maritima,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+NASLEP,Stipa_lepida,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+NASPUL,Stipa_pulchra,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+NICGLA,Nicotiana_glauca,Shrub,NN_Shrub,SHRUB_Perennial,NONNATIVE,plant,non
+NOLCIS,Nolina_cismontana,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+NOLSPP,Nolina_species,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+OENSAR,Oenanthe_sarmentosa,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+OPULIT,Opuntia_littoralis,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+OPUORI,Opuntia_oricola,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+OPUSPP(D),dead_Opuntia,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+OSMTEN,Osmadenia_tenella,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+OXAALB,Oxalis_albicans,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+OXAPES,Oxalis_pes-caprae,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+OXASPP,Oxalis_species,Forb,Forb,,,plant,non
+PECLIN,Pectocarya_linearis,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PELMUR,Pellaea_mucronata,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+PENCLA,Pennisetum_clandestinum,Grass,NN_Grass,GRASS_Perennial,NONNATIVE,plant,non
+PENSPE,Penstemon spectabilis,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+PENTRI,Pentagramma_triangularis,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+PHACAM,Phacelia campanularia,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PHACIC,Phacelia_cicutaria,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PHADIS,Phacelia distans,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PHAPAR,Phacelia_parryi,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PHARAM,Phacelia ramosissima,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+PHASPP,Phacelia_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PHOAUR,Pholistoma_auritum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PLACAL,Platystemon_californicus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PLACAN,Plagiobothrys canescens,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PLACOL,Plagiobothrys_collinus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PLAERE,Plantago_erecta,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PLANOT,Plagiobothrys_nothofulvus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PLAOVA,Plantago_ovata,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PLAPAT,Plantago patagonica,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PLASPP,Plagiobothrys_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+POAANN,Poa_annua,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+POASEC,Poa secunda,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+POASPP,Poaceae family,Grass,,,,plant,non
+POLCAL,Polypodium californicum,Fern,NativeFern,,NATIVE,plant,non
+POLVIR,Polypogon_viridis,Grass,NN_Grass,GRASS_Perennial,NONNATIVE,plant,non
+PORGRA,Porophyllum_gracile,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+PRUILI,Prunus_ilicifolia,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+PSEBEN,Pseudognaphalium beneolens,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+PSEBIO,Pseudognaphalium_bioletti,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+PSECAL,Pseudognaphalium_californicum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PSEMIC,Pseudognaphalium microcephalum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+PSESPP,Pseudognaphalium_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PSIBRE,Psilocarphus_brevissimus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+PTEDRY,Pterostegia_drymarioides,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+QUEAGR,Quercus_agrifolia,Shrub,NativeShrub,TREE_Perennial,NATIVE,plant,non
+QUEBER,Quercus_berberidifolia,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+QUEDUM,Quercus_dumosa,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+QUEDUM(D),dead_Quercus_dumosa,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+QUESPP,Quercus_species,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+QUESPP(D),dead_Quercus,Dead,Standing_Dead,STANDING DEAD ORGANIC MATTER,NATIVE,plant,non
+R,Rock,Forb,ROCK,ROCK,.,Gcover,non
+RAFCAL,Rafinesquia_californica,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+RAPSAT,Raphanus_sativus,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+RHACRO,Rhamnus_crocea,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+RHAILI,Rhamnus_ilicifolia,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+RHASPP,Rhamnus_species,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+RHUINT,Rhus_integrifolia,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+RHUOVA,Rhus_ovata,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+RIBIND,Ribes_indecorum,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+RIBSPP,Ribes_species,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+ROMCOU,Romneya_coulteri,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+RUMCAL,Rumex californicus,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+RUMCRI,Rumex crispus,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+RUMSPP,Rumex species,Forb,,,,plant,non
+S,Stem,,,,.,Gcover,non
+Sa,Sand,,,,,Gcover,non
+SALAPI,Salvia_apiana,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+SALAUS,Saltugilia_australis,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+SALCOL,Salvia_columbariae,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+SALLAS,Salix_lasiolepis,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+SALLEU,Salvia_leucophylla,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+SALMEL,Salvia_mellifera,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+SALSPP,Salvia species,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+SALTRA,Salsola_tragus,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SAMNIG,Sambucus_nigra,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+SANARG,Sanicula_arguta,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+SANBIP,Sanicula bipinnatifida,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+SANSPP,Sanicula_species,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+SCHBAR,Schismus_barbatus,Grass,NN_Grass,GRASS_Annual,NONNATIVE,plant,non
+SCRCAL,Scrophularia_californica,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+SELBIG,Selaginella_bigelovii,Moss,NativeMoss,MOSS,NATIVE,plant,non
+SENCAL,Senecio californicus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+SENSPP,Senecio_species,Forb,,FORB_Annual,,plant,non
+SENVUL,Senecio_vulgaris,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SIDMAL,Sidalcea malviflora,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+SILCON,Silene coniflora,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SILGAL,Silene_gallica,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SILMAR,Silybum_marianum,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SISBEL,Sisyrinchium_bellum,Grass,NativeForb,GRASS_Perennial,NATIVE,plant,non
+SISIRI,Sisymbrium_irio,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SISOFF,Sisymbrium_officinale,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SISORI,Sisymbrium_orientale,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SISSPP,Sisymbrium species,Forb,NN_Forb,,NONNATIVE,plant,non
+SOLAME,Solanum americanum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+SOLPAR,Solanum_parishii,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+SOLSPP,Solanum_species,Forb,Forb,FORB,.,plant,non
+SOLUMB,Solanum_umbelliferum,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+SOLXAN,Solanum_xanti,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+SONASP,Sonchus_asper,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SONOLE,Sonchus_oleraceus,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+SONSPP,Sonchus_species,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+STEDIE,Stephanomeria_diegensis,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+STEEXI,Stephanomeria exigua,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+STEMED,Stellaria_media,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+STENIT,Stellaria_nitens,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+STESPP1,Stellaria_species,Forb,Forb,FORB_Annual,.,plant,non
+STESPP2,Stephanomaria_species,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+STICOR,Stipa coronata,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+STIMIL,Stipa_miliacea,Grass,NN_Grass,GRASS_Perennial,NONNATIVE,plant,non
+STISPE,Stipa_speciosa,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+STISPP,Stipa_species,Grass,NativeGrass,GRASS_Perennial,NATIVE,plant,non
+TAROFF,Taraxacum_officinale,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+TAUARG,Tauschia arguta,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+TAUSPP,Tauschia species,Forb,NativeForb,,NATIVE,plant,non
+TH,Thatch,,Litter,,,Gcover,non
+THYLAC,Thysanocarpus laciniatus,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+TOXDIV,Toxicodendron_diversilobum,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+TOXFRE,Toxicoscordion_fremontii,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+TRIALB,Trifolium_albopurpureum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+TRICIL,Trifolium_ciliolatum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+TRIHIR,Trifolium_hirtum,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+TRILANA,Trichostema_lanatum,Shrub,NativeShrub,SHRUB_Perennial,NATIVE,plant,non
+TRILANC,Trichostema lanceolatum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+TRIMIC,Trifolium_microcephalum,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+TRIREP,Trifolium_repens,Forb,NN_Forb,FORB_Perennial,NONNATIVE,plant,non
+TRISPP,Trifolium_species,Forb,Forb,FORB_Annual,.,plant,non
+TRITRI,Trifolium_trichocalyx,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+TRIWIL,Trifolium_willdenovii,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+TRIWOR,Trifolium wormskioldii,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+UNK(D),Unknown_dead,,.,.,.,plant,non
+UNK1,Unkown_1,,.,.,.,plant,non
+UNK2,Unkown_2,,.,.,.,plant,non
+UK(01),,,,,,plant,non
+UK(02),,,,,,plant,non
+UK(03),,,,,,plant,non
+UK(04),,,,,,plant,non
+UK(05),,,,,,plant,non
+UK(06),,,,,,plant,non
+UK(07),,,,,,plant,non
+UK(08),,,,,,plant,non
+UK(09),,,,,,plant,non
+UK(10),,,,,,plant,non
+UK(11),,,,,,plant,non
+UK(12),,,,,,plant,non
+UK(13),,,,,,plant,non
+UNKFERN,Unknown_fern,Fern,,,,plant,non
+UNKFORB1,,Forb,,,,plant,non
+UNKFORB2,,Forb,,,,plant,non
+UNKFORB3,,Forb,,,,plant,non
+UNKFORB,Unknown_forb,Forb,,,,plant,non
+UNKGRASS,Unknown_grass,Grass,,,,plant,non
+UNKGEOPHYTE,,Forb,,,,plant,non
+UNKLETTUCE,,Forb,,,,plant,non
+VERLAS,Verbena_lasiostachys,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+VICAME,Vicia americana var. americana,Forb,NativeForb,FORB_Annual,NATIVE,plant,non
+VINE SNAPDRAGON,VINE SNAPDRAGON,Forb,,,,plant,non
+VIOPED,Viola_pedunculata,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+VIOSPP,Viola species,Forb,,,,plant,non
+W,Woody debris (coarse),,,,,Gcover,non
+UNKNAT,,,,,NATIVE,plant,non
+UNKNAT(D),,,,,NATIVE,plant,non
+UNKNNAT,,,,,NONNATIVE,plant,non
+UNKNOWN,,,,,,plant,non
+UNKSHRUB,,Shrub,,,,plant,non
+UNKSUCCULENT,,Forb,,,,plant,non
+UNKTHISTLE,,Forb,,,,plant,non
+URTDIO,Urtica dioica,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+PSELUT,Pseudognaphalium luteoalbum,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+PSESTR,Pseudognaphalium stramineum,Forb,NativeForb,FORB_Perennial,NATIVE,plant,non
+MALLAU(CS),,Shrub,,,NATIVE,plant,crownsprouting
+SALMEL(CS),,Shrub,,,NATIVE,plant,crownsprouting
+ENCCAL(CS),,Shrub,,,NATIVE,plant,crownsprouting
+QUEAGR(CS),,Shrub,,,NATIVE,plant,crownsprouting
+SAMNIG(CS),,Shrub,,,NATIVE,plant,crownsprouting
+MALFAS(CS),,Shrub,,,NATIVE,plant,crownsprouting
+ARTCAL(CS),,Shrub,,,NATIVE,plant,crownsprouting
+SALAPI(CS),,Shrub,,,NATIVE,plant,crownsprouting
+RHAILI(CS),,Shrub,,,NATIVE,plant,crownsprouting
+RHUINT(CS),,Shrub,,,NATIVE,plant,crownsprouting
+ADEFAS(CS),,Shrub,,,NATIVE,plant,crownsprouting
+ERIFAS(CS),,Shrub,,,NATIVE,plant,crownsprouting
+ACMGLA(CS),,Forb,,,NATIVE,plant,crownsprouting
+SOLNIG,,Forb,NN_Forb,FORB_Annual,NONNATIVE,plant,non
+CRY,,,NativeForb,,,,
+CAMCAL,,,NativeForb,,,,
+CASAFF,Castilleja_affinis,,NativeForb,,,,
+ERICAL,,,NativeShrub,,,,
+MED,,,NativeForb,,,,
+TRILAN,,,NativeShrub,,,,
