@@ -708,6 +708,9 @@ transect_visitations.plot <-  ggplot(transect_visitations, aes(x=flower, y = vis
 
 
 #nneed help
+
+sp2 <- sp %>%
+  filter(substr(spCode, 1,1) == "A")
 ```
 
 
