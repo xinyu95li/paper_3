@@ -19,6 +19,7 @@ library(Rmisc)
 library(multcomp)
 library(mvnormtest)
 library(tidyr)
+library(rmcorr)
 
 setwd("~/Desktop/Paper_3/Datasets")
 
@@ -53,6 +54,13 @@ pollen <- read.csv("pollen22.csv", header = TRUE) %>%
 
 transect_meta_wtransect <- read.csv("Transect_Meta.csv", header = TRUE) %>%
   dplyr::select(Tyear, Transect, Status, Year)
+
+unique_obs <- visits%>%
+  dplyr::select(Tyear, Transect, Quad, Year, Round, Start) %>%
+  filter(Quad != "walk") %>%
+  filter(!Quad %in% c(2,6,46,38)) %>%
+  mutate(Tyear_quad = paste(Tyear, Quad, sep = "_")) %>%
+  distinct(., Tyear_quad, Start, .keep_all = TRUE)
 
 ```
 
@@ -113,7 +121,7 @@ pol_group_obs_burn <- visits_meta %>%
 
 pol_group_obs_burn_ggplot <- ggplot(data = pol_group_obs_burn, aes(x=fine_pollinator_size, y=n)) +
   geom_bar(stat = "identity") +
-  ylim(0,1000) +
+  ylim(0,600) +
   facet_wrap(~Year.x + Status) +
   theme(axis.text.x = element_text(angle=90, vjust=.5, hjust=1))
 
@@ -201,23 +209,60 @@ quad_flower_visit_avg2 <- merge(quad_flower_visit_avg, transect_meta_wtransect, 
 visit_model <- lme(mean_visit_rate ~ Status*Year.x, random = ~1|Transect, data = quad_flower_visit_avg2)
 Anova(visit_model, type = "III")
 summary(visit_model)
+```
 
+
+```{r}
 #Correlation of activity with time of day
 
-quad_flower_visit_date <- quad_flower_visit %>%
-  mutate(hmStart = as.numeric(hm(quad_flower_visit$Start))) %>%
-  mutate(Stat_year = paste(Status, Year, sep = "_"))
+#quad_flower_visit_date <- quad_flower_visit %>%
+#  mutate(hmStart = as.numeric(hm(quad_flower_visit$Start))) %>%
+#  mutate(Stat_year = paste(Status, Year, sep = "_"))
 
-corr_visit_time_plot <- ggplot(quad_flower_visit_date, aes(x = hmStart, y = visit_flower_hour, shape=as.factor(Year))) +
+quad_flower_visit_date <- quad_flower_visit %>%
+  mutate(minute = as.numeric(substring(Start,1, nchar(Start)-3))*60 + as.numeric(substring(Start, nchar(Start)-1, nchar(Start)))) %>%
+  mutate(Stat_year = paste(Status, Year, sep = "_")) %>%
+  mutate(GrpTyear = substring(Tyear, 1, nchar(Tyear)-2))
+
+corr_visit_time_plot <- ggplot(quad_flower_visit_date, aes(x = minute, y = visit_flower_hour, shape=as.factor(Year))) +
+  facet_wrap(~Status) +
   geom_point(aes(color=Status)) 
 
 corr_visit_time_plot
 
+#test correlations
+#all categories
+
+cor.test(quad_flower_visit_date$minute, quad_flower_visit_date$visit_flower_hour, method = ('pearson'))
+anova(lme(visit_flower_hour~minute, random=~1|GrpTyear, data = quad_flower_visit_date))
+summary(lme(visit_flower_hour~minute, random=~1|GrpTyear, data = quad_flower_visit_date))
+
+#separate burn status
+quad_flower_visit_date.status <- quad_flower_visit_date %>%
+  filter(Status == 'B') 
+#  filter(Status == 'M')
+#  filter(Status == 'U')
+
+cor.test(quad_flower_visit_date.status$minute, quad_flower_visit_date.status$visit_flower_hour, method = ("spearman"))
+rmcorr(GrpTyear, minute, visit_flower_hour, quad_flower_visit_date.status)
+
+#using rmcorr for repeated measures
+#for all measures
+rmcorr(GrpTyear, minute, visit_flower_hour, quad_flower_visit_date)
+anova(lme(visit_flower_hour~minute, random=~1|GrpTyear, data = quad_flower_visit_date.status))
+summary(lme(visit_flower_hour~minute, random=~1|GrpTyear, data = quad_flower_visit_date.status))
+
+
+```
+
+
+```{r}
 #Correlation of activity, or number of observations with temperature and windspeed in 2022
 
 quad_flower_visit_temp <- quad_flower_visit %>%
-  filter(Year == 2022) %>%
-  filter(Temp > 0)
+  dplyr::filter(Year == 2022) %>%
+  dplyr::filter(Temp > 0) %>%
+  mutate(GrpTyear = substring(Tyear, 1, nchar(Tyear)-2))
 
 quad_flower_visit_temp_plot <- ggplot(quad_flower_visit_temp, aes(x=Temp, y = visit_flower_hour, shape = as.factor(Year))) +
   geom_point(aes(color = Status)) +
@@ -225,10 +270,36 @@ quad_flower_visit_temp_plot <- ggplot(quad_flower_visit_temp, aes(x=Temp, y = vi
 
 quad_flower_visit_temp_plot
 
+#test correlation of temp and visitation rate
+#All statuses
+
+cor.test(quad_flower_visit_temp$Temp, quad_flower_visit_temp$visit_flower_hour, method = ('pearson'))
+cor.test(quad_flower_visit_temp$Temp, quad_flower_visit_temp$visit_flower_hour, method = ('spearman'))
+
+#By burn status
+
+quad_flower_visit_temp.status <- quad_flower_visit_temp %>%
+  filter(Status == 'B') 
+#  filter(Status == 'M')
+#  filter(Status == 'U')
+
+cor.test(quad_flower_visit_temp.status$Temp, quad_flower_visit_temp.status$visit_flower_hour, method = ("pearson"))
+cor.test(quad_flower_visit_temp.status$Temp, quad_flower_visit_temp.status$visit_flower_hour, method = ("spearman"))
+rmcorr(GrpTyear, Temp, visit_flower_hour, quad_flower_visit_temp.status)
+
+#using rmcorr for repeated measures
+#for all measures
+rmcorr(GrpTyear, Temp, visit_flower_hour, quad_flower_visit_temp)
+
 ```
 
 
 ```{r}
+
+##Make a table of all the observations
+
+quad_visit_meta <- quad_visit_sum %>%
+  dplyr::rename("total_visits" = "visits")
 
 ##Apis visitation rate
 
@@ -242,7 +313,10 @@ quad_visit_sum_apis <- visits %>% ##total visits per quad per observation
   mutate(Quad= ifelse( Quad =="Special", "special", Quad)) %>%
   mutate_all(~replace(., is.na(.),0)) %>%
   filter(Quad != 2) %>%
-  filter(Quad!= 6)
+  filter(Quad!= 6) %>%
+  left_join(quad_visit_meta,., by = c("Tyear", "Start", "Quad", "Temp")) %>%
+  mutate(visits = ifelse(is.na(visits), 0, visits)) %>%
+  mutate(prop_visits = visits/total_visits) #proportion of apis visits out of total
 
 ##Merge flower abundance and total touches
 
@@ -255,12 +329,14 @@ quad_flower_visit_apis <- merge(quad_flower_sum, quad_visit_sum_apis, by = c("Ty
 quad_flower_visit_apis <- merge(quad_flower_visit_apis, transect_meta, by = "Tyear") %>%
   filter(visit_flower_hour < 12)
 
+#individual quads included
 p_apis <- ggplot(quad_flower_visit_apis, aes(x = Status, y = visit_flower_hour)) +
   geom_boxplot() +
   facet_wrap(~Year)
 
 p_apis
 
+#Transect averages
 quad_flower_visit_avg_apis <- quad_flower_visit_apis %>%
   group_by(Tyear, Status) %>%
   dplyr::summarise(mean_visit_rate = mean(visit_flower_hour), n=n()) %>%
@@ -269,6 +345,7 @@ quad_flower_visit_avg_apis <- quad_flower_visit_apis %>%
 
 p2_apis <- ggplot(quad_flower_visit_avg_apis, aes(x = Status.y, y = mean_visit_rate)) +
   geom_boxplot() +
+  ylim(0,4.5) +
   facet_wrap(~Year)
 
 p2_apis
@@ -298,7 +375,10 @@ quad_visit_sum_native <- visits %>% ##total visits per quad per observation
   mutate(Quad= ifelse( Quad =="Special", "special", Quad)) %>%
   mutate_all(~replace(., is.na(.),0)) %>%
   filter(Quad != 2) %>%
-  filter(Quad!= 6)
+  filter(Quad!= 6) %>%
+  left_join(quad_visit_meta,., by = c("Tyear", "Start", "Quad", "Temp")) %>%
+  mutate(visits = ifelse(is.na(visits), 0, visits)) %>%
+  mutate(prop_visits = visits/total_visits) #proportion of native visits out of total
 
 ##Merge flower abundance and total touches
 
@@ -495,8 +575,6 @@ pollinators_count_plot3 <- ggplot(pollinators_count_Tavg3, aes(x=fine_pollinator
 #Relationship between that and flower density separately
 #Flower density on x axis, visits/hours on the y axis
 
-view(quad_flower_sum)
-
 quad_visit_sum <- visits %>% ##total visits per quad per observation
   mutate(Tyear = paste(Transect, Year, Round, sep = "_")) %>%
   group_by(Tyear, Start, Quad, Temp) %>%
@@ -533,11 +611,6 @@ visits_2_abundance_plot <- ggplot(visits_2_abundance, aes(x = flower, y = visits
 visits_2_abundance_model <- lme(visits ~ flower*Status, random = ~1|Transect, data = visits_2_abundance)
 Anova(visits_2_abundance_model, type = "III")
 summary(visits_2_abundance_model)
-
-
-
-
-
 
 
 
@@ -599,6 +672,16 @@ apis_other_visitor_plot <- ggplot(apis_other_visitors, aes(x=Flower_count, y = V
 #  geom_smooth()+
   facet_wrap(~Status)+
   labs(x = "flower count", y = "number of visitors")
+
+apis_other_visitors.bee <- apis_other_visitors %>%
+#  filter(Visitor == 'Apis') %>%
+  filter(Visitor == 'Other') %>%
+#  filter(Status == "B")
+  filter(Status == "M")
+#  filter(Status == "U")
+
+rmcorr(Tyear, Flower_count, Visits, apis_other_visitors.bee)
+
 #pivot longer and then geom_smooth()
 
 #do it again but with separate visitations
@@ -641,12 +724,22 @@ Tyear_quad_list <- apis_other_visitations_flower %>%
   crossing(., bee.type) %>%
   left_join(., apis_other_visitations_flower, by = c("Tyear", "Quad","flower","Start","bee.type","Status", "Year", "Transect")) %>%
   mutate_at(vars(visitation), ~replace(.,is.na(.),0))  %>%
-  filter(flower < 4000)
+  filter(flower < 4000) %>%
+  mutate(bee.type = ifelse(bee.type =="Nativebee", "Other", "Apis"))
 
 apis_other_visitations_flower.plot <-  ggplot(Tyear_quad_list, aes(x=flower, y = visitation, colour = bee.type)) +
   geom_point()+
   geom_smooth(method = 'lm') +
   facet_wrap(~Status)
+
+visits_all.bee <- Tyear_quad_list %>%
+  filter(bee.type == "Apis") %>%
+#  filter(Bee_type == "Other") %>%
+  filter(Status == "B")
+#  filter(Status == "M")
+#  filter(Status == "U")
+
+rmcorr(Tyear, visitation, flower, visits_all.bee)
 
 
 ##summarised averaged for transect
@@ -675,6 +768,70 @@ transect_visitations.plot <-  ggplot(transect_visitations, aes(x=flower, y = vis
 ```{r}
 
 #separate analysis just for salvia
+
+visits.salvia <- visits %>%
+  filter(Veg == "SALMEL") %>%
+  left_join(., transect_meta_wtransect, by = "Tyear") %>%
+  filter(Type_pollinator == "BEE") %>%
+  mutate(Bee_type = ifelse(Bee_type == "Apis", "Apis", "Other")) %>%
+  group_by(Tyear, Quad, Start, Bee_type) %>%
+  dplyr::summarise(visits = sum(Num)) %>%
+  filter(Quad != 'walk') %>%
+  mutate_all(~replace(., is.na(.),0)) %>%
+  filter(!Quad %in% c(2,6,46,38)) %>%
+  mutate(Tyear_quad = paste(Tyear, Quad, sep = "_"))
+
+##filtering salvia per quad
+quad_flower.salvia <- quad_flower %>%
+  filter (Species == "SALMEL") %>%
+  dplyr::select(., -c(Total, Average, SPECIAL)) %>%
+  mutate_all(~replace(., is.na(.),0)) 
+
+quad_flower.salvia <- quad_flower.salvia %>%
+  tidyr::gather(., key = "Quad", value = "count", X0, X5, X10, X15, X20, X25, X30,
+                X35, X40, X45) %>%
+  mutate(Quad = substring(Quad, 2, nchar(Quad))) %>%
+  filter(count >0) %>%
+  mutate(Tyear_quad = paste(Tyear, Quad, sep = "_"))
+
+#make a list of all the quads where salvia has flowers
+#fill <- quad_flower.salvia %>%
+#  filter(count >0) %>%
+#  mutate(Tyear_quad = paste(Tyear, Quad, sep = "_"))
+
+fill.crossing <- crossing(quad_flower.salvia$Tyear_quad, bee.type) %>%
+  dplyr::rename("Tyear_quad" = "quad_flower.salvia$Tyear_quad") %>%
+  mutate(Bee_type = ifelse(bee.type=="Honeybee", "Apis", "Other")) 
+
+Tyear_quad.meta <- visits.salvia %>%
+  dplyr::select(Tyear_quad, Tyear, Quad)
+
+visits_flower.salvia <- left_join(fill.crossing, visits.salvia, by = c("Tyear_quad", "Bee_type")) %>%
+  mutate(visits = ifelse(is.na(visits), 0, visits)) %>%
+  left_join(.,quad_flower.salvia, by = "Tyear_quad") %>%
+  dplyr::rename("Quad" = "Quad.y") %>%
+  dplyr::select(-Quad.x) %>%
+  dplyr::rename("Tyear" = "Tyear.y") %>%
+  dplyr::select(-Tyear.x) %>%
+  mutate(visitations = visits/count) %>%
+  left_join(., transect_meta, by = 'Tyear') %>%
+  filter(visits <500)
+
+visits.salvia.plot <- ggplot(data = visits_flower.salvia, aes(x = count, y = visits, colour = Bee_type)) +
+  geom_point()+
+  geom_smooth(method = 'lm') +
+  facet_wrap(~Status)
+
+visits_salvia.bee <- visits_flower.salvia %>%
+#  filter(Bee_type == "Apis") %>%
+  filter(Bee_type == "Other") %>%
+  filter(Status == "B")
+#  filter(Status == "M")
+#  filter(Status == "U")
+
+rmcorr(Tyear, visits, count, visits_salvia.bee)
+
+
 ```
 
 ```{r}
@@ -707,10 +864,7 @@ transect_visitations.plot <-  ggplot(transect_visitations, aes(x=flower, y = vis
 #visitations as a function of flower number, honeybees vs others
 
 
-#nneed help
 
-sp2 <- sp %>%
-  filter(substr(spCode, 1,1) == "A")
 ```
 
 
