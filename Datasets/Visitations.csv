@@ -1,921 +1,921 @@
 Transect,Quad,Year,Round,Date,Temp,Wspd,Start,Time,Veg,Num,Type_pollinator,Bee_type,Size,Long_pol_sp
-BD21,0,2021,1,18-Mar,,,9:10,,nothing,NA,NA,,,
-BD21,5,2021,1,18-Mar,,,9:30,,nothing,NA,NA,,,
-BD21,35,2021,1,18-Mar,,,9:55,,nothing,NA,NA,,,
-BD21,40,2021,1,18-Mar,,,10:20,,nothing,NA,NA,,,
-IRC23,10,2021,1,18-Mar,19,,12:40,12:34,EROCIC,1,BEE,Apis,,Apis mellifera
-IRC23,10,2021,1,18-Mar,,,12:40,12:35,CRYMUR,3,BEE,Native,10,Hyleus mesillae
-IRC23,10,2021,1,18-Mar,,,12:40,12:43,CRYMUR,2,DIP,,,diptera
-IRC23,15,2021,1,18-Mar,19,,13:05,nothing,nothing,NA,NA,,,
-IRC23,20,2021,1,18-Mar,19,,13:30,nothing,nothing,NA,NA,,,
-IRC23,15,2021,1,18-Mar,19,,14:00,nothing,nothing,NA,NA,,,
-IRC13,40,2021,1,19-Mar,14,,9:58,15:58,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,16,,10:20,13:54,PHAPAR,3,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,16,,10:20,19:26,PHAPAR,3,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,18,,11:37,0:00,PHAPAR,1,BEE,Native,5,nativebee
-IRC13,15,2021,1,19-Mar,18,,11:37,1:26,CRYMUR,1,DIP,,,Diptera
-IRC13,15,2021,1,19-Mar,18,,11:37,9:35,PHAPAR,4,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,18,,11:37,17:40,PHAPAR,3,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,18,,11:37,18:24,PHAPAR,4,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,18,,11:37,19:40,PHAPAR,5,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,21,,12:16,0:00,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,21,,12:16,0:00,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,21,,12:16,2:49,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,21,,12:16,3:58,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,21,,12:16,10:42,CRYMUR,1,BEE,Native,10,halictid?
-IRC13,15,2021,1,19-Mar,21,,12:16,16:02,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,21,,12:16,16:33,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,21,,12:16,16:33,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC13,15,2021,1,19-Mar,21,,12:16,17:21,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,1:20,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,2:15,PHAPAR,5,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,4:55,PHAPAR,2,LID,,,Bombyliidae
-IRC13,20,2021,1,19-Mar,21,,12:48,6:21,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,7:03,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,7:36,PHAPAR,3,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,,CRYMUR,1,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,8:57,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,8:58,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC13,20,2021,1,19-Mar,21,,12:48,12:25,PHAPAR,2,BEE,Apis,,Apis mellifera
-BKR07,walk,2021,1,22-Mar,,,8:50,,nothing,NA,NA,,,
-BKR07,walk,2021,1,22-Mar,,,9:05,,nothing,NA,NA,,,
-BKR07,walk,2021,1,22-Mar,,,9:15,,nothing,NA,NA,,,
-IRC01,15,2021,1,22-Mar,18,,12:58,3:56,NA,NA,HUM,,,Hummingbird
-IRC01,15,2021,1,22-Mar,18,,12:58,6:35,NA,NA,BEE,Apis,,Honeybee
-IRC01,15,2021,1,22-Mar,18,,12:58,9:20,NA,NA,BEE,Apis,,Honeybee
-IRC01,15,2021,1,22-Mar,18,,12:58,18:42,NA,NA,BEE,Native,5,Megachillid
-GYP01,25,2021,1,23-Mar,16,,10:56,nothing,nothing,NA,NA,,,
-GYP01,walk,2021,1,23-Mar,16,,10:40,nothing,nothing,NA,NA,,,
-GYP01,walk,2021,1,23-Mar,16,,10:25,nothing,nothing,NA,NA,,,
-GYP08,15,2021,1,23-Mar,16,,13:28,nothing,nothing,,NA,,,
-GYP08,30,2021,1,23-Mar,18,,13:48,19:36,SALMEL,2,BEE,Native,5,tiny native bee
-GYP08,walk,2021,1,23-Mar,,,14:10,,nothing,NA,NA,,,
-SS05,5,2021,1,25-Mar,14,,9:54,1:16,MIRLAE,NA,BEE,Apis,,Apis mellifera
-SS05,15,2021,1,25-Mar,14,,10:23,0:00,MIRLAE,1,BEE,Bombus,,Bombus californicus
-SS05,56,2021,1,25-Mar,14,,11:03,1:03,MIRLAE,NA,BEE,Apis,,Apis mellifera
-SS05,56,2021,1,25-Mar,14,,11:03,1:05,MIRLAE,NA,BEE,Apis,,Apis mellifera
-SS05,56,2021,1,25-Mar,14,,11:03,2:30,MIRLAE,2,BEE,Apis,,Apis mellifera
-SS05,56,2021,1,25-Mar,14,,11:03,11:39,MIRLAE,1,BEE,Apis,,Apis mellifera
-SS05,56,2021,1,25-Mar,14,,11:03,14:39,MIRLAE,NA,BEE,Bombus,,Bombus californicus
-SS05,56,2021,1,25-Mar,14,,11:03,16:02,MIRLAE,2,BEE,Apis,,Apis mellifera
-SS05,56,2021,1,25-Mar,14,,11:03,,MIRLAE,11,BEE,Apis,,Apis mellifera
-SS05,35,2021,1,25-Mar,15,,11:26,0:00,MIRLAE,NA,BEE,Apis,,Apis mellifera
-SS05,35,2021,1,25-Mar,15,,11:26,1:28,MIRLAE,,BEE,Apis,,Apis mellifera
-SS05,35,2021,1,25-Mar,15,,11:26,1:46,MIRLAE,,BEE,Apis,,Apis mellifera
-SS05,35,2021,1,25-Mar,15,,11:26,1:56,MIRLAE,2,BEE,Apis,,Apis mellifera
-SS05,35,2021,1,25-Mar,15,,11:26,,MIRLAE,NA,BEE,Apis,,Apis mellifera
-SS05,35,2021,1,25-Mar,15,,11:26,4:54,MIRLAE,2,BEE,Apis,,Apis mellifera
-SS05,35,2021,1,25-Mar,15,,11:26,4:54,MIRLAE,NA,BEE,Native,20,Xylocopa californica
-SS05,35,2021,1,25-Mar,15,,11:26,12:15,MIRLAE,1,BEE,Native,20,Xylocopa californica
-BKR10,45,2021,1,25-Mar,,,12:45,,nothing,NA,NA,,,
-BKR10,walk,2021,1,25-Mar,,,13:03,,nothing,NA,NA,,,
-BKR10,walk,2021,1,25-Mar,,,13:15,,nothing,NA,NA,,,
-I14,25,2021,1,26-Mar,15,,10:25,19:50,GILANG,22,BEE,Apis,,Apis mellifera
-I14,40,2021,1,26-Mar,13,,9:00,nothing,nothing,0,NA,,,
-I14,25,2021,1,26-Mar,13,,9:25,nothing,nothing,0,NA,,,
-I14,10,2021,1,26-Mar,15,,10:11,10:15,GILANG,2,BEE,Apis,,Apis mellifera
-I14,10,2021,1,26-Mar,15,,10:11,10:16,GILANG,2,BEE,Apis,,Apis mellifera
-I14,10,2021,1,26-Mar,15,,10:11,10:19,EROCIC,1,BEE,Apis,,Apis mellifera
-I14,10,2021,1,26-Mar,15,,10:11,10:26,EROCIC,3,BEE,Apis,,Apis mellifera
-I14,10,2021,1,26-Mar,15,,10:11,10:27,EROCIC,1,BEE,Apis,,Apis mellifera
-I14,10,2021,1,26-Mar,15,,10:11,10:29,GILANG,1,BEE,Apis,,Apis mellifera
-I14,10,2021,1,26-Mar,15,,10:11,10:30,GILANG,2,BEE,Apis,,Apis mellifera
-I14,40,2021,1,26-Mar,15,,10:38,10:56,GILANG,3,BEE,Apis,,Apis Mellifera
-I14,40,2021,1,26-Mar,15,,10:38,10:57,GILANG,5,LID,,,Bombillid
-I15,20,2021,1,26-Mar,16,,13:23,5:20,CALCIL,32,BEE,Apis,,Apis mellifera
-I15,20,2021,1,26-Mar,16,,13:23,11:15,CALCIL,22,BEE,Apis,,Apis mellifera
-I15,20,2021,1,26-Mar,16,,13:23,13:03,CALCIL,4,BEE,Apis,,Apis mellifera
-I15,20,2021,1,26-Mar,16,,13:23,14:15,CALCIL,4,BEE,Apis,,Apis mellifera
-I15,20,2021,1,26-Mar,16,,13:23,15:33,CALCIL,1,LID,,,Bombillid
-I15,20,2021,1,26-Mar,16,,13:23,19:37,CALCIL,4,BEE,Apis,,Apis mellifera
-I15,30,2021,1,26-Mar,16,,13:50,12:26,GILANG,1,DIP,,,Diptera (mosquito)
-I15,30,2021,1,26-Mar,16,,13:20,13:38,GILANG,1,DIP,,,sm fly
-I15,20,2021,1,26-Mar,16,,13:45,13:46,CALCIL,10,BEE,Apis,,Apis mellifera
-I15,20,2021,1,26-Mar,16,,13:45,13:48,CALCIL,6,BEE,Apis,,Apis mellifera
-I15,20,2021,1,26-Mar,16,,13:45,13:53,CALCIL,2,SYP,,,Syrphid fly
-I15,20,2021,1,26-Mar,16,,13:45,14:00,CALCIL,17,BEE,Apis,,Apis mellifera
-I15,20,2021,1,26-Mar,16,,13:45,14:04,CALCIL,3,BEE,Apis,,Apis mellifera
-GYP02,30,2021,1,29-Mar,,,10:30,nothing,nothing,,NA,,,
-GYP02,30,2021,1,29-Mar,,,10:54,4:56,KECANT,2,BEE,Native,5,Ceratina 1
-GYP02,30,2021,1,29-Mar,,,10:54,,EROCIC,1,BEE,Native,5,cont.
-GYP02,30,2021,1,29-Mar,,,10:54,9:44,KECANT,2,BEE,Native,5,Ceratina 1
-SS03,0,2021,1,30-Mar,16,,9:55,nothing,nothing,,NA,,,
-SS03,20,2021,1,30-Mar,18,,10:40,nothing,nothing,,NA,,,
-SS03,20,2021,1,30-Mar,18,,10:40,15:23,EROCIC,NA,BEE,Native,10,Hylaeus
-SS03,45,2021,1,30-Mar,19,,11:10,nothing,nothing,,NA,,,
-SS03,20,2021,1,30-Mar,19,,11:32,14:14,DICCAP,NA,BEE,Bombus,,Bombus californicus
-SS03,45,2021,1,30-Mar,21,,13:08,0:15,CRYMUR,2,DIP,,,Diptera spp.
-SS03,45,2021,1,30-Mar,21,,13:28,1:43,CRYMUR,1,DIP,,,Diptera
-SS03,45,2021,1,30-Mar,21,,13:28,9:34,CRYMUR,2,BEE,Native,5,Native bee
-SS03,45,2021,1,30-Mar,21,,13:28,10:38,CRYMUR,1,DIP,,,Diptera
-I40,20,2021,1,31-Mar,,,10:50,nothing,nothing,,NA,,,
-I40,20,2021,1,31-Mar,,,9:23,nothing,nothing,,NA,,,
-I40,35,2021,1,31-Mar,,,9:50,nothing,nothing,,NA,,,
-I40,45,2021,1,31-Mar,,,10:12,nothing,nothing,,NA,,,
-I40,45,2021,1,31-Mar,,,10:33,nothing,nothing,,NA,,,
-I40,35,2021,1,31-Mar,,,10:55,nothing,nothing,,NA,,,
-I08,45,2021,1,31-Mar,,,12:41,nothing,nothing,,NA,,,
-I08,45,2021,1,31-Mar,,,13:02,nothing,nothing,,NA,,,
-I08,40,2021,1,31-Mar,,,12:40,nothing,nothing,,NA,,,
-I08,40,2021,1,31-Mar,,,13:04,nothing,nothing,,NA,,,
-GYP09,40,2021,1,1-Apr,,,9:37,6:26,CALMAC,NA,BEE,Bombus,,Bombus californicus
-GYP09,40,2021,1,1-Apr,,,9:37,10:58,SALMEL,NA,BEE,Bombus,,Bombus californicus
-GYP09,40,2021,1,1-Apr,,,9:37,12:40,CALMAC,NA,BEE,Bombus,,Bombus californicus
-GYP09,30,2021,1,1-Apr,,,10:12,2:32,SALMEL,NA,BEE,Bombus,,Bombus spp
-GYP09,30,2021,1,1-Apr,,,10:12,5:58,SALMEL,NA,BEE,Bombus,,Bombus californicus
-GYP09,30,2021,1,1-Apr,,,10:12,9:40,SALMEL,NA,BEE,Native,10,Native bee
-GYP09,30,2021,1,1-Apr,,,10:12,11:50,SALMEL,NA,BEE,Native,10,Native bee
-GYP09,30,2021,1,1-Apr,,,10:12,14:42,SALMEL,5,BEE,Bombus,,Bombus californicus
-GYP09,30,2021,1,1-Apr,,,10:12,18:32,SALMEL,NA,BEE,Native,5,Xylocopa
-GYP09,0,2021,1,1-Apr,,,11:13,0:00,NA,NA,LID,,,Bombyllid
-GYP09,0,2021,1,1-Apr,,,11:13,10:32,PHOAUR,2,BEE,Native,10,Native bee
-GYP09,0,2021,1,1-Apr,,,11:13,14:25,PHOAUR,NA,BEE,Native,10,""""
-GYP09,0,2021,1,1-Apr,,,11:13,15:06,PHOAUR,NA,BEE,Native,5,Native bee
-GYP09,0,2021,1,1-Apr,,,11:13,19:02,PHOAUR,NA,BEE,Native,5,Native bee
-GYP09,0,2021,1,1-Apr,,,11:13,19:34,PHOAUR,3,BEE,Native,10,Native bee
-GYP09,40,2021,1,1-Apr,,,12:00,nothing,nothing,,NA,,,
-GYP09,30,2021,1,1-Apr,,,12:21,nothing,nothing,,NA,,,
-GYP09,30,2021,1,1-Apr,,,12:21,4:05,SALMEL,NA,BEE,Native,10,Native bee
-GYP09,30,2021,1,1-Apr,,,12:21,4:40,SALMEL,NA,BEE,Native,10,Native bee
-GYP09,30,2021,1,1-Apr,,,12:21,5:02,SALMEL,NA,BEE,Native,10,Native bee
-GYP09,30,2021,1,1-Apr,,,12:21,8:23,SALMEL,NA,BEE,Native,5,Native bee
-GYP09,30,2021,1,1-Apr,,,12:21,8:25,SALMEL,NA,BEE,Bombus,,Bombus
-GYP09,30,2021,1,1-Apr,,,12:21,8:30,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP09,30,2021,1,1-Apr,,,12:21,9:32,SALMEL,1,BEE,Native,10,Native bee
-GYP09,30,2021,1,1-Apr,,,12:21,13:48,SALMEL,6,BEE,Native,10,Native bee
-GYP09,30,2021,1,1-Apr,,,12:21,17:25,SALMEL,NA,BEE,Native,10,Native bee
-GYP09,30,2021,1,1-Apr,,,12:21,16:11,SALMEL,2,BEE,Bombus,,Bombus
-GYP09,30,2021,1,1-Apr,,,12:21,17:32,SALMEL,1,BEE,Native,10,Native bee
-I02,0,2021,1,1-Apr,33,,14:29,4:32,HIRINC,NA,BEE,Apis,,Apis mellifera
-I02,0,2021,1,1-Apr,33,,14:29,9:36,HIRINC,2,LID,,,Bombyllid
-I02,0,2021,1,1-Apr,33,,14:29,11:47,HIRINC,5,LID,,,Bombyllid
-I02,0,2021,1,1-Apr,33,,14:29,12:08,HIRINC,2,LID,,,Bombyllid
-I02,0,2021,1,1-Apr,33,,14:29,16:34,HIRINC,2,LID,,,Bombyllid
-I02,20,2021,1,1-Apr,31,,14:50,2:29,HIRINC,NA,LID,,,Bombyllid
-I02,45,2021,1,1-Apr,32,,15:20,,HESWHI,NA,BEE,Apis,,Apis mellifera
-I02,45,2021,1,1-Apr,31,,15:40,5:03,SISBEL,NA,BEE,Native,20,Xylocopa
-I02,20,2021,1,1-Apr,30,,16:01,nothing,nothing,,NA,,,
-I02,0,2021,1,1-Apr,29,,16:23,1:03,HIRINC,2,BEE,Bombus,,Bombus
-IRC08,5,2021,1,2-Apr,20,,10:53,5:05,EROCIC,NA,SYP,,,Syphrid fly
-IRC08,5,2021,1,2-Apr,20,,10:53,,EROCIC,NA,BEE,Apis,,Apis mellifera
-IRC08,5,2021,1,2-Apr,20,,10:53,,PHAPAR,NA,DIP,,,Diptera
-IRC08,5,2021,1,2-Apr,20,,10:53,,PHAPAR,NA,BEE,Bombus,,Bombus
-IRC08,5,2021,1,2-Apr,20,,10:53,,MIRLAE,NA,BEE,Bombus,,Bombus
-IRC08,25,2021,1,2-Apr,21,,11:14,0:00,EUCCHR,NA,BEE,Apis,,Apis mellifera
-IRC08,25,2021,1,2-Apr,21,,11:14,4:32,EUCCHR,2,BEE,Native,5,Native bee
-IRC08,25,2021,1,2-Apr,21,,11:14,5:14,EUCCHR,6,BEE,Apis,,Apis mellifera
-IRC08,25,2021,1,2-Apr,21,,11:14,6:03,EUCCHR,NA,BEE,Apis,,Apis mellifera
-IRC08,25,2021,1,2-Apr,21,,11:14,6:10,EUCCHR,NA,BEE,Apis,,Apis mellifera
-IRC08,25,2021,1,2-Apr,21,,11:14,17:48,EUCCHR,1,SYP,,,Syphrid fly
-IRC08,40,2021,1,2-Apr,22,,11:36,7:32,EUCCHR,2,BEE,Native,5,Native bee
-IRC08,40,2021,1,2-Apr,22,,11:36,16:47,EUCCHR,1,BEE,Native,5,Native bee
-IRC08,40,2021,1,2-Apr,22,,12:10,nothing,nothing,,NA,,,
-IRC08,25,2021,1,2-Apr,23,,12:51,2:26,EUCCHR,NA,BEE,Native,5,Native bee
-IRC08,25,2021,1,2-Apr,23,,12:51,10:30,EUCCHR,NA,LID,,,Bombyllid
-IRC08,25,2021,1,2-Apr,23,,12:51,11:50,EUCCHR,1,BEE,Native,5,Native bee
-IRC08,25,2021,1,2-Apr,23,,12:51,16:20,EUCCHR,2,BEE,Native,5,Native bee
-IRC08,25,2021,1,2-Apr,23,,12:51,19:46,EUCCHR,1,BEE,Native,5,Native bee
-IRC08,25,2021,1,2-Apr,23,,12:51,19:48,EUCCHR,2,BEE,Native,5,Native bee
-IRC08,5,2021,1,2-Apr,22,,13:44,11:36,PHAPAR,NA,BEE,Bombus,,Bombus
-IRC23,10,2021,2,5-Apr,16,,9:28,0:00,PHAPAR,NA,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,16,,9:28,5:20,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,16,,9:28,5:26,EROCIC,5,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,16,,9:28,7:39,PHAPAR,3,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,16,,9:28,9:36,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,16,,9:28,9:40,EROCIC,2,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,16,,9:28,10:26,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,16,,9:28,12:52,PHAPAR,NA,HUM,,,Hummingbird
-IRC23,10,2021,2,5-Apr,16,,9:28,15:04,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,16,,9:28,14:15,EROCIC,1,SYP,,,Syphrid fly
-IRC23,20,2021,2,5-Apr,16,,10:34,0:21,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,1:12,MIRLAE,1,BEE,Native,10,Native bee
-IRC23,20,2021,2,5-Apr,16,,10:34,,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,2:09,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,3:24,MIRLAE,NA,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,3:55,MIRLAE,2,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,4:10,PHAPAR,NA,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,5:28,MIRLAE,7,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,7:19,PHAPAR,2,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,8:58,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,9:25,MIRLAE,2,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,14:32,MIRLAE,5,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,14:42,MIRLAE,3,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,16,,10:34,NA,DICCAP,NA,BEE,Native,10,xylocopa
-IRC23,40,2021,2,5-Apr,19,,11:24,NA,EROCIC,NA,BEE,Apis,,Apis mellifera
-IRC23,40,2021,2,5-Apr,19,,11:24,NA,CRYMUR,NA,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,19,,12:13,NA,PHAPAR,NA,BEE,Apis,,Apis mellifera
-IRC23,20,2021,2,5-Apr,19,,12:13,9:03,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,20,,13:00,0:00,PHAPAR,1,BEE,Native,5,Native bee spp.
-IRC23,10,2021,2,5-Apr,20,,13:00,NA,PHAPAR,NA,LID,,,Bombyllid
-IRC23,10,2021,2,5-Apr,20,,13:00,6:40,PHAPAR,1,BEE,Apis,,Apis mellifera
-IRC23,10,2021,2,5-Apr,20,,13:00,16:32,PHAPAR,1,BEE,Apis,,Apis mellifera
-BD21,5,2021,2,5-Apr,20,,15:20,9:26,SALMEL,NA,BEE,Bombus,,Bombus
-BD21,5,2021,2,5-Apr,20,,15:20,10:05,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,5,2021,2,5-Apr,20,,15:20,12:11,SALMEL,NA,BEE,Native,10,Native bee spp.
-BD21,35,2021,2,5-Apr,20,,16:02,nothing,nothing,,NA,,,
-IRC01,35,2021,2,6-Apr,20,,16:02,NA,EUCCHR,NA,BEE,Apis,,Apis mellifera
-IRC01,35,2021,2,6-Apr,20,,16:02,NA,CLAPAR,NA,BEE,Apis,,Apis mellifera
-IRC01,35,2021,2,6-Apr,18,,10:49,2:11,EROCIC,NA,BEE,Apis,,Apis mellifera
-IRC01,20,2021,2,6-Apr,18,,11:40,11:00,EUCCHR,NA,BEE,Apis,,Apis mellifera
-IRC01,20,2021,2,6-Apr,18,,11:40,,EUCCHR,NA,SYP,,,Syphrid fly
-IRC01,20,2021,2,6-Apr,18,,11:40,,EUCCHR,NA,SYP,,,Syphrid fly
-IRC01,20,2021,2,6-Apr,18,,11:40,,EROCIC,NA,SYP,,,Syphrid fly
-IRC01,20,2021,2,6-Apr,18,,11:40,,EUCCHR,NA,BEE,Apis,,Apis mellifera
-IRC01,20,2021,2,6-Apr,18,,11:40,,EUCCHR,NA,LID,,,Bombyllid
-IRC01,20,2021,2,6-Apr,18,,11:40,,EUCCHR,NA,BEE,Native,5,Native bee spp.
-IRC01,10,2021,2,6-Apr,19,,11:31,,EUCCHR,NA,BEE,Apis,,Apis mellifera
-IRC01,10,2021,2,6-Apr,19,,11:31,4:53,EROCIC,NA,BEE,Apis,,Apis mellifera
-IRC01,20,2021,2,6-Apr,20,,12:00,9:10,EUCCHR,NA,BEE,Apis,,Apis mellifera
-GYP08,30,2021,2,7-Apr,15,,9:03,NA,SALMEL,NA,BEE,Bombus,,Bombus
-GYP08,30,2021,2,7-Apr,15,,9:03,NA,LASCAL,NA,LID,,,Bombyllid
-GYP08,30,2021,2,7-Apr,15,,9:03,NA,LASCAL,NA,DIP,,,Diptera
-GYP08,40,2021,2,7-Apr,16,,9:36,19:10,SOLXAN,2,LID,,,Bombyllid
-GYP08,walk,2021,2,7-Apr,,,10:40,,SISBEL,NA,BEE,Native,10,Halictid bee
-GYP08,walk,2021,2,7-Apr,,,10:40,,SISBEL,NA,BEE,Native,5,Adenid bee
-GYP08,40,2021,2,7-Apr,,,9:00,nothing,nothing,,NA,,,
-GYP08,25,2021,2,7-Apr,,,9:26,9:34,SALMEL,1,BEE,Apis,,Apis mellifera
-GYP08,25,2021,2,7-Apr,,,9:26,9:36,SALMEL,9,LID,,,Bombyllid
-GYP08,25,2021,2,7-Apr,,,9:26,9:39,SALMEL,1,LID,,,Bombyllid
-GYP08,30,2021,2,7-Apr,,,9:48,9:59,LASCAL,1,DIP,,,tachinid? fly
-GYP08,25,2021,2,7-Apr,,,10:10,10:19,SALMEL,10,BEE,Bombus,,Bombus
-GYP08,25,2021,2,7-Apr,,,10:10,10:21,SALMEL,1,BEE,Apis,,Apis mellifera
-GYP01,45,2021,2,7-Apr,,,12:33,12:45,GILANG,1,LID,,,Bombyllid
-GYP01,45,2021,2,7-Apr,,,12:33,12:45,EUCCHR,2,BEE,Native,5,Native bee spp.
-GYP01,25,2021,2,7-Apr,,,12:57,13:02,CALCIL,2,BEE,Native,10,Andrenidae
-GYP01,25,2021,2,7-Apr,,,12:57,13:07,CALCIL,8,BEE,Native,5,Native bee spp.
-GYP01,25,2021,2,7-Apr,,,12:57,13:09,CALCIL,4,BEE,Native,5,Native bee spp.
-GYP01,25,2021,2,7-Apr,,,12:57,13:12,CALCIL,2,BEE,Native,5,Native bee spp.
-GYP01,25,2021,2,7-Apr,,,12:57,13:16,CALCIL,4,BEE,Native,10,Adrenidae
-GYP01,5,2021,2,7-Apr,,,13:42,13:47,CALCIL,2,BEE,Native,5,Native bee spp.
-GYP01,25,2021,2,7-Apr,,,14:06,14:11,CALCIL,3,BEE,Native,5,Native bee spp.
-GYP01,25,2021,2,7-Apr,,,14:06,14:13,CALCIL,6,BEE,Native,5,Native bee spp.
-GYP01,25,2021,2,7-Apr,,,14:06,14:15,CALCIL,2,BEE,Native,5,Native bee spp.
-GYP01,25,2021,2,7-Apr,,,14:06,14:16,CALCIL,5,LID,,,Bombyllid
-GYP01,45,2021,2,7-Apr,,,14:29,14:39,GILANG,4,BEE,Native,5,Native bee spp.
-GYP01,45,2021,2,7-Apr,,,14:29,14:32,GILANG,2,LID,,,Bombyllid
-GYP01,45,2021,2,7-Apr,,,14:29,14:33,GILANG,1,LID,,,Bombyllid
-GYP01,45,2021,2,7-Apr,,,14:29,,EUCCHR,4,LID,,,Bombyllid
-GYP01,45,2021,2,7-Apr,,,14:29,,GILANG,5,LID,,,Bombyllid
-GYP01,45,2021,2,7-Apr,,,14:29,,EUCCHR,2,LID,,,Bombyllid
-GYP01,45,2021,2,7-Apr,,,14:29,14:44,EUCCHR,1,BEE,Native,5,Native bee spp.
-GYP01,45,2021,2,7-Apr,,,14:29,14:45,GILANG,1,BEE,Native,5,Native bee spp.
-GYP01,45,2021,2,7-Apr,,,14:29,,EUCCHR,1,BEE,Native,5,Native bee spp.
-GYP01,45,2021,2,7-Apr,,,14:29,,GILANG,1,LID,,,Bombyllid
-BKR08,5,2021,2,8-Apr,17,,9:10,,nothing,,NA,,,
-BKR08,0,2021,2,8-Apr,17,,9:30,,nothing,,NA,,,
-BKR08,5,2021,2,8-Apr,18,,9:52,,nothing,,NA,,,
-BKR08,0,2021,2,8-Apr,19,,10:13,,nothing,,NA,,,
-SS05,10,2021,2,8-Apr,21,,12:04,4:03,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS05,10,2021,2,8-Apr,21,,12:04,9:10,BRATOU,NA,BEE,Apis,,Apis mellifera
-SS05,10,2021,2,8-Apr,21,,12:04,10:05,BRATOU,3,BEE,Apis,,Apis mellifera
-SS05,10,2021,2,8-Apr,21,,12:04,11:32,BRATOU,5,BEE,Apis,,Apis mellifera
-SS05,20,2021,2,8-Apr,20,,12:33,4:32,CRYMUR,NA,BEE,Native,5,Native bee spp.
-SS05,20,2021,2,8-Apr,20,,12:33,6:10,CRYMUR,2,BEE,Native,5,Native bee spp.
-SS05,20,2021,2,8-Apr,20,,12:33,9:15,CRYMUR,NA,LID,,,Bombyllid
-SS05,20,2021,2,8-Apr,20,,12:33,10:52,CRYMUR,1,BEE,Native,5,Native bee spp.
-SS05,20,2021,2,8-Apr,20,,12:33,16:29,CRYMUR,NA,BEE,Native,5,Native bee spp.
-SS05,45,2021,2,8-Apr,21,,13:01,17:52,MIRLAE,NA,BEE,Native,5,Xylocopa
-SS05,45,2021,2,8-Apr,21,,13:01,19:03,CASEXE,NA,HUM,,,Hummingbird
-SS05,45,2021,2,8-Apr,21,,13:21,7:28,DICCAP,NA,BEE,Apis,,Apis mellifera
-SS05,45,2021,2,8-Apr,21,,13:21,16:12,CRYMUR,9,BEE,Apis,,Apis mellifera
-SS05,20,2021,2,8-Apr,21,,13:42,0:24,CRYMUR,20,BEE,Apis,,Apis mellifera
-SS05,20,2021,2,8-Apr,21,,13:42,0:24,CRYMUR,2,BEE,Native,5,Native bee spp.
-SS05,10,2021,2,8-Apr,22,,14:04,4:00,MIRLAE,NA,BEE,Apis,,Apis mellifera
-SS05,10,2021,2,8-Apr,22,,14:04,4:00,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS05,10,2021,2,8-Apr,22,,14:04,5:53,BRATOU,2,BEE,Apis,,Apis mellifera
-SS05,10,2021,2,8-Apr,22,,14:04,6:32,DICCAP,2,BEE,Apis,,Apis mellifera
-SS05,10,2021,2,8-Apr,22,,14:04,,MIRLAE,NA,BEE,Bombus,,Bombus
-I15,25,2021,2,15-Apr,,,10:04,NA,MALSAX,NA,BEE,Native,10,Native bee
-I15,20,2021,2,15-Apr,,,10:25,nothing,nothing,,NA,,,
-I15,15,2021,2,15-Apr,,,10:45,NA,EROCIC,NA,BEE,Apis,,Apis mellifera
-I15,15,2021,2,15-Apr,,,10:45,NA,BRANIG,,BEE,Native,10,Native bee
-I14,5,2021,2,15-Apr,,,12:24,NA,HIRINC,NA,LID,,,Bombyllid
-I14,5,2021,2,15-Apr,,,12:24,15:39,HIRINC,2,LID,,,Bombyllid
-I14,15,2021,2,15-Apr,,,12:45,10:09,HIRINC,NA,BEE,Apis,,Apis mellifera
-I14,15,2021,2,15-Apr,,,12:45,14:39,HIRINC,NA,FLY,,,butterfly
-I14,30,2021,2,15-Apr,,,13:07,nothing,nothing,,NA,,,
-I14,40,2021,2,15-Apr,,,13:28,0:00,GILANG,2,BEE,Native,5,Native bee spp.
-I14,40,2021,2,15-Apr,,,13:28,4:03,GILANG,2,NA,,,
-I14,40,2021,2,15-Apr,,,13:28,,HIRINC,1,BEE,Native,5,Native bee
-I14,40,2021,2,15-Apr,,,13:28,5:30,HIRINC,NA,BEE,Native,5,Native bee
-I14,40,2021,2,15-Apr,,,13:28,8:09,HIRINC,NA,BEE,Apis,,Apis mellifera
-I14,45,2021,2,15-Apr,,,13:49,nothing,nothing,,NA,,,
-I40,40,2021,2,16-Apr,,,9:33,nothing,nothing,,NA,,,
-I40,40,2021,2,16-Apr,,,9:55,9:56,ERICAL,12,BEE,Apis,,Apis mellifera
-I40,40,2021,2,16-Apr,,,9:55,9:57,ERICAL,4,BEE,Bombus,,Bombus
-I40,40,2021,2,16-Apr,,,9:55,10:02,ERICAL,6,BEE,Bombus,,Bombus
-I40,40,2021,2,16-Apr,,,9:55,10:08,ERICAL,3,BEE,Apis,,Apis mellifera
-I40,40,2021,2,16-Apr,,,9:55,10:13,ERICAL,1,BEE,Bombus,,Bombus
-I40,20,2021,2,16-Apr,,,10:18,10:31,ERICAL,3,BEE,Bombus,,Bombus
-I40,15,2021,2,16-Apr,,,10:40,10:48,GILANG,1,BEE,Bombus,,Bombus
-I40,15,2021,2,16-Apr,,,10:40,,EUCCHR,3,LID,,,Bombyllid
-I40,10,2021,2,16-Apr,,,11:09,11:16,GILANG,1,LID,,,Bombyllid
-I40,5,2021,2,16-Apr,,,11:24,nothing,nothing,,NA,,,
-I20,46,2021,2,16-Apr,,,14:03,14:03,SALMEL,NA,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:05,SALMEL,35,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:08,SALMEL,38,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:13,SALMEL,NA,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:14,SALMEL,2,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:15,SALMEL,NA,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:16,SALMEL,NA,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:16,SALMEL,NA,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:17,SALMEL,NA,BEE,Bombus,,Bombus
-I20,46,2021,2,16-Apr,,,14:03,14:17,SALMEL,NA,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:19,SALMEL,7,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:20,SALMEL,17,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:21,SALMEL,5,BEE,Apis,,Apis mellifera
-I20,46,2021,2,16-Apr,,,14:03,14:22,SALMEL,8,BEE,Apis,,Apis mellifera
-I20,5,2021,2,16-Apr,,,14:10,nothing,nothing,,NA,,,
-GYP02,45,2021,2,19-Apr,,,9:12,2:03,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP02,45,2021,2,19-Apr,,,9:12,19:01,SCRCAL,NA,BEE,Apis,,Apis mellifera
-GYP02,30,2021,2,19-Apr,,,9:40,nothing,nothing,,NA,,,
-GYP02,0,2021,2,19-Apr,,,10:02,0:00,ERICAL,4,LID,,,Bombyllid
-GYP02,0,2021,2,19-Apr,,,10:02,0:12,ERICAL,1,LID,,,Bombyllid
-GYP02,0,2021,2,19-Apr,,,10:02,0:15,ERICAL,1,BEE,Native,10,Osmia
-GYP02,0,2021,2,19-Apr,,,10:02,3:32,ERICAL,2,LID,,,Bombyllid
-GYP02,0,2021,2,19-Apr,,,10:02,6:42,ERICAL,2,BEE,Bombus,,Bombus
-GYP02,0,2021,2,19-Apr,,,10:02,6:55,ERICAL,2,LID,,,Bombyllid
-GYP02,0,2021,2,19-Apr,,,10:02,6:57,ERICAL,1,BEE,Native,5,Tiny black ant native bee
-GYP02,0,2021,2,19-Apr,,,10:02,9:50,ERICAL,NA,BEE,Native,10,Anthophorine bee
-GYP02,0,2021,2,19-Apr,,,10:02,10:05,ERICAL,2,BEE,Native,10,Anthophorine bee
-GYP02,0,2021,2,19-Apr,,,10:02,10:12,ERICAL,1,BEE,Native,5,Native bee spp.
-GYP02,0,2021,2,19-Apr,,,10:02,11:05,ERICAL,1,BEE,Native,5,Tiny black native bee
-GYP02,0,2021,2,19-Apr,,,10:02,13:00,ERICAL,3,HUM,,,Hummingbird
-GYP02,0,2021,2,19-Apr,,,10:02,15:15,ERICAL,15,BEE,Apis,,Apis mellifera
-GYP02,0,2021,2,19-Apr,,,10:02,19:42,ERICAL,2,BEE,Native,5,"Native bee, fuzz thorax, black with thin white stripes"
-GYP02,0,2021,2,19-Apr,,,10:02,19:50,ERICAL,1,BEE,Native,5,"Native bee, tiny, skinny, shiny, no markings on face"
-GYP02,0,2021,2,19-Apr,,,10:02,19:55,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP04,0,2021,2,19-Apr,,,11:40,0:10,ERICAL,NA,BEE,Native,10,Native bee (photo)
-GYP04,0,2021,2,19-Apr,,,11:40,0:21,ERICAL,NA,BEE,Apis,,Apis mellifera
-GYP04,0,2021,2,19-Apr,,,11:40,1:15,ERICAL,12,BEE,Native,10,Native bee (photo - same as above)
-GYP04,0,2021,2,19-Apr,,,11:40,1:21,ERICAL,2,BEE,Apis,,Apis mellifera
-GYP04,0,2021,2,19-Apr,,,11:40,1:23,ERICAL,2,BEE,Native,5,"Tiny native bee, scopae, <1cm, thorax yellow striped"
-GYP04,0,2021,2,19-Apr,,,11:40,2:21,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP04,0,2021,2,19-Apr,,,11:40,9:32,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP04,0,2021,2,19-Apr,,,11:40,9:33,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP04,0,2021,2,19-Apr,,,11:40,11:56,ERICAL,5,BEE,Apis,,Apis mellifera
-GYP04,0,2021,2,19-Apr,,,11:40,12:10,ERICAL,NA,BEE,Apis,,Apis mellifera
-GYP04,0,2021,2,19-Apr,,,11:40,12:12,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP04,40,2021,2,19-Apr,,,12:28,0:00,SALMEL,1,BEE,Apis,,Apis mellifera
-GYP04,40,2021,2,19-Apr,,,12:28,4:38,SALMEL,3,BEE,Apis,,Apis mellifera
-GYP04,40,2021,2,19-Apr,,,12:28,5:21,SALMEL,4,BEE,Apis,,Apis mellifera
-GYP04,40,2021,2,19-Apr,,,12:28,5:46,ERICAL,1,BEE,Native,5,Tiny ant native bee
-GYP04,40,2021,2,19-Apr,,,12:28,8:32,SALMEL,5,BEE,Apis,,Apis mellifera
-GYP04,40,2021,2,19-Apr,,,12:28,8:35,KECANT,1,BEE,Native,5,Small black native bee
-GYP04,40,2021,2,19-Apr,,,12:28,9:10,KECANT,2,BEE,Native,10,Native bee (video)
-GYP04,40,2021,2,19-Apr,,,12:28,11:28,SALMEL,3,BEE,Apis,,Apis mellifera
-GYP04,40,2021,2,19-Apr,,,12:28,13:30,KECANT,1,BEE,Native,10,Native bee (video - same as above)
-GYP04,40,2021,2,19-Apr,,,12:28,15:48,KECANT,1,BEE,Native,10,Native bee (video - same as above)
-GYP04,40,2021,2,19-Apr,,,12:28,17:02,ERICAL,NA,BEE,Apis,,Apis mellifera
-GYP04,40,2021,2,19-Apr,,,12:28,17:32,SALMEL,2,BEE,Apis,,Apis mellifera
-GYP04,25,2021,2,19-Apr,,,13:15,0:00,SALMEL,4,BEE,Apis,,Apis mellifera
-GYP04,25,2021,2,19-Apr,,,13:15,0:00,SALMEL,5,BEE,Apis,,Apis mellifera
-GYP04,25,2021,2,19-Apr,,,13:15,0:00,SALMEL,1,LID,,,Bombyllid
-GYP04,25,2021,2,19-Apr,,,13:15,0:32,SALMEL,1,BEE,Native,5,Native bee spp.
-GYP04,25,2021,2,19-Apr,,,13:15,9:26,SALMEL,1,BEE,Native,5,Tiny black native bee
-GYP04,25,2021,2,19-Apr,,,13:15,11:32,SALMEL,2,BEE,Native,5,Tiny black native bee
-GYP04,25,2021,2,19-Apr,,,13:15,12:21,SALMEL,2,BEE,Native,5,Tiny black native bee
-GYP04,25,2021,2,19-Apr,,,13:15,16:12,SALMEL,6,BEE,Apis,,Apis mellifera
-GYP04,25,2021,2,19-Apr,,,13:15,18:12,SALMEL,10,BEE,Apis,,Apis mellifera
-GYP04,20,2021,2,19-Apr,,,13:43,0:58,SALMEL,3,BEE,Apis,,Apis mellifera
-GYP04,20,2021,2,19-Apr,,,13:43,2:38,ERICAL,NA,BEE,Native,5,Video bee (seen in GYP-02 too)
-GYP04,20,2021,2,19-Apr,,,13:43,3:20,SALMEL,2,BEE,Native,5,Eucera
-GYP04,20,2021,2,19-Apr,,,13:43,5:18,SALMEL,2,BEE,Native,5,Tiny solitary bee
-GYP04,20,2021,2,19-Apr,,,13:43,5:22,SALMEL,1,BEE,Native,5,Tiny solitary bee
-GYP04,20,2021,2,19-Apr,,,13:43,6:02,SALMEL,1,BEE,Native,5,Tiny solitary bee
-GYP04,20,2021,2,19-Apr,,,13:43,6:04,SALMEL,4,BEE,Native,10,Hyleus
-GYP04,20,2021,2,19-Apr,,,13:43,6:10,SALMEL,3,BEE,Apis,,Apis mellifera
-GYP04,20,2021,2,19-Apr,,,13:43,8:25,SALMEL,2,BEE,Native,5,Tiny ant like bee
-GYP04,20,2021,2,19-Apr,,,13:43,8:25,SALMEL,6,BEE,Apis,,Apis mellifera
-GYP04,20,2021,2,19-Apr,,,13:43,8:32,SALMEL,1,BEE,Native,5,"""Eucera"""
-GYP04,20,2021,2,19-Apr,,,13:43,8:32,SALMEL,10,BEE,Apis,,Apis mellifera
-GYP04,20,2021,2,19-Apr,,,13:43,8:32,SALMEL,2,BEE,Native,5,Tiny ant like bee
-GYP04,20,2021,2,19-Apr,,,13:43,8:32,SALMEL,1,BEE,Native,5,Tiny ant like bee
-GYP04,20,2021,2,19-Apr,,,13:43,13:01,SALMEL,2,BEE,Apis,,Apis mellifera
-GYP04,20,2021,2,19-Apr,,,13:43,13:42,SALMEL,1,BEE,Native,5,"""Eucera"""
-GYP04,20,2021,2,19-Apr,,,13:43,14:30,SALMEL,8,BEE,Native,5,Tiny ant like
-GYP04,20,2021,2,19-Apr,,,13:43,15:21,SALMEL,7,BEE,Native,5,Tiny ant like
-GYP04,20,2021,2,19-Apr,,,13:43,15:30,SALMEL,5,BEE,Native,5,Tiny ant like
-GYP04,20,2021,2,19-Apr,,,13:43,18:31,SALMEL,7,BEE,Native,5,Tiny ant like
-GYP04,20,2021,2,19-Apr,,,13:43,18:32,SALMEL,11,BEE,Native,5,Tiny ant like
-GYP04,20,2021,2,19-Apr,,,13:43,19:32,SALMEL,3,BEE,Native,5,Tiny ant like
-GYP04,10,2021,2,19-Apr,,,14:19,3:32,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP04,10,2021,2,19-Apr,,,14:19,8:52,SALMEL,NA,BEE,Native,5,Tiny ant like
-GYP04,10,2021,2,19-Apr,,,14:19,9:22,SALMEL,5,BEE,Apis,,Apis mellifera
-GYP04,10,2021,2,19-Apr,,,14:19,12:25,ERICAL,1,LID,,,Bombyllid
-GYP04,10,2021,2,19-Apr,,,14:19,13:08,SALMEL,8,BEE,Apis,,Apis mellifera
-GYP04,10,2021,2,19-Apr,,,14:19,14:25,SALMEL,2,BEE,Apis,,Apis mellifera
-SS04,45,2021,2,20-Apr,,,9:23,1:02,SALMEL,NA,BEE,Apis,,Apis mellifera
-SS04,45,2021,2,20-Apr,,,9:23,9:12,SALMEL,NA,BEE,Apis,,Apis mellifera
-SS04,45,2021,2,20-Apr,,,9:23,11:09,SALMEL,NA,BEE,Bombus,,Bombus
-SS04,30,2021,2,20-Apr,,,9:52,nothing,nothing,,NA,,,
-SS04,20,2021,2,20-Apr,,,10:16,0:00,EROCIC,1,BEE,Apis,,Apis mellifera
-SS04,20,2021,2,20-Apr,,,10:16,3:05,EROCIC,1,SYP,,,Syphrid fly
-SS04,15,2021,2,20-Apr,,,10:45,2:15,GILANG,NA,BEE,Apis,,Apis mellifera
-SS04,15,2021,2,20-Apr,,,10:45,3:57,GILANG,NA,BEE,Apis,,Apis mellifera
-SS04,15,2021,2,20-Apr,,,10:45,9:32,EROCIC,3,SYP,,,Syphrid fly
-SS04,15,2021,2,20-Apr,,,10:45,11:50,EROCIC,NA,BEE,Apis,,Apis mellifera
-SS04,15,2021,2,20-Apr,,,10:45,18:32,EUCCHR,2,SYP,,,Syphrid fly
-SS04,10,2021,2,20-Apr,,,11:12,0:00,GILANG,NA,BEE,Apis,,Apis mellifera
-SS04,10,2021,2,20-Apr,,,11:12,3:32,GILANG,2,BEE,Apis,,Apis mellifera
-SS04,10,2021,2,20-Apr,,,11:12,3:57,GILANG,1,BEE,Apis,,Apis mellifera
-SS04,5,2021,2,20-Apr,,,11:34,1:02,GILANG,NA,BEE,Apis,,Apis mellifera
-SS04,5,2021,2,20-Apr,,,11:34,1:05,PHAPAR,NA,BEE,Apis,,Apis mellifera
-SS04,5,2021,2,20-Apr,,,11:34,1:20,GILANG,1,BEE,Apis,,Apis mellifera
-SS04,5,2021,2,20-Apr,,,11:34,3:33,PHAPAR,NA,BEE,Native,5,Tiny black
-SS04,5,2021,2,20-Apr,,,11:34,3:45,PHAPAR,NA,BEE,Bombus,,Saddle bumble
-SS04,5,2021,2,20-Apr,,,11:34,5:00,EUCCHR,NA,BEE,Apis,,Apis mellifera
-SS04,5,2021,2,20-Apr,,,11:34,6:58,EROCIC,NA,BEE,Apis,,Apis mellifera
-SS03,0,2021,2,20-Apr,,,12:37,0:38,GILANG,1,BEE,Apis,,Apis mellifera
-SS03,0,2021,2,20-Apr,,,12:37,2:58,GILANG,6,LID,,,Bombyllid
-SS03,0,2021,2,20-Apr,,,12:37,14:02,GILANG,1,BEE,Native,5,black tiny native bee
-SS03,10,2021,2,20-Apr,,,12:59,0:15,EROBRA,NA,BEE,Apis,,Apis mellifera
-SS03,10,2021,2,20-Apr,,,12:59,7:01,EROBRA,1,BEE,Apis,,Apis mellifera
-SS03,10,2021,2,20-Apr,,,12:59,9:32,EROBRA,17,BEE,Apis,,Apis mellifera
-SS03,15,2021,2,20-Apr,,,13:23,17:32,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS03,15,2021,2,20-Apr,,,13:23,17:35,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS03,45,2021,2,20-Apr,,,13:45,nothing,nothing,,NA,,,
-SS03,25,2021,2,20-Apr,,,14:32,2:12,CRYMUR,6,BEE,Apis,,Apis mellifera
-SS03,25,2021,2,20-Apr,,,14:32,4:48,CRYMUR,7,BEE,Apis,,Apis mellifera
-SS03,25,2021,2,20-Apr,,,14:32,4:49,CRYMUR,10,BEE,Apis,,Apis mellifera
-SS03,25,2021,2,20-Apr,,,14:32,6:32,CRYMUR,4,BEE,Apis,,Apis mellifera
-SS03,25,2021,2,20-Apr,,,14:32,11:26,GILANG,1,BEE,Apis,,Apis mellifera
-SS03,25,2021,2,20-Apr,,,14:32,11:28,CRYMUR,1,BEE,Apis,,Apis mellifera
-SS03,25,2021,2,20-Apr,,,14:32,,GILANG,2,BEE,Apis,,Apis mellifera
-SS03,25,2021,2,20-Apr,,,14:32,14:35,CRYMUR,10,BEE,Apis,,Apis mellifera
-SS03,25,2021,2,20-Apr,,,14:32,15:32,CRYMUR,2,BEE,Apis,,Apis mellifera
-SS03,25,2021,2,20-Apr,,,14:32,16:39,CRYMUR,34,BEE,Apis,,Apis mellifera
-I08,10,2021,2,21-Apr,,,10:07,nothing,nothing,,NA,,,
-I08,5,2021,2,21-Apr,,,9:32,9:32,SALMEL,2,BEE,Apis,,Apis mellifera
-I08,5,2021,2,21-Apr,,,9:32,9:42,SALMEL,2,BEE,Apis,,Apis mellifera
-I08,5,2021,2,21-Apr,,,9:32,9:44,SALMEL,1,BEE,Apis,,Apis mellifera
-I08,5,2021,2,21-Apr,,,9:32,9:45,SALMEL,3,BEE,Apis,,Apis mellifera
-I08,5,2021,2,21-Apr,,,9:32,9:48,SALMEL,1,BEE,Apis,,Apis mellifera
-I08,5,2021,2,21-Apr,,,9:32,9:50,SALMEL,4,BEE,Apis,,Apis mellifera
-I08,5,2021,2,21-Apr,,,9:32,9:51,SALMEL,3,BEE,Apis,,Apis mellifera
-I08,5,2021,2,21-Apr,,,9:53,9:53,SALMEL,2,BEE,Apis,,Apis mellifera
-I08,5,2021,2,21-Apr,,,9:53,9:57,SALMEL,1,BEE,Apis,,Apis mellifera
-I08,5,2021,2,21-Apr,,,9:53,10:00,SALMEL,1,BEE,Apis,,Apis mellifera
-I08,10,2021,2,21-Apr,,,10:29,10:48,SALMEL,1,BEE,Apis,,Apis mellifera
-I40,30,2021,2,21-Apr,,,11:30,nothing,nothing,,NA,,,
-I40,10,2021,2,21-Apr,,,12:28,13:22,SALMEL,NA,BEE,Bombus,,Bombus
-I40,10,2021,2,21-Apr,,,11:43,11:49,SALMEL,2,BEE,Bombus,,Bombus
-I40,10,2021,2,21-Apr,,,11:43,12:02,SALMEL,2,BEE,Apis,,Apis mellifera
-I40,15,2021,2,21-Apr,,,12:08,nothing,nothing,,NA,,,
-I40,15,2021,2,21-Apr,,,12:29,nothing,nothing,,NA,,,
-IRC08,45,2021,2,26-Apr,16,,12:41,9:05,BRANIG,NA,BEE,Apis,,Apis mellifera
-IRC08,45,2021,2,26-Apr,16,,12:41,16:32,EROCIC,NA,BEE,Apis,,Apis mellifera
-IRC08,45,2021,2,26-Apr,16,,12:41,17:08,BRANIG,NA,BEE,Native,5,Native bee
-IRC08,35,2021,2,26-Apr,16,,13:36,9:32,EUCCHR,1,BEE,Native,5,Native bee
-IRC08,35,2021,2,26-Apr,16,,13:36,15:28,EROCIC,1,BEE,Apis,,Apis mellifera
-IRC08,25,2021,2,26-Apr,16,,14:00,0:00,EUCCHR,NA,SYP,,,Syphrid fly
-IRC08,25,2021,2,26-Apr,16,,14:00,9:32,BRANIG,2,BEE,Native,10,Native bee
-IRC08,15,2021,2,26-Apr,16,,14:25,nothing,nothing,,NA,,,
-IRC08,5,2021,2,26-Apr,16,,14:49,nothing,nothing,,NA,,,
-IRC08,10,2021,2,26-Apr,16,,15:09,5:03,EUCCHR,1,SYP,,,Syphrid fly
-I02,0,2021,2,27-Apr,,,8:37,nothing,nothing,,NA,,,
-I02,15,2021,2,27-Apr,,,9:03,nothing,nothing,,NA,,,
-I02,30,2021,2,27-Apr,,,9:39,14:01,HIRINC,1,BEE,Apis,,Apis mellifera
-I02,35,2021,2,27-Apr,,,10:00,12:38,SALMEL,NA,BEE,Apis,,Apis mellifera
-I02,35,2021,2,27-Apr,,,10:00,13:03,HIRINC,NA,BEE,Apis,,Apis mellifera
-I02,35,2021,2,27-Apr,,,10:00,15:27,SALMEL,NA,BEE,Bombus,,Bombus
-I02,45,2021,2,27-Apr,,,10:27,4:59,SALMEL,NA,BEE,Apis,,Apis mellifera
-I02,45,2021,2,27-Apr,,,10:27,13:11,SALMEL,NA,BEE,Bombus,,Bombus
-GYP09,walk,2021,2,27-Apr,,,NA,NA,ESCCAL,NA,BEE,Native,10,Halictid
-GYP09,25,2021,2,27-Apr,,,12:16,17:02,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP09,20,2021,2,27-Apr,,,12:45,nothing,nothing,,NA,,,
-GYP09,5,2021,2,27-Apr,,,13:15,14:32,KECANT,4,BEE,Apis,,Apis mellifera
-GYP09,5,2021,2,27-Apr,,,13:15,15:03,KECANT,1,BEE,Native,5,Ceratina/hyleus
-GYP09,5,2021,2,27-Apr,,,13:15,,ERICON,1,BEE,Native,5,
-GYP09,5,2021,2,27-Apr,,,13:15,17:04,KECANT,1,BEE,Apis,,Apis mellifera
-GYP09,5,2021,2,27-Apr,,,13:15,17:04,KECANT,NA,BEE,Native,5,smaller black carpenter bee
-GYP09,0,2021,2,27-Apr,,,13:45,9:30,KECANT,NA,HUM,,,Hummingbird
-GYP01,10,2021,3,28-Apr,,,9:00,nothing,nothing,,NA,,,
-GYP01,15,2021,3,28-Apr,,,9:21,nothing,nothing,,NA,,,
-GYP01,25,2021,3,28-Apr,,,9:46,0:00,ESCCAL,NA,BEE,Apis,,Apis mellifera
-GYP01,25,2021,3,28-Apr,,,9:46,2:36,ESCCAL,NA,BEE,Native,10,Native bee
-GYP01,25,2021,3,28-Apr,,,9:46,10:02,BRANIG,NA,BEE,Apis,,Apis mellifera
-GYP01,25,2021,3,28-Apr,,,9:46,16:57,ESCCAL,NA,BEE,Native,5,Native bee
-GYP01,45,2021,3,28-Apr,,,10:20,0:50,MALSAX,2,BEE,Native,10,Native bee
-GYP01,45,2021,3,28-Apr,,,10:20,,MALSAX,1,BEE,Native,10,Native bee
-GYP01,45,2021,3,28-Apr,,,10:20,1:20,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP01,30,2021,3,28-Apr,,,10:41,10:35,BRANIG,5,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:20,0:16,SALMEL,28,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:20,3:28,SALMEL,8,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:20,3:30,SALMEL,3,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:20,NA,GILANG,NA,BEE,Native,5,Native bee
-GYP08,25,2021,3,28-Apr,,,12:20,7:20,SALMEL,18,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:20,10:28,SALMEL,4,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:20,10:35,SALMEL,2,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:20,16:32,SALMEL,18,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:20,17:48,SALMEL,2,BEE,Native,10,Native bee
-GYP08,25,2021,3,28-Apr,,,12:20,18:32,SALMEL,5,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:20,18:48,SALMEL,12,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,2:45,SALMEL,7,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,5:20,SALMEL,2,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,6:28,SALMEL,2,LID,,,Bombyllid
-GYP08,25,2021,3,28-Apr,,,12:40,6:32,SALMEL,11,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,7:35,SALMEL,12,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,9:09,SALMEL,17,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,9:13,SALMEL,4,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,10:13,SALMEL,1,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,10:20,SALMEL,2,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,10:40,SALMEL,9,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,13:07,SALMEL,6,BEE,Apis,,Apis mellifera
-GYP08,25,2021,3,28-Apr,,,12:40,19:09,SALMEL,1,BEE,Native,5,Native bee
-GYP08,15,2021,3,28-Apr,,,13:08,nothing,nothing,,NA,,,
-GYP08,15,2021,3,28-Apr,,,13:28,nothing,nothing,,NA,,,
-IRC01,walk,2021,3,29-Apr,,,10:00,,CALCAT,NA,BEE,Apis,,Apis mellifera
-IRC01,walk,2021,3,29-Apr,,,10:00,,EUCCHR,NA,BEE,Native,5,Native bee
-IRC01,walk,2021,3,29-Apr,,,10:00,,EUCCHR,NA,LID,,,Bombyllid
-IRC01,45,2021,3,29-Apr,,,9:52,3:53,EUCCHR,1,BEE,Native,5,Native bee
-IRC01,45,2021,3,29-Apr,,,9:52,15:00,CALCAT,1,BEE,Apis,,Apis mellifera
-IRC01,45,2021,3,29-Apr,,,9:52,16:52,EUCCHR,NA,BEE,Native,5,Native bee
-IRC01,25,2021,3,29-Apr,,,10:28,5:22,EUCCHR,NA,BEE,Apis,,Apis mellifera
-IRC01,25,2021,3,29-Apr,,,10:28,5:25,EUCCHR,NA,BEE,Apis,,Apis mellifera
-IRC01,25,2021,3,29-Apr,,,10:28,10:20,EUCCHR,2,BEE,Apis,,Apis mellifera
-IRC01,25,2021,3,29-Apr,,,10:28,11:12,EUCCHR,4,BEE,Apis,,Apis mellifera
-IRC01,20,2021,3,29-Apr,,,10:51,1:03,EUCCHR,NA,LID,,,Bombyllid
-IRC01,20,2021,3,29-Apr,,,10:51,NA,DICCAP,NA,HUM,,,Hummingbird
-IRC01,0,2021,3,29-Apr,,,11:20,0:00,EUCCHR,19,BEE,Apis,,Apis mellifera
-IRC01,0,2021,3,29-Apr,,,11:20,4:28,EUCCHR,11,BEE,Apis,,Apis mellifera
-IRC01,0,2021,3,29-Apr,,,11:20,7:31,EUCCHR,3,BEE,Apis,,Apis mellifera
-IRC01,0,2021,3,29-Apr,,,11:20,7:45,DICCAP,2,BEE,Apis,,Apis mellifera
-IRC01,0,2021,3,29-Apr,,,11:20,8:53,EUCCHR,1,BEE,Apis,,Apis mellifera
-IRC01,0,2021,3,29-Apr,,,11:20,10:15,EUCCHR,1,BEE,Apis,,Apis mellifera
-IRC01,0,2021,3,29-Apr,,,11:20,16:12,EUCCHR,1,BEE,Apis,,Apis mellifera
-IRC01,0,2021,3,29-Apr,,,11:20,18:28,EUCCHR,2,BEE,Native,5,Native bee?
-IRC01,15,2021,3,29-Apr,,,11:45,nothing,nothing,,NA,,,
-IRC01,45,2021,3,29-Apr,,,12:07,7:02,EUCCHR,NA,LID,,,Bombyllid
-BD21,40,2021,3,30-Apr,,,9:00,1:21,SALMEL,21,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,1:32,SALMEL,3,DIP,,,Diptera
-BD21,40,2021,3,30-Apr,,,9:00,2:53,SALMEL,1,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,3:40,SALMEL,35,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,5:20,SALMEL,18,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,5:24,SALMEL,2,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,5:57,SALMEL,10,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,7:02,SALMEL,2,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,7:03,SALMEL,1,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,7:40,SALMEL,6,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,8:11,SALMEL,1,SYP,,,Syphrid fly
-BD21,40,2021,3,30-Apr,,,9:00,8:44,SALMEL,10,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,9:04,SALMEL,34,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,9:58,SALMEL,21,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,10:11,SALMEL,4,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,11:20,SALMEL,11,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,11:23,SALMEL,11,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,12:23,SALMEL,26,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,12:42,SALMEL,1,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,14:22,SALMEL,2,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,14:22,SALMEL,10,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,15:12,SALMEL,2,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,15:23,SALMEL,16,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,15:38,SALMEL,2,BEE,Native,5,Native bee
-BD21,40,2021,3,30-Apr,,,9:00,15:38,SALMEL,NA,BEE,Native,10,Halictid
-BD21,40,2021,3,30-Apr,,,9:00,17:58,SALMEL,1,BEE,Native,5,Same as PHAPAR native honey CRYINT
-BD21,40,2021,3,30-Apr,,,9:00,18:39,SALMEL,12,BEE,Apis,,Apis mellifera
-BD21,40,2021,3,30-Apr,,,9:00,19:01,SALMEL,1,BEE,Native,10,Native bee
-IRC23,walk,2021,3,30-Apr,,,NA,,BRANIG,NA,BEE,Native,10,Anthophorine bee
-IRC23,45,2021,3,30-Apr,,,11:45,0:00,CALMAC,NA,BEE,Native,10,Anthophorine bee
-IRC23,45,2021,3,30-Apr,,,11:45,6:24,ENCCAL,NA,DIP,,,Diptera
-IRC23,45,2021,3,30-Apr,,,11:45,7:40,CALMAC,1,BEE,Native,10,Anthophorine bee
-IRC23,45,2021,3,30-Apr,,,11:45,15:24,CALMAC,NA,BEE,Native,10,Anthophorine bee
-IRC23,45,2021,3,30-Apr,,,11:45,17:03,ENCCAL,NA,BEE,Native,10,Native bee
-IRC23,45,2021,3,30-Apr,,,11:45,18:29,CALMAC,NA,BEE,Native,5,Native bee
-IRC23,45,2021,3,30-Apr,,,11:45,19:02,ENCCAL,NA,BEE,Native,10,Native bee
-IRC23,45,2021,3,30-Apr,,,11:45,19:40,ENCCAL,NA,BEE,Native,10,Native bee
-IRC23,35,2021,3,30-Apr,,,12:12,9:21,BRANIG,NA,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:04,SALMEL,6,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:05,SALMEL,5,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:06,SALMEL,2,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:08,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:08,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:11,SALMEL,14,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:12,SALMEL,7,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:16,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:16,SALMEL,11,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:18,SALMEL,2,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:18,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:19,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:20,SALMEL,21,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:21,SALMEL,3,BEE,Apis,,Apis mellifera
-BD21,10,2021,3,30-Apr,,,9:02,9:21,SALMEL,2,BEE,Apis,,Apis mellifera
-BD21,15,2021,3,30-Apr,,,9:25,9:28,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,15,2021,3,30-Apr,,,9:25,9:30,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,15,2021,3,30-Apr,,,9:25,9:35,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,15,2021,3,30-Apr,,,9:25,9:40,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,15,2021,3,30-Apr,,,9:25,9:43,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,15,2021,3,30-Apr,,,9:25,9:45,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:50,SALMEL,3,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:51,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:51,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:53,SALMEL,2,BEE,Native,5,Native bee
-BD21,0,2021,3,30-Apr,,,9:50,9:54,SALMEL,13,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:54,SALMEL,4,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:55,SALMEL,1,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:56,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:57,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:58,SALMEL,NA,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,9:58,SALMEL,2,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,10:00,SALMEL,7,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,10:02,SALMEL,2,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,10:06,SALMEL,5,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,10:06,SALMEL,NA,BEE,Native,20,Carpenter bee
-BD21,0,2021,3,30-Apr,,,9:50,10:07,SALMEL,6,BEE,Apis,,Apis mellifera
-BD21,0,2021,3,30-Apr,,,9:50,10:08,SALMEL,NA,BEE,Native,10,halictid
-BD21,0,2021,3,30-Apr,,,9:50,10:09,SALMEL,NA,BEE,Apis,,Apis mellifera
-IRC23,20,2021,3,30-Apr,,,11:49,nothing,nothing,,NA,,,
-IRC23,25,2021,3,30-Apr,,,12:19,12:34,BRANIG,40,BEE,Apis,,Apis mellifera
-IRC23,25,2021,3,30-Apr,,,12:19,12:35,BRANIG,2,BEE,Apis,,Apis mellifera
-I14,40,2021,3,3-May,,,9:04,,nothing,,NA,,,
-I14,10,2021,3,3-May,,,9:33,,nothing,,NA,,,
-I14,40,2021,3,3-May,,,9:57,3:01,BRANIG,NA,FLY,,,Butterfly
-I14,10,2021,3,3-May,,,10:21,15:00,CAMMIC,NA,BEE,Native,5,Native bee
-I14,10,2021,3,3-May,,,10:21,15:04,CAMMIC,NA,LID,,,Bombyllid
-I15,25,2021,3,3-May,,,11:33,6:52,BRANIG,NA,BEE,Apis,,Apis mellifera
-I15,25,2021,3,3-May,,,11:33,8:00,BRANIG,2,LID,,,Bombyllid
-I15,25,2021,3,3-May,,,11:33,16:24,BRANIG,NA,SYP,,,Syphrid fly
-I15,25,2021,3,3-May,,,11:33,16:25,BRANIG,NA,BEE,Native,10,Native bee
-I15,25,2021,3,3-May,,,11:33,19:36,BRANIG,NA,BEE,Native,10,Native bee
-I15,20,2021,3,3-May,,,11:55,5:02,BRANIG,1,BEE,Native,5,Native bee
-I15,20,2021,3,3-May,,,11:55,10:28,BRANIG,2,BEE,Apis,,Apis mellifera
-I15,20,2021,3,3-May,,,11:55,10:29,BRANIG,1,SYP,,,Syphrid fly
-I15,20,2021,3,3-May,,,12:22,5:23,BRANIG,NA,SYP,,,Syphrid fly
-I15,20,2021,3,3-May,,,12:22,6:41,BRANIG,NA,BEE,Apis,,Apis mellifera
-I15,20,2021,3,3-May,,,12:22,7:23,BRANIG,19,BEE,Apis,,Apis mellifera
-I15,20,2021,3,3-May,,,12:22,8:08,BRANIG,1,BEE,Native,10,Halictid
-I15,20,2021,3,3-May,,,12:22,11:42,BRANIG,26,BEE,Apis,,Apis mellifera
-I15,25,2021,3,3-May,,,12:43,4:32,BRANIG,NA,BEE,Apis,,Apis mellifera
-SS05,0,2021,3,4-May,,,9:15,12:21,EROCIC,NA,BEE,Apis,,Apis mellifera
-SS05,0,2021,3,4-May,,,9:15,15:01,CRYMUR,1,BEE,Apis,,Apis mellifera
-SS05,0,2021,3,4-May,,,9:15,15:03,CRYMUR,4,BEE,Apis,,Apis mellifera
-SS05,0,2021,3,4-May,,,9:15,17:28,CRYMUR,5,BEE,Apis,,Apis mellifera
-SS05,0,2021,3,4-May,,,9:15,19:32,MIRLAE,NA,BEE,Apis,,Apis mellifera
-SS05,5,2021,3,4-May,,,9:43,2:28,CRYMUR,NA,SYP,,,Syphrid fly
-SS05,10,2021,3,4-May,,,10:05,10:27,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS05,10,2021,3,4-May,,,10:05,10:27,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS05,10,2021,3,4-May,,,10:05,10:27,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS05,10,2021,3,4-May,,,10:05,10:27,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS05,40,2021,3,4-May,,,10:30,6:06,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS05,40,2021,3,4-May,,,10:30,6:40,CRYMUR,8,BEE,Apis,,Apis mellifera
-SS05,40,2021,3,4-May,,,10:30,8:07,CASEXE,NA,HUM,,,Hummingbird
-SS05,40,2021,3,4-May,,,10:30,17:11,BRANIG,NA,BEE,Native,5,Native bee
-SS05,40,2021,3,4-May,,,10:30,17:20,CRYMUR,2,BEE,Apis,,Apis mellifera
-SS05,45,2021,3,4-May,,,10:52,0:54,CRYMUR,4,BEE,Apis,,Apis mellifera
-SS05,45,2021,3,4-May,,,10:52,5:11,CALMAC,NA,BEE,Native,10,Native bee
-SS05,45,2021,3,4-May,,,10:52,7:32,BRANIG,NA,BEE,Apis,,Apis mellifera
-SS05,45,2021,3,4-May,,,10:52,7:40,BRANIG,NA,SYP,,,Syphrid fly
-SS05,45,2021,3,4-May,,,10:52,7:40,CRYMUR,NA,SYP,,,Syphrid fly
-SS05,45,2021,3,4-May,,,10:52,7:42,CRYMUR,NA,DIP,,,Diptera
-SS05,45,2021,3,4-May,,,10:52,8:02,CRYMUR,NA,BEE,Native,5,Native bee
-SS05,45,2021,3,4-May,,,10:52,8:02,CRYMUR,NA,BEE,Native,5,Native bee
-SS05,45,2021,3,4-May,,,10:52,9:03,CRYMUR,1,BEE,Apis,,Apis mellifera
-SS05,45,2021,3,4-May,,,10:52,17:14,CRYMUR,11,DIP,,,Diptera
-SS05,45,2021,3,4-May,,,10:52,18:44,CRYMUR,NA,BEE,Native,10,Native bee
-SS05,45,2021,3,4-May,,,10:52,19:32,CRYMUR,7,BEE,Apis,,Apis mellifera
-BKR10,walk,2021,3,4-May,,,12:50,NA,SALMEL,,BEE,Apis,,Apis mellifera
-BKR10,walk,2021,3,4-May,,,12:50,NA,CASEXE,,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,0:00,SALMEL,2,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,0:21,SALMEL,5,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,1:14,SALMEL,16,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,1:32,SALMEL,24,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,1:33,SALMEL,15,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,3:05,SALMEL,10,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,3:42,SALMEL,4,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,4:32,SALMEL,11,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,5:24,SALMEL,3,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,6:35,SALMEL,17,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,6:44,SALMEL,2,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,6:45,SALMEL,1,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,6:47,SALMEL,14,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,7:52,SALMEL,25,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,8:01,SALMEL,17,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,9:58,SALMEL,15,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,10:24,SALMEL,2,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,10:53,SALMEL,48,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,12:01,SALMEL,19,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,12:12,SALMEL,37,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,15:24,SALMEL,21,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,15:26,SALMEL,12,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,17:13,SALMEL,5,BEE,Apis,,Apis mellifera
-BKR10,45,2021,3,4-May,,,13:03,19:08,SALMEL,1,BEE,Native,10,Halictid
-BKR10,25,2021,3,4-May,,,13:31,0:32,BRANIG,2,BEE,Native,5,native bee
-BKR10,25,2021,3,4-May,,,13:31,,BRANIG,5,BEE,Native,5,native bee
-BKR10,25,2021,3,4-May,,,13:31,2:52,BRANIG,1,BEE,Native,10,native bee
-BKR10,25,2021,3,4-May,,,13:31,5:50,BRANIG,4,BEE,Native,5,native bee
-BKR10,25,2021,3,4-May,,,13:31,5:51,BRANIG,2,BEE,Native,5,native bee
-BKR10,25,2021,3,4-May,,,13:31,8:32,BRANIG,5,DIP,,,Diptera
-BKR10,25,2021,3,4-May,,,13:31,11:13,BRANIG,2,DIP,,,Diptera
-BKR10,25,2021,3,4-May,,,13:31,11:45,BRANIG,1,BEE,Native,5,native bee
-BKR10,25,2021,3,4-May,,,13:31,13:26,BRANIG,13,DIP,,,Diptera
-BKR10,25,2021,3,4-May,,,13:31,16:32,BRANIG,5,DIP,,,Diptera
-BKR10,25,2021,3,4-May,,,13:31,18:10,BRANIG,3,DIP,,,Diptera
-BKR10,25,2021,3,4-May,,,13:31,19:20,BRANIG,5,DIP,,,Diptera
-BKR10,20,2021,3,4-May,,,13:55,0:51,SILMAR,NA,BEE,Apis,,Apis mellifera
-BKR10,20,2021,3,4-May,,,13:55,6:10,SILMAR,NA,DIP,,,Diptera
-BKR10,20,2021,3,4-May,,,13:55,8:52,SILMAR,NA,DIP,,,Diptera
-GYP02,45,2021,3,6-May,,,8:55,0:00,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,8:55,2:10,SCRCAL,0.1,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,8:55,5:00,SCRCAL,0.1,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,8:55,,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,8:55,7:12,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,8:55,16:08,ERICON,NA,DIP,,,Diptera
-GYP02,15,2021,3,6-May,,,9:22,6:15,SALMEL,7,BEE,Apis,,Apis mellifera
-GYP02,15,2021,3,6-May,,,9:22,NA,ERICAL,NA,HUM,,,Hummingbird
-GYP02,15,2021,3,6-May,,,9:22,NA,ERICAL,NA,BEE,Apis,,Apis mellifera
-GYP02,15,2021,3,6-May,,,9:50,0:00,CALMAC,1,BEE,Native,10,native bee
-GYP02,15,2021,3,6-May,,,9:50,12:15,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP02,15,2021,3,6-May,,,9:50,16:28,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,10:40,1:02,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,10:40,3:25,SALMEL,NA,LID,,,Bombyllid
-GYP02,45,2021,3,6-May,,,10:40,6:18,SALMEL,3,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,10:40,7:28,SALMEL,7,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,10:40,7:52,SALMEL,4,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,10:40,8:55,SALMEL,2,BEE,Native,5,Native bee
-GYP02,45,2021,3,6-May,,,10:40,17:28,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP02,45,2021,3,6-May,,,10:40,18:12,ERICON,NA,DIP,,,Diptera
-GYP02,45,2021,3,6-May,,,10:40,18:20,SALMEL,NA,FLY,,,Butterfly
-GYP02,45,2021,3,6-May,,,10:40,19:55,SALMEL,3,BEE,Apis,,Apis mellifera
-GYP04,35,2021,3,6-May,,,11:40,1:02,KECANT,4,BEE,Apis,,Apis mellifera
-GYP04,35,2021,3,6-May,,,11:40,3:21,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP04,35,2021,3,6-May,,,11:40,5:10,KECANT,3,BEE,Apis,,Apis mellifera
-GYP04,35,2021,3,6-May,,,11:40,10:07,KECANT,5,BEE,Apis,,Apis mellifera
-GYP04,35,2021,3,6-May,,,11:40,17:18,KECANT,3,BEE,Apis,,Apis mellifera
-GYP04,30,2021,3,6-May,,,12:03,6:32,SALMEL,6,BEE,Apis,,Apis mellifera
-GYP04,30,2021,3,6-May,,,12:03,7:50,SALMEL,4,BEE,Apis,,Apis mellifera
-GYP04,30,2021,3,6-May,,,12:03,11:36,SALMEL,7,BEE,Apis,,Apis mellifera
-GYP04,30,2021,3,6-May,,,12:03,12:00,SALMEL,20,BEE,Apis,,Apis mellifera
-GYP04,30,2021,3,6-May,,,12:03,16:11,SALMEL,5,BEE,Apis,,Apis mellifera
-GYP04,30,2021,3,6-May,,,12:03,16:16,SALMEL,1,BEE,Apis,,Apis mellifera
-GYP04,20,2021,3,6-May,,,12:28,0:00,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP04,20,2021,3,6-May,,,12:28,10:28,SALMEL,9,BEE,Apis,,Apis mellifera
-GYP04,10,2021,3,6-May,,,12:55,12:21,SALMEL,NA,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,0:00,ERICAL,2,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,0:00,ERICAL,1,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,2:12,ERICAL,15,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,3:22,ERICAL,3,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,4:07,ERICAL,2,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,4:10,ERICAL,NA,BEE,Bombus,,Bombus
-GYP04,5,2021,3,6-May,,,13:12,6:01,ERICAL,5,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,7:52,ERICAL,NA,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,7:58,ERICAL,2,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,10:40,ERICAL,3,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,14:38,ERICAL,2,BEE,Apis,,Apis mellifera
-GYP04,5,2021,3,6-May,,,13:12,18:02,ERICAL,1,BEE,Apis,,Apis mellifera
-GYP04,0,2021,3,6-May,,,13:35,4:06,ERICAL,2,BEE,Apis,,Apis mellifera
-GYP04,0,2021,3,6-May,,,13:35,9:20,ERICAL,3,BEE,Apis,,Apis mellifera
-GYP04,0,2021,3,6-May,,,13:35,13:13,ERICAL,10,LID,,,Bombyllid
-GYP04,0,2021,3,6-May,,,13:35,13:25,ERICAL,23,BEE,Apis,,Apis mellifera
-GYP04,0,2021,3,6-May,,,13:35,16:40,ERICAL,1,BEE,Apis,,Apis mellifera
-GYP04,0,2021,3,6-May,,,13:35,17:21,ERICAL,NA,BEE,Native,10,Anthophorine
-GYP04,0,2021,3,6-May,,,13:35,17:53,ERICAL,2,BEE,Apis,,Apis mellifera
-GYP04,0,2021,3,6-May,,,13:35,NA,ERICAL,NA,BEE,Native,5,native bee
-SS03,45,2021,3,7-May,,,9:30,2:56,EROBRA,NA,BEE,Apis,,Apis mellifera
-SS03,45,2021,3,7-May,,,9:30,17:02,EROBRA,2,BEE,Apis,,Apis mellifera
-SS03,35,2021,3,7-May,,,9:56,nothing,nothing,,NA,,,
-SS03,20,2021,3,7-May,,,10:22,0:15,CRYMUR,1,SYP,,,Syphrid fly
-SS03,20,2021,3,7-May,,,10:22,1:21,CRYMUR,NA,LID,,,Bombyllid
-SS03,20,2021,3,7-May,,,10:22,1:24,EROBRA,NA,LID,,,Bombyllid
-SS03,20,2021,3,7-May,,,10:22,12:32,EROBRA,NA,BEE,Apis,,Apis mellifera
-SS03,5,2021,3,7-May,,,10:50,3:12,BRANIG,1,BEE,Apis,,Apis mellifera
-SS03,5,2021,3,7-May,,,10:50,5:13,EROBRA,NA,BEE,Native,5,Native bee
-SS03,5,2021,3,7-May,,,10:50,,BRANIG,NA,BEE,Native,5,Native bee
-SS03,5,2021,3,7-May,,,10:50,14:34,EROBRA,NA,BEE,Apis,,Apis mellifera
-SS03,0,2021,3,7-May,,,11:17,7:20,EROBRA,3,BEE,Apis,,Apis mellifera
-SS03,0,2021,3,7-May,,,11:17,12:05,BRANIG,NA,BEE,Apis,,Apis mellifera
-SS03,0,2021,3,7-May,,,11:17,16:07,CALSPL,NA,BEE,Native,10,Native bee
-SS03,0,2021,3,7-May,,,11:17,NA,GILANG,NA,BEE,Apis,,Apis mellifera
-SS04,0,2021,3,7-May,,,12:08,nothing,nothing,,NA,,,
-SS04,5,2021,3,7-May,,,12:30,0:00,BRANIG,25,BEE,Apis,,Apis mellifera
-SS04,5,2021,3,7-May,,,12:30,0:05,HIRINC,2,BEE,Native,10,Native bee
-SS04,5,2021,3,7-May,,,12:30,1:55,BRANIG,17,BEE,Apis,,Apis mellifera
-SS04,5,2021,3,7-May,,,12:30,2:01,GILANG,NA,BEE,Apis,,Apis mellifera
-SS04,5,2021,3,7-May,,,12:30,3:11,BRANIG,1,BEE,Apis,,Apis mellifera
-SS04,5,2021,3,7-May,,,12:30,4:28,BRANIG,32,BEE,Apis,,Apis mellifera
-SS04,5,2021,3,7-May,,,12:30,10:51,BRANIG,3,BEE,Native,5,Native bee
-SS04,5,2021,3,7-May,,,12:30,12:23,HIRINC,54,BEE,Native,10,Native bee
-SS04,5,2021,3,7-May,,,12:30,16:58,GILANG,NA,BEE,Native,5,Native bee
-SS04,10,2021,3,7-May,,,12:55,13:02,BRANIG,NA,BEE,Apis,,Apis mellifera
-SS04,10,2021,3,7-May,,,12:55,14:12,GILANG,1,LID,,,Bombyllid
-SS04,15,2021,3,7-May,,,13:15,0:00,HIRINC,NA,BEE,Native,10,Native bee
-SS04,15,2021,3,7-May,,,13:15,2:10,HIRINC,2,BEE,Apis,,Apis mellifera
-SS04,15,2021,3,7-May,,,13:15,3:10,HIRINC,1,BEE,Apis,,Apis mellifera
-SS04,15,2021,3,7-May,,,13:15,3:41,HIRINC,31,BEE,Apis,,Apis mellifera
-SS04,15,2021,3,7-May,,,13:15,5:36,HIRINC,2,BEE,Apis,,Apis mellifera
-SS04,15,2021,3,7-May,,,13:15,NA,CRYMUR,NA,BEE,Apis,,Apis mellifera
-SS04,15,2021,3,7-May,,,13:15,NA,BRANIG,NA,BEE,Native,10,Native bee
-SS04,15,2021,3,7-May,,,13:15,NA,CRYMUR,NA,SYP,,,Syphrid fly
-SS04,15,2021,3,7-May,,,13:15,NA,CRYMUR,NA,BEE,Native,5,Native bee
-SS04,15,2021,3,7-May,,,13:15,NA,CRYMUR,NA,DIP,,,Diptera
-SS04,45,2021,3,7-May,,,13:40,6:26,SALMEL,NA,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,0:00,CRYMUR,21,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,0:00,CRYMUR,17,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,0:12,CRYMUR,10,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,1:08,CRYMUR,16,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,4:41,CRYMUR,4,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,8:11,BRANIG,NA,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,10:05,CRYMUR,11,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,10:51,CRYMUR,2,BEE,Native,5,Native bee
-SS04,special,2021,3,7-May,,,14:12,12:02,CRYMUR,NA,SYP,,,Syphrid fly
-SS04,special,2021,3,7-May,,,14:12,12:55,BRANIG,1,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,14:12,CRYMUR,2,BEE,Native,5,Native bee
-SS04,special,2021,3,7-May,,,14:12,17:10,CRYMUR,27,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,17:20,CRYMUR,64,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,17:48,CRYMUR,5,DIP,,,Diptera
-SS04,special,2021,3,7-May,,,14:12,18:13,CRYMUR,6,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,18:38,CRYMUR,12,BEE,Apis,,Apis mellifera
-SS04,special,2021,3,7-May,,,14:12,18:38,CRYMUR,5,SYP,,,Syphrid fly
-I40,45,2021,3,10-May,,,10:00,nothing,nothing,,NA,,,
-I40,30,2021,3,10-May,,,10:35,10:02,ACMGLA,NA,BEE,Apis,,Apis mellifera
-I40,20,2021,3,10-May,,,10:56,nothing,nothing,,NA,,,
-I40,15,2021,3,10-May,,,11:20,7:23,ACMGLA,NA,BEE,Apis,,Apis mellifera
-I40,10,2021,3,10-May,,,11:41,12:20,SALMEL,NA,BEE,Apis,,Apis mellifera
-I40,10,2021,3,10-May,,,11:41,12:35,SALMEL,NA,BEE,Bombus,,Bombus
-I40,5,2021,3,10-May,,,12:05,19:32,ERICON,5,BEE,Apis,,Apis mellifera
-I40,6,2021,3,10-May,,,12:05,0:00,SALMEL,15,BEE,Apis,,Apis mellifera
-I40,6,2021,3,10-May,,,12:05,0:00,SALMEL,5,BEE,Apis,,Apis mellifera
-I40,6,2021,3,10-May,,,12:05,5:41,SALMEL,26,BEE,Apis,,Apis mellifera
-I40,6,2021,3,10-May,,,12:05,12:14,SALMEL,2,BEE,Apis,,Apis mellifera
-I40,6,2021,3,10-May,,,12:05,13:12,SALMEL,1,BEE,Apis,,Apis mellifera
-I40,6,2021,3,10-May,,,12:05,14:45,SALMEL,14,BEE,Apis,,Apis mellifera
-I40,6,2021,3,10-May,,,12:05,18:23,SALMEL,6,BEE,Apis,,Apis mellifera
-I40,6,2021,3,10-May,,,12:05,19:30,BRANIG,NA,BEE,Apis,,Apis mellifera
-I08,0,2021,3,10-May,,,13:35,3:01,ERICON,1,BEE,Apis,,Apis mellifera
-I20,40,2021,3,11-May,,,9:50,0:00,ERIFAS,1,BEE,Apis,,Apis mellifera
-I20,40,2021,3,11-May,,,9:50,NA,CALSPL,NA,BEE,Native,10,Native bee
-I20,40,2021,3,11-May,,,10:10,NA,ERICON,NA,BEE,Apis,,Apis mellifera
-I20,40,2021,3,11-May,,,10:10,NA,ERIFAS,NA,BEE,Native,5,Native bee
-I20,40,2021,3,11-May,,,10:10,NA,ERIFAS,NA,FLY,,,Butterfly
-I20,40,2021,3,11-May,,,10:10,NA,ERICON,NA,FLY,,,Butterfly
-I50,0,2021,3,11-May,,,11:20,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
-I50,10,2021,3,11-May,,,12:00,7:52,ACMGLA,2,BEE,Native,10,Native bee
-I50,10,2021,3,11-May,,,12:00,NA,ERICAL,NA,HUM,,,Hummingbird
-I50,10,2021,3,11-May,,,12:00,16:08,ACMGLA,5,BEE,Native,10,Native bee
-I50,15,2021,3,11-May,,,12:21,NA,ERICAL,NA,HUM,,,Hummingbird
-I50,15,2021,3,11-May,,,12:21,9:06,ACMGLA,,BEE,Apis,,Apis mellifera
-I50,15,2021,3,11-May,,,12:21,12:34,ACMGLA,1,BEE,Native,10,Native bee
-I50,15,2021,3,11-May,,,12:21,NA,ERICAL,NA,LID,,,Bombyllid
-I50,15,2021,3,11-May,,,12:21,NA,ERICAL,NA,BEE,Apis,,Apis mellifera
-I50,15,2021,3,11-May,,,12:21,NA,ERICAL,NA,BEE,Native,10,Native bee
-I50,15,2021,3,11-May,,,12:21,NA,ERICAL,NA,BEE,Native,5,Native bee
-I50,35,2021,3,11-May,,,13:04,nothing,nothing,,NA,,,
-I50,35,2021,3,11-May,,,13:04,NA,BRANIG,NA,LID,,,Bombyllid
-I50,40,2021,3,11-May,,,13:25,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
-GYP09,34,2021,3,12-May,,,9:15,17:15,ERIFAS,2,SYP,,,Syphrid fly
-GYP09,34,2021,3,12-May,,,9:58,2:38,ERIFAS,10,BEE,Apis,,Apis mellifera
-GYP09,34,2021,3,12-May,,,9:58,19:04,ERIFAS,1,SYP,,,Syphrid fly
-GYP09,0,2021,3,12-May,,,10:00,2:02,KECANT,1,BEE,Native,5,Native bee
-GYP09,0,2021,3,12-May,,,10:00,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
-GYP09,0,2021,3,12-May,,,10:00,NA,BRANIG,NA,BEE,Native,10,Native bee
-GYP09,0,2021,3,12-May,,,10:21,5:07,KECANT,2,BEE,Native,10,Native bee
-GYP09,0,2021,3,12-May,,,10:21,NA,BRANIG,NA,BEE,Native,10,Native bee
-I02,walk,2021,3,12-May,,,13:55,,TRILAN,NA,HUM,,,Hummingbird
-I02,walk,2021,3,12-May,,,13:55,,DEIFAS,NA,LID,,,Bombyllid
-I02,38,2021,3,12-May,,,11:45,1:02,CALSPL,1,BEE,Native,10,Native bee
-I02,38,2021,3,12-May,,,11:45,1:40,SALMEL,26,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,4:12,SALMEL,38,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,4:58,SALMEL,20,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,6:27,SALMEL,9,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,7:05,SALMEL,1,BEE,Native,5,Native bee
-I02,38,2021,3,12-May,,,11:45,7:24,SALMEL,3,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,8:08,SALMEL,18,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,9:01,SALMEL,9,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,9:36,SALMEL,6,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,9:52,SALMEL,24,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,NA,ACMGLA,NA,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,12:39,SALMEL,2,BEE,Native,5,Native bee
-I02,38,2021,3,12-May,,,11:45,12:37,SALMEL,4,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,14:09,SALMEL,5,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,14:09,SALMEL,39,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,17:01,SALMEL,11,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,17:21,SALMEL,3,BEE,Native,10,Native bee
-I02,38,2021,3,12-May,,,11:45,17:56,SALMEL,36,BEE,Apis,,Apis mellifera
-I02,38,2021,3,12-May,,,11:45,18:23,SALMEL,24,BEE,Apis,,Apis mellifera
-I02,35,2021,3,12-May,,,12:13,5:24,ACMGLA,2,BEE,Apis,,Apis mellifera
-I02,35,2021,3,12-May,,,12:13,14:45,ACMGLA,1,BEE,Native,5,Native bee
-I02,10,2021,3,12-May,,,12:44,nothing,nothing,,NA,,,
-I02,0,2021,3,12-May,,,13:05,4:28,ACMGLA,NA,BEE,Apis,,Apis mellifera
-I02,0,2021,3,12-May,,,13:05,12:58,DEIFAS,2,LID,,,Bombyllid
-I02,0,2021,3,12-May,,,13:05,17:42,DEIFAS,1,BEE,Native,5,Native bee
-I02,30,2021,3,12-May,,,13:52,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
-I02,40,2021,3,12-May,,,13:30,NA,ACMGLA,NA,BEE,Apis,,Apis mellifera
-I02,40,2021,3,12-May,,,13:30,NA,CALSPL,NA,BEE,Native,10,Native bee
-I02,40,2021,3,12-May,,,13:30,18:31,BRANIG,2,BEE,Apis,,Apis mellifera
-IRC08,0,2021,3,13-May,,,9:20,nothing,nothing,,NA,,,
-IRC08,10,2021,3,13-May,,,9:42,4:23,CALMAC,1,BEE,Apis,,Apis mellifera
-IRC08,walk,2021,3,13-May,,,10:05,9:42,EROCIC,2,SYP,,,Syphrid fly
-IRC08,walk,2021,3,13-May,,,10:05,18:41,EROCIC,NA,BEE,Apis,,Apis mellifera
-IRC08,walk,2021,3,13-May,,,10:05,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
-IRC08,25,2021,3,13-May,,,10:22,4:12,BRANIG,5,BEE,Native,10,Native bee
-IRC08,25,2021,3,13-May,,,10:22,4:30,BRANIG,NA,BEE,Native,10,Native bee
-IRC08,25,2021,3,13-May,,,10:22,4:42,BRANIG,NA,BEE,Apis,,Apis mellifera
-IRC08,25,2021,3,13-May,,,10:22,14:07,BRANIG,2,BEE,Apis,,Apis mellifera
-IRC08,25,2021,3,13-May,,,10:22,16:03,BRANIG,1,BEE,Native,5,Native bee
-IRC08,40,2021,3,13-May,,,10:58,18:23,BRANIG,2,BEE,Apis,,Apis mellifera
-IRC08,40,2021,3,13-May,,,10:58,18:40,BRANIG,5,BEE,Apis,,Apis mellifera
-IRC08,45,2021,3,13-May,,,11:28,0:00,CALMAC,NA,BEE,Apis,,Apis mellifera
-IRC08,45,2021,3,13-May,,,11:28,16:42,BRANIG,NA,BEE,Apis,,Apis mellifera
+BD21,0,2021,1,18-Mar,14,2,9:10,,nothing,NA,NA,,,
+BD21,5,2021,1,18-Mar,15,0,9:30,,nothing,NA,NA,,,
+BD21,35,2021,1,18-Mar,15,0,9:55,,nothing,NA,NA,,,
+BD21,40,2021,1,18-Mar,16,0,10:20,,nothing,NA,NA,,,
+IRC23,10,2021,1,18-Mar,19,3,12:40,12:34,EROCIC,1,BEE,Apis,,Apis mellifera
+IRC23,10,2021,1,18-Mar,19,3,12:40,12:35,CRYMUR,3,BEE,Native,10,Hyleus mesillae
+IRC23,10,2021,1,18-Mar,19,3,12:40,12:43,CRYMUR,2,DIP,,,diptera
+IRC23,15,2021,1,18-Mar,19,3,13:05,nothing,nothing,NA,NA,,,
+IRC23,20,2021,1,18-Mar,19,3,13:30,nothing,nothing,NA,NA,,,
+IRC23,15,2021,1,18-Mar,19,3,14:00,nothing,nothing,NA,NA,,,
+IRC13,40,2021,1,19-Mar,15,0,9:58,15:58,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,17,1,10:20,13:54,PHAPAR,3,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,17,1,10:20,19:26,PHAPAR,3,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,19,2,11:37,0:00,PHAPAR,1,BEE,Native,5,nativebee
+IRC13,15,2021,1,19-Mar,19,2,11:37,1:26,CRYMUR,1,DIP,,,Diptera
+IRC13,15,2021,1,19-Mar,19,2,11:37,9:35,PHAPAR,4,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,19,2,11:37,17:40,PHAPAR,3,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,19,2,11:37,18:24,PHAPAR,4,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,19,2,11:37,19:40,PHAPAR,5,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,21,2,12:16,0:00,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,21,2,12:16,0:00,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,21,2,12:16,2:49,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,21,2,12:16,3:58,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,21,2,12:16,10:42,CRYMUR,1,BEE,Native,10,halictid?
+IRC13,15,2021,1,19-Mar,21,2,12:16,16:02,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,21,2,12:16,16:33,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,21,2,12:16,16:33,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC13,15,2021,1,19-Mar,21,2,12:16,17:21,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,1:20,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,2:15,PHAPAR,5,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,4:55,PHAPAR,2,LID,,,Bombyliidae
+IRC13,20,2021,1,19-Mar,20,3,12:48,6:21,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,7:03,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,7:36,PHAPAR,3,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,,CRYMUR,1,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,8:57,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,8:58,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC13,20,2021,1,19-Mar,20,3,12:48,12:25,PHAPAR,2,BEE,Apis,,Apis mellifera
+BKR07,walk,2021,1,22-Mar,15,0,8:50,,nothing,NA,NA,,,
+BKR07,walk,2021,1,22-Mar,15,0,9:05,,nothing,NA,NA,,,
+BKR07,walk,2021,1,22-Mar,15,0,9:15,,nothing,NA,NA,,,
+IRC01,15,2021,1,22-Mar,18,5,12:58,3:56,NA,NA,HUM,,,Hummingbird
+IRC01,15,2021,1,22-Mar,18,5,12:58,6:35,NA,NA,BEE,Apis,,Honeybee
+IRC01,15,2021,1,22-Mar,18,5,12:58,9:20,NA,NA,BEE,Apis,,Honeybee
+IRC01,15,2021,1,22-Mar,18,5,12:58,18:42,NA,NA,BEE,Native,5,Megachillid
+GYP01,25,2021,1,23-Mar,16,2,10:56,nothing,nothing,NA,NA,,,
+GYP01,walk,2021,1,23-Mar,16,2,10:40,nothing,nothing,NA,NA,,,
+GYP01,walk,2021,1,23-Mar,16,2,10:25,nothing,nothing,NA,NA,,,
+GYP08,15,2021,1,23-Mar,17,4,13:28,nothing,nothing,,NA,,,
+GYP08,30,2021,1,23-Mar,18,5,13:48,19:36,SALMEL,2,BEE,Native,5,tiny native bee
+GYP08,walk,2021,1,23-Mar,18,5,14:10,,nothing,NA,NA,,,
+SS05,5,2021,1,25-Mar,14,5,9:54,1:16,MIRLAE,NA,BEE,Apis,,Apis mellifera
+SS05,15,2021,1,25-Mar,14,7,10:23,0:00,MIRLAE,1,BEE,Bombus,,Bombus californicus
+SS05,56,2021,1,25-Mar,14,7,11:03,1:03,MIRLAE,NA,BEE,Apis,,Apis mellifera
+SS05,56,2021,1,25-Mar,14,7,11:03,1:05,MIRLAE,NA,BEE,Apis,,Apis mellifera
+SS05,56,2021,1,25-Mar,14,7,11:03,2:30,MIRLAE,2,BEE,Apis,,Apis mellifera
+SS05,56,2021,1,25-Mar,14,7,11:03,11:39,MIRLAE,1,BEE,Apis,,Apis mellifera
+SS05,56,2021,1,25-Mar,14,7,11:03,14:39,MIRLAE,NA,BEE,Bombus,,Bombus californicus
+SS05,56,2021,1,25-Mar,14,7,11:03,16:02,MIRLAE,2,BEE,Apis,,Apis mellifera
+SS05,56,2021,1,25-Mar,14,7,11:03,,MIRLAE,11,BEE,Apis,,Apis mellifera
+SS05,35,2021,1,25-Mar,15,7,11:26,0:00,MIRLAE,NA,BEE,Apis,,Apis mellifera
+SS05,35,2021,1,25-Mar,15,7,11:26,1:28,MIRLAE,,BEE,Apis,,Apis mellifera
+SS05,35,2021,1,25-Mar,15,7,11:26,1:46,MIRLAE,,BEE,Apis,,Apis mellifera
+SS05,35,2021,1,25-Mar,15,7,11:26,1:56,MIRLAE,2,BEE,Apis,,Apis mellifera
+SS05,35,2021,1,25-Mar,15,7,11:26,,MIRLAE,NA,BEE,Apis,,Apis mellifera
+SS05,35,2021,1,25-Mar,15,7,11:26,4:54,MIRLAE,2,BEE,Apis,,Apis mellifera
+SS05,35,2021,1,25-Mar,15,7,11:26,4:54,MIRLAE,NA,BEE,Native,20,Xylocopa californica
+SS05,35,2021,1,25-Mar,15,7,11:26,12:15,MIRLAE,1,BEE,Native,20,Xylocopa californica
+BKR10,45,2021,1,25-Mar,14,6,12:45,,nothing,NA,NA,,,
+BKR10,walk,2021,1,25-Mar,14,6,13:03,,nothing,NA,NA,,,
+BKR10,walk,2021,1,25-Mar,16,6,13:15,,nothing,NA,NA,,,
+I14,25,2021,1,26-Mar,15,2,10:25,19:50,GILANG,22,BEE,Apis,,Apis mellifera
+I14,40,2021,1,26-Mar,13,2,9:00,nothing,nothing,0,NA,,,
+I14,25,2021,1,26-Mar,13,2,9:25,nothing,nothing,0,NA,,,
+I14,10,2021,1,26-Mar,15,2,10:11,10:15,GILANG,2,BEE,Apis,,Apis mellifera
+I14,10,2021,1,26-Mar,15,2,10:11,10:16,GILANG,2,BEE,Apis,,Apis mellifera
+I14,10,2021,1,26-Mar,15,2,10:11,10:19,EROCIC,1,BEE,Apis,,Apis mellifera
+I14,10,2021,1,26-Mar,15,2,10:11,10:26,EROCIC,3,BEE,Apis,,Apis mellifera
+I14,10,2021,1,26-Mar,15,2,10:11,10:27,EROCIC,1,BEE,Apis,,Apis mellifera
+I14,10,2021,1,26-Mar,15,2,10:11,10:29,GILANG,1,BEE,Apis,,Apis mellifera
+I14,10,2021,1,26-Mar,15,2,10:11,10:30,GILANG,2,BEE,Apis,,Apis mellifera
+I14,40,2021,1,26-Mar,15,2,10:38,10:56,GILANG,3,BEE,Apis,,Apis Mellifera
+I14,40,2021,1,26-Mar,15,2,10:38,10:57,GILANG,5,LID,,,Bombillid
+I15,20,2021,1,26-Mar,16,4,13:23,5:20,CALCIL,32,BEE,Apis,,Apis mellifera
+I15,20,2021,1,26-Mar,16,4,13:23,11:15,CALCIL,22,BEE,Apis,,Apis mellifera
+I15,20,2021,1,26-Mar,16,4,13:23,13:03,CALCIL,4,BEE,Apis,,Apis mellifera
+I15,20,2021,1,26-Mar,16,4,13:23,14:15,CALCIL,4,BEE,Apis,,Apis mellifera
+I15,20,2021,1,26-Mar,16,4,13:23,15:33,CALCIL,1,LID,,,Bombillid
+I15,20,2021,1,26-Mar,16,4,13:23,19:37,CALCIL,4,BEE,Apis,,Apis mellifera
+I15,30,2021,1,26-Mar,16,4,13:50,12:26,GILANG,1,DIP,,,Diptera (mosquito)
+I15,30,2021,1,26-Mar,16,4,13:50,13:38,GILANG,1,DIP,,,sm fly
+I15,20,2021,1,26-Mar,16,4,13:45,13:46,CALCIL,10,BEE,Apis,,Apis mellifera
+I15,20,2021,1,26-Mar,16,4,13:45,13:48,CALCIL,6,BEE,Apis,,Apis mellifera
+I15,20,2021,1,26-Mar,16,4,13:45,13:53,CALCIL,2,SYP,,,Syrphid fly
+I15,20,2021,1,26-Mar,16,4,13:45,14:00,CALCIL,17,BEE,Apis,,Apis mellifera
+I15,20,2021,1,26-Mar,16,4,13:45,14:04,CALCIL,3,BEE,Apis,,Apis mellifera
+GYP02,30,2021,1,29-Mar,19,3,10:30,nothing,nothing,,NA,,,
+GYP02,30,2021,1,29-Mar,20,0,10:54,4:56,KECANT,2,BEE,Native,5,Ceratina 1
+GYP02,30,2021,1,29-Mar,20,0,10:54,,EROCIC,1,BEE,Native,5,cont.
+GYP02,30,2021,1,29-Mar,20,0,10:54,9:44,KECANT,2,BEE,Native,5,Ceratina 1
+SS03,0,2021,1,30-Mar,17,0,9:55,nothing,nothing,,NA,,,
+SS03,20,2021,1,30-Mar,18,0,10:40,nothing,nothing,,NA,,,
+SS03,20,2021,1,30-Mar,18,0,10:40,15:23,EROCIC,NA,BEE,Native,10,Hylaeus
+SS03,45,2021,1,30-Mar,19,0,11:10,nothing,nothing,,NA,,,
+SS03,20,2021,1,30-Mar,19,2,11:32,14:14,DICCAP,NA,BEE,Bombus,,Bombus californicus
+SS03,45,2021,1,30-Mar,21,4,13:08,0:15,CRYMUR,2,DIP,,,Diptera spp.
+SS03,45,2021,1,30-Mar,21,4,13:28,1:43,CRYMUR,1,DIP,,,Diptera
+SS03,45,2021,1,30-Mar,21,4,13:28,9:34,CRYMUR,2,BEE,Native,5,Native bee
+SS03,45,2021,1,30-Mar,21,4,13:28,10:38,CRYMUR,1,DIP,,,Diptera
+I40,20,2021,1,31-Mar,19,0,8:50,nothing,nothing,,NA,,,
+I40,20,2021,1,31-Mar,24,3,9:23,nothing,nothing,,NA,,,
+I40,35,2021,1,31-Mar,27,6,9:50,nothing,nothing,,NA,,,
+I40,45,2021,1,31-Mar,27,7,10:12,nothing,nothing,,NA,,,
+I40,45,2021,1,31-Mar,27,6,10:33,nothing,nothing,,NA,,,
+I40,35,2021,1,31-Mar,28,7,10:55,nothing,nothing,,NA,,,
+I08,45,2021,1,31-Mar,29,6,12:41,nothing,nothing,,NA,,,
+I08,45,2021,1,31-Mar,30,5,12:02,nothing,nothing,,NA,,,
+I08,40,2021,1,31-Mar,28,5,12:40,nothing,nothing,,NA,,,
+I08,40,2021,1,31-Mar,27,6,13:04,nothing,nothing,,NA,,,
+GYP09,40,2021,1,1-Apr,24,0,9:37,6:26,CALMAC,NA,BEE,Bombus,,Bombus californicus
+GYP09,40,2021,1,1-Apr,24,0,9:37,10:58,SALMEL,NA,BEE,Bombus,,Bombus californicus
+GYP09,40,2021,1,1-Apr,24,0,9:37,12:40,CALMAC,NA,BEE,Bombus,,Bombus californicus
+GYP09,30,2021,1,1-Apr,26,0,10:12,2:32,SALMEL,NA,BEE,Bombus,,Bombus spp
+GYP09,30,2021,1,1-Apr,26,0,10:12,5:58,SALMEL,NA,BEE,Bombus,,Bombus californicus
+GYP09,30,2021,1,1-Apr,26,0,10:12,9:40,SALMEL,NA,BEE,Native,10,Native bee
+GYP09,30,2021,1,1-Apr,26,0,10:12,11:50,SALMEL,NA,BEE,Native,10,Native bee
+GYP09,30,2021,1,1-Apr,26,0,10:12,14:42,SALMEL,5,BEE,Bombus,,Bombus californicus
+GYP09,30,2021,1,1-Apr,26,0,10:12,18:32,SALMEL,NA,BEE,Native,5,Xylocopa
+GYP09,0,2021,1,1-Apr,27,3,11:13,0:00,NA,NA,LID,,,Bombyllid
+GYP09,0,2021,1,1-Apr,27,3,11:13,10:32,PHOAUR,2,BEE,Native,10,Native bee
+GYP09,0,2021,1,1-Apr,27,3,11:13,14:25,PHOAUR,NA,BEE,Native,10,""""
+GYP09,0,2021,1,1-Apr,27,3,11:13,15:06,PHOAUR,NA,BEE,Native,5,Native bee
+GYP09,0,2021,1,1-Apr,27,3,11:13,19:02,PHOAUR,NA,BEE,Native,5,Native bee
+GYP09,0,2021,1,1-Apr,27,3,11:13,19:34,PHOAUR,3,BEE,Native,10,Native bee
+GYP09,40,2021,1,1-Apr,30,1,12:00,nothing,nothing,,NA,,,
+GYP09,30,2021,1,1-Apr,30,1,12:21,nothing,nothing,,NA,,,
+GYP09,30,2021,1,1-Apr,30,1,12:21,4:05,SALMEL,NA,BEE,Native,10,Native bee
+GYP09,30,2021,1,1-Apr,30,1,12:21,4:40,SALMEL,NA,BEE,Native,10,Native bee
+GYP09,30,2021,1,1-Apr,30,1,12:21,5:02,SALMEL,NA,BEE,Native,10,Native bee
+GYP09,30,2021,1,1-Apr,30,1,12:21,8:23,SALMEL,NA,BEE,Native,5,Native bee
+GYP09,30,2021,1,1-Apr,30,1,12:21,8:25,SALMEL,NA,BEE,Bombus,,Bombus
+GYP09,30,2021,1,1-Apr,30,1,12:21,8:30,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP09,30,2021,1,1-Apr,30,1,12:21,9:32,SALMEL,1,BEE,Native,10,Native bee
+GYP09,30,2021,1,1-Apr,30,1,12:21,13:48,SALMEL,6,BEE,Native,10,Native bee
+GYP09,30,2021,1,1-Apr,30,1,12:21,17:25,SALMEL,NA,BEE,Native,10,Native bee
+GYP09,30,2021,1,1-Apr,30,1,12:21,16:11,SALMEL,2,BEE,Bombus,,Bombus
+GYP09,30,2021,1,1-Apr,30,1,12:21,17:32,SALMEL,1,BEE,Native,10,Native bee
+I02,0,2021,1,1-Apr,32,3,14:29,4:32,HIRINC,NA,BEE,Apis,,Apis mellifera
+I02,0,2021,1,1-Apr,32,3,14:29,9:36,HIRINC,2,LID,,,Bombyllid
+I02,0,2021,1,1-Apr,32,3,14:29,11:47,HIRINC,5,LID,,,Bombyllid
+I02,0,2021,1,1-Apr,32,3,14:29,12:08,HIRINC,2,LID,,,Bombyllid
+I02,0,2021,1,1-Apr,32,3,14:29,16:34,HIRINC,2,LID,,,Bombyllid
+I02,20,2021,1,1-Apr,32,3,14:50,2:29,HIRINC,NA,LID,,,Bombyllid
+I02,45,2021,1,1-Apr,30,3,15:20,,HESWHI,NA,BEE,Apis,,Apis mellifera
+I02,45,2021,1,1-Apr,29,4,15:40,5:03,SISBEL,NA,BEE,Native,20,Xylocopa
+I02,20,2021,1,1-Apr,29,4,16:01,nothing,nothing,,NA,,,
+I02,0,2021,1,1-Apr,29,4,16:23,1:03,HIRINC,2,BEE,Bombus,,Bombus
+IRC08,5,2021,1,2-Apr,20,5,10:53,5:05,EROCIC,NA,SYP,,,Syphrid fly
+IRC08,5,2021,1,2-Apr,20,5,10:53,,EROCIC,NA,BEE,Apis,,Apis mellifera
+IRC08,5,2021,1,2-Apr,20,5,10:53,,PHAPAR,NA,DIP,,,Diptera
+IRC08,5,2021,1,2-Apr,20,5,10:53,,PHAPAR,NA,BEE,Bombus,,Bombus
+IRC08,5,2021,1,2-Apr,20,5,10:53,,MIRLAE,NA,BEE,Bombus,,Bombus
+IRC08,25,2021,1,2-Apr,21,4,11:14,0:00,EUCCHR,NA,BEE,Apis,,Apis mellifera
+IRC08,25,2021,1,2-Apr,21,4,11:14,4:32,EUCCHR,2,BEE,Native,5,Native bee
+IRC08,25,2021,1,2-Apr,21,4,11:14,5:14,EUCCHR,6,BEE,Apis,,Apis mellifera
+IRC08,25,2021,1,2-Apr,21,4,11:14,6:03,EUCCHR,NA,BEE,Apis,,Apis mellifera
+IRC08,25,2021,1,2-Apr,21,4,11:14,6:10,EUCCHR,NA,BEE,Apis,,Apis mellifera
+IRC08,25,2021,1,2-Apr,21,4,11:14,17:48,EUCCHR,1,SYP,,,Syphrid fly
+IRC08,40,2021,1,2-Apr,22,4,11:36,7:32,EUCCHR,2,BEE,Native,5,Native bee
+IRC08,40,2021,1,2-Apr,22,4,11:36,16:47,EUCCHR,1,BEE,Native,5,Native bee
+IRC08,40,2021,1,2-Apr,22,4,12:10,nothing,nothing,,NA,,,
+IRC08,25,2021,1,2-Apr,23,5,12:51,2:26,EUCCHR,NA,BEE,Native,5,Native bee
+IRC08,25,2021,1,2-Apr,23,5,12:51,10:30,EUCCHR,NA,LID,,,Bombyllid
+IRC08,25,2021,1,2-Apr,23,5,12:51,11:50,EUCCHR,1,BEE,Native,5,Native bee
+IRC08,25,2021,1,2-Apr,23,5,12:51,16:20,EUCCHR,2,BEE,Native,5,Native bee
+IRC08,25,2021,1,2-Apr,23,5,12:51,19:46,EUCCHR,1,BEE,Native,5,Native bee
+IRC08,25,2021,1,2-Apr,23,5,12:51,19:48,EUCCHR,2,BEE,Native,5,Native bee
+IRC08,5,2021,1,2-Apr,22,5,13:44,11:36,PHAPAR,NA,BEE,Bombus,,Bombus
+IRC23,10,2021,2,5-Apr,16,2,9:28,0:00,PHAPAR,NA,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,16,2,9:28,5:20,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,16,2,9:28,5:26,EROCIC,5,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,16,2,9:28,7:39,PHAPAR,3,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,16,2,9:28,9:36,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,16,2,9:28,9:40,EROCIC,2,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,16,2,9:28,10:26,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,16,2,9:28,12:52,PHAPAR,NA,HUM,,,Hummingbird
+IRC23,10,2021,2,5-Apr,16,2,9:28,15:04,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,16,2,9:28,14:15,EROCIC,1,SYP,,,Syphrid fly
+IRC23,20,2021,2,5-Apr,16,2,10:34,0:21,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,1:12,MIRLAE,1,BEE,Native,10,Native bee
+IRC23,20,2021,2,5-Apr,16,2,10:34,,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,2:09,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,3:24,MIRLAE,NA,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,3:55,MIRLAE,2,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,4:10,PHAPAR,NA,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,5:28,MIRLAE,7,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,7:19,PHAPAR,2,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,8:58,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,9:25,MIRLAE,2,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,14:32,MIRLAE,5,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,14:42,MIRLAE,3,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,16,2,10:34,NA,DICCAP,NA,BEE,Native,10,xylocopa
+IRC23,40,2021,2,5-Apr,19,19,11:24,NA,EROCIC,NA,BEE,Apis,,Apis mellifera
+IRC23,40,2021,2,5-Apr,19,19,11:24,NA,CRYMUR,NA,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,19,6,12:13,NA,PHAPAR,NA,BEE,Apis,,Apis mellifera
+IRC23,20,2021,2,5-Apr,19,6,12:13,9:03,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,20,19,13:00,0:00,PHAPAR,1,BEE,Native,5,Native bee spp.
+IRC23,10,2021,2,5-Apr,20,19,13:00,NA,PHAPAR,NA,LID,,,Bombyllid
+IRC23,10,2021,2,5-Apr,20,19,13:00,6:40,PHAPAR,1,BEE,Apis,,Apis mellifera
+IRC23,10,2021,2,5-Apr,20,19,13:00,16:32,PHAPAR,1,BEE,Apis,,Apis mellifera
+BD21,5,2021,2,5-Apr,20,5,15:20,9:26,SALMEL,NA,BEE,Bombus,,Bombus
+BD21,5,2021,2,5-Apr,20,5,15:20,10:05,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,5,2021,2,5-Apr,20,5,15:20,12:11,SALMEL,NA,BEE,Native,10,Native bee spp.
+BD21,35,2021,2,5-Apr,20,6,16:02,nothing,nothing,,NA,,,
+IRC01,35,2021,2,6-Apr,18,2,10:49,NA,EUCCHR,NA,BEE,Apis,,Apis mellifera
+IRC01,35,2021,2,6-Apr,18,2,10:49,NA,CLAPAR,NA,BEE,Apis,,Apis mellifera
+IRC01,35,2021,2,6-Apr,18,2,10:49,2:11,EROCIC,NA,BEE,Apis,,Apis mellifera
+IRC01,20,2021,2,6-Apr,18,2,11:41,11:00,EUCCHR,NA,BEE,Apis,,Apis mellifera
+IRC01,20,2021,2,6-Apr,18,2,11:41,,EUCCHR,NA,SYP,,,Syphrid fly
+IRC01,20,2021,2,6-Apr,18,2,11:41,,EUCCHR,NA,SYP,,,Syphrid fly
+IRC01,20,2021,2,6-Apr,18,2,11:41,,EROCIC,NA,SYP,,,Syphrid fly
+IRC01,20,2021,2,6-Apr,18,2,11:41,,EUCCHR,NA,BEE,Apis,,Apis mellifera
+IRC01,20,2021,2,6-Apr,18,2,11:41,,EUCCHR,NA,LID,,,Bombyllid
+IRC01,20,2021,2,6-Apr,18,2,11:41,,EUCCHR,NA,BEE,Native,5,Native bee spp.
+IRC01,10,2021,2,6-Apr,19,4,11:21,,EUCCHR,NA,BEE,Apis,,Apis mellifera
+IRC01,10,2021,2,6-Apr,19,4,11:21,4:53,EROCIC,NA,BEE,Apis,,Apis mellifera
+IRC01,20,2021,2,6-Apr,20,3,12:05,9:10,EUCCHR,NA,BEE,Apis,,Apis mellifera
+GYP08,30,2021,2,7-Apr,15,0,9:03,NA,SALMEL,NA,BEE,Bombus,,Bombus
+GYP08,30,2021,2,7-Apr,15,0,9:03,NA,LASCAL,NA,LID,,,Bombyllid
+GYP08,30,2021,2,7-Apr,15,0,9:03,NA,LASCAL,NA,DIP,,,Diptera
+GYP08,40,2021,2,7-Apr,15,1,8:36,19:10,SOLXAN,2,LID,,,Bombyllid
+GYP08,walk,2021,2,7-Apr,20,2,10:40,,SISBEL,NA,BEE,Native,10,Halictid bee
+GYP08,walk,2021,2,7-Apr,20,2,10:40,,SISBEL,NA,BEE,Native,5,Adenid bee
+GYP08,40,2021,2,7-Apr,15,1,8:36,nothing,nothing,,NA,,,
+GYP08,25,2021,2,7-Apr,17,2,9:26,9:34,SALMEL,1,BEE,Apis,,Apis mellifera
+GYP08,25,2021,2,7-Apr,17,2,9:26,9:36,SALMEL,9,LID,,,Bombyllid
+GYP08,25,2021,2,7-Apr,17,2,9:26,9:39,SALMEL,1,LID,,,Bombyllid
+GYP08,30,2021,2,7-Apr,19,2,9:48,9:59,LASCAL,1,DIP,,,tachinid? fly
+GYP08,25,2021,2,7-Apr,20,2,10:10,10:19,SALMEL,10,BEE,Bombus,,Bombus
+GYP08,25,2021,2,7-Apr,20,2,10:10,10:21,SALMEL,1,BEE,Apis,,Apis mellifera
+GYP01,45,2021,2,7-Apr,22,3,12:33,12:45,GILANG,1,LID,,,Bombyllid
+GYP01,45,2021,2,7-Apr,22,3,12:33,12:45,EUCCHR,2,BEE,Native,5,Native bee spp.
+GYP01,25,2021,2,7-Apr,23,3,12:57,13:02,CALCIL,2,BEE,Native,10,Andrenidae
+GYP01,25,2021,2,7-Apr,23,3,12:57,13:07,CALCIL,8,BEE,Native,5,Native bee spp.
+GYP01,25,2021,2,7-Apr,23,3,12:57,13:09,CALCIL,4,BEE,Native,5,Native bee spp.
+GYP01,25,2021,2,7-Apr,23,3,12:57,13:12,CALCIL,2,BEE,Native,5,Native bee spp.
+GYP01,25,2021,2,7-Apr,23,3,12:57,13:16,CALCIL,4,BEE,Native,10,Adrenidae
+GYP01,5,2021,2,7-Apr,22,3,13:42,13:47,CALCIL,2,BEE,Native,5,Native bee spp.
+GYP01,25,2021,2,7-Apr,22,3,14:06,14:11,CALCIL,3,BEE,Native,5,Native bee spp.
+GYP01,25,2021,2,7-Apr,22,3,14:06,14:13,CALCIL,6,BEE,Native,5,Native bee spp.
+GYP01,25,2021,2,7-Apr,22,3,14:06,14:15,CALCIL,2,BEE,Native,5,Native bee spp.
+GYP01,25,2021,2,7-Apr,22,3,14:06,14:16,CALCIL,5,LID,,,Bombyllid
+GYP01,45,2021,2,7-Apr,23,4,14:29,14:39,GILANG,4,BEE,Native,5,Native bee spp.
+GYP01,45,2021,2,7-Apr,23,4,14:29,14:32,GILANG,2,LID,,,Bombyllid
+GYP01,45,2021,2,7-Apr,23,4,14:29,14:33,GILANG,1,LID,,,Bombyllid
+GYP01,45,2021,2,7-Apr,23,4,14:29,,EUCCHR,4,LID,,,Bombyllid
+GYP01,45,2021,2,7-Apr,23,4,14:29,,GILANG,5,LID,,,Bombyllid
+GYP01,45,2021,2,7-Apr,23,4,14:29,,EUCCHR,2,LID,,,Bombyllid
+GYP01,45,2021,2,7-Apr,23,4,14:29,14:44,EUCCHR,1,BEE,Native,5,Native bee spp.
+GYP01,45,2021,2,7-Apr,23,4,14:29,14:45,GILANG,1,BEE,Native,5,Native bee spp.
+GYP01,45,2021,2,7-Apr,23,4,14:29,,EUCCHR,1,BEE,Native,5,Native bee spp.
+GYP01,45,2021,2,7-Apr,23,4,14:29,,GILANG,1,LID,,,Bombyllid
+BKR10,5,2021,2,8-Apr,17,3,9:10,,nothing,,NA,,,
+BKR10,0,2021,2,8-Apr,17,3,9:30,,nothing,,NA,,,
+BKR10,5,2021,2,8-Apr,18,3,9:52,,nothing,,NA,,,
+BKR10,0,2021,2,8-Apr,19,3,10:13,,nothing,,NA,,,
+SS05,10,2021,2,8-Apr,21,5,12:04,4:03,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS05,10,2021,2,8-Apr,21,5,12:04,9:10,BRATOU,NA,BEE,Apis,,Apis mellifera
+SS05,10,2021,2,8-Apr,21,5,12:04,10:05,BRATOU,3,BEE,Apis,,Apis mellifera
+SS05,10,2021,2,8-Apr,21,5,12:04,11:32,BRATOU,5,BEE,Apis,,Apis mellifera
+SS05,20,2021,2,8-Apr,20,3,12:33,4:32,CRYMUR,NA,BEE,Native,5,Native bee spp.
+SS05,20,2021,2,8-Apr,20,3,12:33,6:10,CRYMUR,2,BEE,Native,5,Native bee spp.
+SS05,20,2021,2,8-Apr,20,3,12:33,9:15,CRYMUR,NA,LID,,,Bombyllid
+SS05,20,2021,2,8-Apr,20,3,12:33,10:52,CRYMUR,1,BEE,Native,5,Native bee spp.
+SS05,20,2021,2,8-Apr,20,3,12:33,16:29,CRYMUR,NA,BEE,Native,5,Native bee spp.
+SS05,45,2021,2,8-Apr,21,4,13:01,17:52,MIRLAE,NA,BEE,Native,5,Xylocopa
+SS05,45,2021,2,8-Apr,21,4,13:01,19:03,CASEXE,NA,HUM,,,Hummingbird
+SS05,45,2021,2,8-Apr,21,4,13:21,7:28,DICCAP,NA,BEE,Apis,,Apis mellifera
+SS05,45,2021,2,8-Apr,21,4,13:21,16:12,CRYMUR,9,BEE,Apis,,Apis mellifera
+SS05,20,2021,2,8-Apr,21,4,13:42,0:24,CRYMUR,20,BEE,Apis,,Apis mellifera
+SS05,20,2021,2,8-Apr,21,4,13:42,0:24,CRYMUR,2,BEE,Native,5,Native bee spp.
+SS05,10,2021,2,8-Apr,22,5,14:04,4:00,MIRLAE,NA,BEE,Apis,,Apis mellifera
+SS05,10,2021,2,8-Apr,22,5,14:04,4:00,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS05,10,2021,2,8-Apr,22,5,14:04,5:53,BRATOU,2,BEE,Apis,,Apis mellifera
+SS05,10,2021,2,8-Apr,22,5,14:04,6:32,DICCAP,2,BEE,Apis,,Apis mellifera
+SS05,10,2021,2,8-Apr,22,5,14:04,,MIRLAE,NA,BEE,Bombus,,Bombus
+I15,25,2021,2,15-Apr,16,0,10:04,NA,MALSAX,NA,BEE,Native,10,Native bee
+I15,20,2021,2,15-Apr,16,2,10:25,nothing,nothing,,NA,,,
+I15,15,2021,2,15-Apr,17,4,10:45,NA,EROCIC,NA,BEE,Apis,,Apis mellifera
+I15,15,2021,2,15-Apr,17,4,10:45,NA,BRANIG,,BEE,Native,10,Native bee
+I14,5,2021,2,15-Apr,18,4,12:24,NA,HIRINC,NA,LID,,,Bombyllid
+I14,5,2021,2,15-Apr,18,4,12:24,15:39,HIRINC,2,LID,,,Bombyllid
+I14,15,2021,2,15-Apr,18,4,12:45,10:09,HIRINC,NA,BEE,Apis,,Apis mellifera
+I14,15,2021,2,15-Apr,18,4,12:45,14:39,HIRINC,NA,FLY,,,butterfly
+I14,30,2021,2,15-Apr,18,4,13:07,nothing,nothing,,NA,,,
+I14,40,2021,2,15-Apr,18,4,13:28,0:00,GILANG,2,BEE,Native,5,Native bee spp.
+I14,40,2021,2,15-Apr,18,4,13:28,4:03,GILANG,2,NA,,,
+I14,40,2021,2,15-Apr,18,4,13:28,,HIRINC,1,BEE,Native,5,Native bee
+I14,40,2021,2,15-Apr,18,4,13:28,5:30,HIRINC,NA,BEE,Native,5,Native bee
+I14,40,2021,2,15-Apr,18,4,13:28,8:09,HIRINC,NA,BEE,Apis,,Apis mellifera
+I14,45,2021,2,15-Apr,18,5,13:49,nothing,nothing,,NA,,,
+I40,40,2021,2,16-Apr,15,1,9:33,nothing,nothing,,NA,,,
+I40,40,2021,2,16-Apr,16,2,9:55,9:56,ERICAL,12,BEE,Apis,,Apis mellifera
+I40,40,2021,2,16-Apr,16,2,9:55,9:57,ERICAL,4,BEE,Bombus,,Bombus
+I40,40,2021,2,16-Apr,16,2,9:55,10:02,ERICAL,6,BEE,Bombus,,Bombus
+I40,40,2021,2,16-Apr,16,2,9:55,10:08,ERICAL,3,BEE,Apis,,Apis mellifera
+I40,40,2021,2,16-Apr,16,2,9:55,10:13,ERICAL,1,BEE,Bombus,,Bombus
+I40,20,2021,2,16-Apr,17,2,10:18,10:31,ERICAL,3,BEE,Bombus,,Bombus
+I40,15,2021,2,16-Apr,18,2,10:40,10:48,GILANG,1,BEE,Bombus,,Bombus
+I40,15,2021,2,16-Apr,18,2,10:40,,EUCCHR,3,LID,,,Bombyllid
+I40,10,2021,2,16-Apr,18,3,11:09,11:16,GILANG,1,LID,,,Bombyllid
+I40,5,2021,2,16-Apr,18,3,11:24,nothing,nothing,,NA,,,
+I20,46,2021,2,16-Apr,19,6,14:03,14:03,SALMEL,NA,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:05,SALMEL,35,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:08,SALMEL,38,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:13,SALMEL,NA,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:14,SALMEL,2,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:15,SALMEL,NA,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:16,SALMEL,NA,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:16,SALMEL,NA,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:17,SALMEL,NA,BEE,Bombus,,Bombus
+I20,46,2021,2,16-Apr,19,6,14:03,14:17,SALMEL,NA,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:19,SALMEL,7,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:20,SALMEL,17,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:21,SALMEL,5,BEE,Apis,,Apis mellifera
+I20,46,2021,2,16-Apr,19,6,14:03,14:22,SALMEL,8,BEE,Apis,,Apis mellifera
+I20,5,2021,2,16-Apr,19,6,14:10,nothing,nothing,,NA,,,
+GYP02,45,2021,2,19-Apr,21,2,9:12,2:03,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP02,45,2021,2,19-Apr,21,2,9:12,19:01,SCRCAL,NA,BEE,Apis,,Apis mellifera
+GYP02,30,2021,2,19-Apr,23,3,9:40,nothing,nothing,,NA,,,
+GYP02,0,2021,2,19-Apr,23,3,10:02,0:00,ERICAL,4,LID,,,Bombyllid
+GYP02,0,2021,2,19-Apr,23,3,10:02,0:12,ERICAL,1,LID,,,Bombyllid
+GYP02,0,2021,2,19-Apr,23,3,10:02,0:15,ERICAL,1,BEE,Native,10,Osmia
+GYP02,0,2021,2,19-Apr,23,3,10:02,3:32,ERICAL,2,LID,,,Bombyllid
+GYP02,0,2021,2,19-Apr,23,3,10:02,6:42,ERICAL,2,BEE,Bombus,,Bombus
+GYP02,0,2021,2,19-Apr,23,3,10:02,6:55,ERICAL,2,LID,,,Bombyllid
+GYP02,0,2021,2,19-Apr,23,3,10:02,6:57,ERICAL,1,BEE,Native,5,Tiny black ant native bee
+GYP02,0,2021,2,19-Apr,23,3,10:02,9:50,ERICAL,NA,BEE,Native,10,Anthophorine bee
+GYP02,0,2021,2,19-Apr,23,3,10:02,10:05,ERICAL,2,BEE,Native,10,Anthophorine bee
+GYP02,0,2021,2,19-Apr,23,3,10:02,10:12,ERICAL,1,BEE,Native,5,Native bee spp.
+GYP02,0,2021,2,19-Apr,23,3,10:02,11:05,ERICAL,1,BEE,Native,5,Tiny black native bee
+GYP02,0,2021,2,19-Apr,23,3,10:02,13:00,ERICAL,3,HUM,,,Hummingbird
+GYP02,0,2021,2,19-Apr,23,3,10:02,15:15,ERICAL,15,BEE,Apis,,Apis mellifera
+GYP02,0,2021,2,19-Apr,23,3,10:02,19:42,ERICAL,2,BEE,Native,5,"Native bee, fuzz thorax, black with thin white stripes"
+GYP02,0,2021,2,19-Apr,23,3,10:02,19:50,ERICAL,1,BEE,Native,5,"Native bee, tiny, skinny, shiny, no markings on face"
+GYP02,0,2021,2,19-Apr,23,3,10:02,19:55,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP04,0,2021,2,19-Apr,25,5,11:40,0:10,ERICAL,NA,BEE,Native,10,Native bee (photo)
+GYP04,0,2021,2,19-Apr,25,5,11:40,0:21,ERICAL,NA,BEE,Apis,,Apis mellifera
+GYP04,0,2021,2,19-Apr,25,5,11:40,1:15,ERICAL,12,BEE,Native,10,Native bee (photo - same as above)
+GYP04,0,2021,2,19-Apr,25,5,11:40,1:21,ERICAL,2,BEE,Apis,,Apis mellifera
+GYP04,0,2021,2,19-Apr,25,5,11:40,1:23,ERICAL,2,BEE,Native,5,"Tiny native bee, scopae, <1cm, thorax yellow striped"
+GYP04,0,2021,2,19-Apr,25,5,11:40,2:21,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP04,0,2021,2,19-Apr,25,5,11:40,9:32,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP04,0,2021,2,19-Apr,25,5,11:40,9:33,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP04,0,2021,2,19-Apr,25,5,11:40,11:56,ERICAL,5,BEE,Apis,,Apis mellifera
+GYP04,0,2021,2,19-Apr,25,5,11:40,12:10,ERICAL,NA,BEE,Apis,,Apis mellifera
+GYP04,0,2021,2,19-Apr,25,5,11:40,12:12,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP04,40,2021,2,19-Apr,25,5,12:28,0:00,SALMEL,1,BEE,Apis,,Apis mellifera
+GYP04,40,2021,2,19-Apr,25,5,12:28,4:38,SALMEL,3,BEE,Apis,,Apis mellifera
+GYP04,40,2021,2,19-Apr,25,5,12:28,5:21,SALMEL,4,BEE,Apis,,Apis mellifera
+GYP04,40,2021,2,19-Apr,25,5,12:28,5:46,ERICAL,1,BEE,Native,5,Tiny ant native bee
+GYP04,40,2021,2,19-Apr,25,5,12:28,8:32,SALMEL,5,BEE,Apis,,Apis mellifera
+GYP04,40,2021,2,19-Apr,25,5,12:28,8:35,KECANT,1,BEE,Native,5,Small black native bee
+GYP04,40,2021,2,19-Apr,25,5,12:28,9:10,KECANT,2,BEE,Native,10,Native bee (video)
+GYP04,40,2021,2,19-Apr,25,5,12:28,11:28,SALMEL,3,BEE,Apis,,Apis mellifera
+GYP04,40,2021,2,19-Apr,25,5,12:28,13:30,KECANT,1,BEE,Native,10,Native bee (video - same as above)
+GYP04,40,2021,2,19-Apr,25,5,12:28,15:48,KECANT,1,BEE,Native,10,Native bee (video - same as above)
+GYP04,40,2021,2,19-Apr,25,5,12:28,17:02,ERICAL,NA,BEE,Apis,,Apis mellifera
+GYP04,40,2021,2,19-Apr,25,5,12:28,17:32,SALMEL,2,BEE,Apis,,Apis mellifera
+GYP04,25,2021,2,19-Apr,26,6,13:15,0:00,SALMEL,4,BEE,Apis,,Apis mellifera
+GYP04,25,2021,2,19-Apr,26,6,13:15,0:00,SALMEL,5,BEE,Apis,,Apis mellifera
+GYP04,25,2021,2,19-Apr,26,6,13:15,0:00,SALMEL,1,LID,,,Bombyllid
+GYP04,25,2021,2,19-Apr,26,6,13:15,0:32,SALMEL,1,BEE,Native,5,Native bee spp.
+GYP04,25,2021,2,19-Apr,26,6,13:15,9:26,SALMEL,1,BEE,Native,5,Tiny black native bee
+GYP04,25,2021,2,19-Apr,26,6,13:15,11:32,SALMEL,2,BEE,Native,5,Tiny black native bee
+GYP04,25,2021,2,19-Apr,26,6,13:15,12:21,SALMEL,2,BEE,Native,5,Tiny black native bee
+GYP04,25,2021,2,19-Apr,26,6,13:15,16:12,SALMEL,6,BEE,Apis,,Apis mellifera
+GYP04,25,2021,2,19-Apr,26,6,13:15,18:12,SALMEL,10,BEE,Apis,,Apis mellifera
+GYP04,20,2021,2,19-Apr,25,5,13:43,0:58,SALMEL,3,BEE,Apis,,Apis mellifera
+GYP04,20,2021,2,19-Apr,25,5,13:43,2:38,ERICAL,NA,BEE,Native,5,Video bee (seen in GYP-02 too)
+GYP04,20,2021,2,19-Apr,25,5,13:43,3:20,SALMEL,2,BEE,Native,5,Eucera
+GYP04,20,2021,2,19-Apr,25,5,13:43,5:18,SALMEL,2,BEE,Native,5,Tiny solitary bee
+GYP04,20,2021,2,19-Apr,25,5,13:43,5:22,SALMEL,1,BEE,Native,5,Tiny solitary bee
+GYP04,20,2021,2,19-Apr,25,5,13:43,6:02,SALMEL,1,BEE,Native,5,Tiny solitary bee
+GYP04,20,2021,2,19-Apr,25,5,13:43,6:04,SALMEL,4,BEE,Native,10,Hyleus
+GYP04,20,2021,2,19-Apr,25,5,13:43,6:10,SALMEL,3,BEE,Apis,,Apis mellifera
+GYP04,20,2021,2,19-Apr,25,5,13:43,8:25,SALMEL,2,BEE,Native,5,Tiny ant like bee
+GYP04,20,2021,2,19-Apr,25,5,13:43,8:25,SALMEL,6,BEE,Apis,,Apis mellifera
+GYP04,20,2021,2,19-Apr,25,5,13:43,8:32,SALMEL,1,BEE,Native,5,"""Eucera"""
+GYP04,20,2021,2,19-Apr,25,5,13:43,8:32,SALMEL,10,BEE,Apis,,Apis mellifera
+GYP04,20,2021,2,19-Apr,25,5,13:43,8:32,SALMEL,2,BEE,Native,5,Tiny ant like bee
+GYP04,20,2021,2,19-Apr,25,5,13:43,8:32,SALMEL,1,BEE,Native,5,Tiny ant like bee
+GYP04,20,2021,2,19-Apr,25,5,13:43,13:01,SALMEL,2,BEE,Apis,,Apis mellifera
+GYP04,20,2021,2,19-Apr,25,5,13:43,13:42,SALMEL,1,BEE,Native,5,"""Eucera"""
+GYP04,20,2021,2,19-Apr,25,5,13:43,14:30,SALMEL,8,BEE,Native,5,Tiny ant like
+GYP04,20,2021,2,19-Apr,25,5,13:43,15:21,SALMEL,7,BEE,Native,5,Tiny ant like
+GYP04,20,2021,2,19-Apr,25,5,13:43,15:30,SALMEL,5,BEE,Native,5,Tiny ant like
+GYP04,20,2021,2,19-Apr,25,5,13:43,18:31,SALMEL,7,BEE,Native,5,Tiny ant like
+GYP04,20,2021,2,19-Apr,25,5,13:43,18:32,SALMEL,11,BEE,Native,5,Tiny ant like
+GYP04,20,2021,2,19-Apr,25,5,13:43,19:32,SALMEL,3,BEE,Native,5,Tiny ant like
+GYP04,10,2021,2,19-Apr,25,5,14:19,3:32,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP04,10,2021,2,19-Apr,25,5,14:19,8:52,SALMEL,NA,BEE,Native,5,Tiny ant like
+GYP04,10,2021,2,19-Apr,25,5,14:19,9:22,SALMEL,5,BEE,Apis,,Apis mellifera
+GYP04,10,2021,2,19-Apr,25,5,14:19,12:25,ERICAL,1,LID,,,Bombyllid
+GYP04,10,2021,2,19-Apr,25,5,14:19,13:08,SALMEL,8,BEE,Apis,,Apis mellifera
+GYP04,10,2021,2,19-Apr,25,5,14:19,14:25,SALMEL,2,BEE,Apis,,Apis mellifera
+SS04,45,2021,2,20-Apr,17,4,9:23,1:02,SALMEL,NA,BEE,Apis,,Apis mellifera
+SS04,45,2021,2,20-Apr,17,4,9:23,9:12,SALMEL,NA,BEE,Apis,,Apis mellifera
+SS04,45,2021,2,20-Apr,17,4,9:23,11:09,SALMEL,NA,BEE,Bombus,,Bombus
+SS04,30,2021,2,20-Apr,18,6,9:52,nothing,nothing,,NA,,,
+SS04,20,2021,2,20-Apr,18,5,10:16,0:00,EROCIC,1,BEE,Apis,,Apis mellifera
+SS04,20,2021,2,20-Apr,18,5,10:16,3:05,EROCIC,1,SYP,,,Syphrid fly
+SS04,15,2021,2,20-Apr,19,5,10:45,2:15,GILANG,NA,BEE,Apis,,Apis mellifera
+SS04,15,2021,2,20-Apr,19,5,10:45,3:57,GILANG,NA,BEE,Apis,,Apis mellifera
+SS04,15,2021,2,20-Apr,19,5,10:45,9:32,EROCIC,3,SYP,,,Syphrid fly
+SS04,15,2021,2,20-Apr,19,5,10:45,11:50,EROCIC,NA,BEE,Apis,,Apis mellifera
+SS04,15,2021,2,20-Apr,19,5,10:45,18:32,EUCCHR,2,SYP,,,Syphrid fly
+SS04,10,2021,2,20-Apr,19,5,11:12,0:00,GILANG,NA,BEE,Apis,,Apis mellifera
+SS04,10,2021,2,20-Apr,19,5,11:12,3:32,GILANG,2,BEE,Apis,,Apis mellifera
+SS04,10,2021,2,20-Apr,19,5,11:12,3:57,GILANG,1,BEE,Apis,,Apis mellifera
+SS04,5,2021,2,20-Apr,19,6,11:34,1:02,GILANG,NA,BEE,Apis,,Apis mellifera
+SS04,5,2021,2,20-Apr,19,6,11:34,1:05,PHAPAR,NA,BEE,Apis,,Apis mellifera
+SS04,5,2021,2,20-Apr,19,6,11:34,1:20,GILANG,1,BEE,Apis,,Apis mellifera
+SS04,5,2021,2,20-Apr,19,6,11:34,3:33,PHAPAR,NA,BEE,Native,5,Tiny black
+SS04,5,2021,2,20-Apr,19,6,11:34,3:45,PHAPAR,NA,BEE,Bombus,,Saddle bumble
+SS04,5,2021,2,20-Apr,19,6,11:34,5:00,EUCCHR,NA,BEE,Apis,,Apis mellifera
+SS04,5,2021,2,20-Apr,19,6,11:34,6:58,EROCIC,NA,BEE,Apis,,Apis mellifera
+SS03,0,2021,2,20-Apr,19,6,12:37,0:38,GILANG,1,BEE,Apis,,Apis mellifera
+SS03,0,2021,2,20-Apr,19,6,12:37,2:58,GILANG,6,LID,,,Bombyllid
+SS03,0,2021,2,20-Apr,19,6,12:37,14:02,GILANG,1,BEE,Native,5,black tiny native bee
+SS03,10,2021,2,20-Apr,19,6,12:59,0:15,EROBRA,NA,BEE,Apis,,Apis mellifera
+SS03,10,2021,2,20-Apr,19,6,12:59,7:01,EROBRA,1,BEE,Apis,,Apis mellifera
+SS03,10,2021,2,20-Apr,19,6,12:59,9:32,EROBRA,17,BEE,Apis,,Apis mellifera
+SS03,15,2021,2,20-Apr,19,7,13:23,17:32,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS03,15,2021,2,20-Apr,19,7,13:23,17:35,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS03,45,2021,2,20-Apr,19,8,13:45,nothing,nothing,,NA,,,
+SS03,25,2021,2,20-Apr,19,8,14:32,2:12,CRYMUR,6,BEE,Apis,,Apis mellifera
+SS03,25,2021,2,20-Apr,19,8,14:32,4:48,CRYMUR,7,BEE,Apis,,Apis mellifera
+SS03,25,2021,2,20-Apr,19,8,14:32,4:49,CRYMUR,10,BEE,Apis,,Apis mellifera
+SS03,25,2021,2,20-Apr,19,8,14:32,6:32,CRYMUR,4,BEE,Apis,,Apis mellifera
+SS03,25,2021,2,20-Apr,19,8,14:32,11:26,GILANG,1,BEE,Apis,,Apis mellifera
+SS03,25,2021,2,20-Apr,19,8,14:32,11:28,CRYMUR,1,BEE,Apis,,Apis mellifera
+SS03,25,2021,2,20-Apr,19,8,14:32,,GILANG,2,BEE,Apis,,Apis mellifera
+SS03,25,2021,2,20-Apr,19,8,14:32,14:35,CRYMUR,10,BEE,Apis,,Apis mellifera
+SS03,25,2021,2,20-Apr,19,8,14:32,15:32,CRYMUR,2,BEE,Apis,,Apis mellifera
+SS03,25,2021,2,20-Apr,19,8,14:32,16:39,CRYMUR,34,BEE,Apis,,Apis mellifera
+I08,10,2021,2,21-Apr,17,5,10:07,nothing,nothing,,NA,,,
+I08,5,2021,2,21-Apr,16,4,9:32,9:32,SALMEL,2,BEE,Apis,,Apis mellifera
+I08,5,2021,2,21-Apr,16,4,9:32,9:42,SALMEL,2,BEE,Apis,,Apis mellifera
+I08,5,2021,2,21-Apr,16,4,9:32,9:44,SALMEL,1,BEE,Apis,,Apis mellifera
+I08,5,2021,2,21-Apr,16,4,9:32,9:45,SALMEL,3,BEE,Apis,,Apis mellifera
+I08,5,2021,2,21-Apr,16,4,9:32,9:48,SALMEL,1,BEE,Apis,,Apis mellifera
+I08,5,2021,2,21-Apr,16,4,9:32,9:50,SALMEL,4,BEE,Apis,,Apis mellifera
+I08,5,2021,2,21-Apr,16,4,9:32,9:51,SALMEL,3,BEE,Apis,,Apis mellifera
+I08,5,2021,2,21-Apr,17,5,9:53,9:53,SALMEL,2,BEE,Apis,,Apis mellifera
+I08,5,2021,2,21-Apr,17,5,9:53,9:57,SALMEL,1,BEE,Apis,,Apis mellifera
+I08,5,2021,2,21-Apr,17,5,9:53,10:00,SALMEL,1,BEE,Apis,,Apis mellifera
+I08,10,2021,2,21-Apr,18,6,10:29,10:48,SALMEL,1,BEE,Apis,,Apis mellifera
+I40,30,2021,2,21-Apr,17,5,11:30,nothing,nothing,,NA,,,
+I40,10,2021,2,21-Apr,18,6,12:28,13:22,SALMEL,NA,BEE,Bombus,,Bombus
+I40,10,2021,2,21-Apr,17,5,11:43,11:49,SALMEL,2,BEE,Bombus,,Bombus
+I40,10,2021,2,21-Apr,17,5,11:43,12:02,SALMEL,2,BEE,Apis,,Apis mellifera
+I40,15,2021,2,21-Apr,18,6,12:08,nothing,nothing,,NA,,,
+I40,15,2021,2,21-Apr,18,6,12:29,nothing,nothing,,NA,,,
+IRC08,45,2021,2,26-Apr,17,4,12:41,9:05,BRANIG,NA,BEE,Apis,,Apis mellifera
+IRC08,45,2021,2,26-Apr,17,4,12:41,16:32,EROCIC,NA,BEE,Apis,,Apis mellifera
+IRC08,45,2021,2,26-Apr,17,4,12:41,17:08,BRANIG,NA,BEE,Native,5,Native bee
+IRC08,35,2021,2,26-Apr,18,5,13:36,9:32,EUCCHR,1,BEE,Native,5,Native bee
+IRC08,35,2021,2,26-Apr,18,5,13:36,15:28,EROCIC,1,BEE,Apis,,Apis mellifera
+IRC08,25,2021,2,26-Apr,18,6,14:00,0:00,EUCCHR,NA,SYP,,,Syphrid fly
+IRC08,25,2021,2,26-Apr,18,6,14:00,9:32,BRANIG,2,BEE,Native,10,Native bee
+IRC08,15,2021,2,26-Apr,18,7,14:25,nothing,nothing,,NA,,,
+IRC08,5,2021,2,26-Apr,18,7,14:49,nothing,nothing,,NA,,,
+IRC08,10,2021,2,26-Apr,18,6,15:09,5:03,EUCCHR,1,SYP,,,Syphrid fly
+I02,0,2021,2,27-Apr,14,3,8:37,nothing,nothing,,NA,,,
+I02,15,2021,2,27-Apr,15,2,9:03,nothing,nothing,,NA,,,
+I02,30,2021,2,27-Apr,16,3,9:39,14:01,HIRINC,1,BEE,Apis,,Apis mellifera
+I02,35,2021,2,27-Apr,17,3,10:00,12:38,SALMEL,NA,BEE,Apis,,Apis mellifera
+I02,35,2021,2,27-Apr,17,3,10:00,13:03,HIRINC,NA,BEE,Apis,,Apis mellifera
+I02,35,2021,2,27-Apr,17,3,10:00,15:27,SALMEL,NA,BEE,Bombus,,Bombus
+I02,45,2021,2,27-Apr,17,5,10:27,4:59,SALMEL,NA,BEE,Apis,,Apis mellifera
+I02,45,2021,2,27-Apr,17,5,10:27,13:11,SALMEL,NA,BEE,Bombus,,Bombus
+GYP09,walk,2021,2,27-Apr,17,5,NA,NA,ESCCAL,NA,BEE,Native,10,Halictid
+GYP09,25,2021,2,27-Apr,18,5,12:16,17:02,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP09,20,2021,2,27-Apr,18,6,12:45,nothing,nothing,,NA,,,
+GYP09,5,2021,2,27-Apr,18,5,13:15,14:32,KECANT,4,BEE,Apis,,Apis mellifera
+GYP09,5,2021,2,27-Apr,18,5,13:15,15:03,KECANT,1,BEE,Native,5,Ceratina/hyleus
+GYP09,5,2021,2,27-Apr,18,5,13:15,,ERICON,1,BEE,Native,5,
+GYP09,5,2021,2,27-Apr,18,5,13:15,17:04,KECANT,1,BEE,Apis,,Apis mellifera
+GYP09,5,2021,2,27-Apr,18,5,13:15,17:04,KECANT,NA,BEE,Native,5,smaller black carpenter bee
+GYP09,0,2021,2,27-Apr,18,5,13:45,9:30,KECANT,NA,HUM,,,Hummingbird
+GYP01,10,2021,3,28-Apr,17,2,9:00,nothing,nothing,,NA,,,
+GYP01,15,2021,3,28-Apr,19,2,9:21,nothing,nothing,,NA,,,
+GYP01,25,2021,3,28-Apr,20,2,9:46,0:00,ESCCAL,NA,BEE,Apis,,Apis mellifera
+GYP01,25,2021,3,28-Apr,20,2,9:46,2:36,ESCCAL,NA,BEE,Native,10,Native bee
+GYP01,25,2021,3,28-Apr,20,2,9:46,10:02,BRANIG,NA,BEE,Apis,,Apis mellifera
+GYP01,25,2021,3,28-Apr,20,2,9:46,16:57,ESCCAL,NA,BEE,Native,5,Native bee
+GYP01,45,2021,3,28-Apr,21,3,10:20,0:50,MALSAX,2,BEE,Native,10,Native bee
+GYP01,45,2021,3,28-Apr,21,3,10:20,,MALSAX,1,BEE,Native,10,Native bee
+GYP01,45,2021,3,28-Apr,21,3,10:20,1:20,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP01,30,2021,3,28-Apr,22,3,10:41,10:35,BRANIG,5,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:20,0:16,SALMEL,28,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:20,3:28,SALMEL,8,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:20,3:30,SALMEL,3,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:20,NA,GILANG,NA,BEE,Native,5,Native bee
+GYP08,25,2021,3,28-Apr,23,4,12:20,7:20,SALMEL,18,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:20,10:28,SALMEL,4,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:20,10:35,SALMEL,2,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:20,16:32,SALMEL,18,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:20,17:48,SALMEL,2,BEE,Native,10,Native bee
+GYP08,25,2021,3,28-Apr,23,4,12:20,18:32,SALMEL,5,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:20,18:48,SALMEL,12,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:40,2:45,SALMEL,7,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,23,4,12:40,5:20,SALMEL,2,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,24,4,12:40,6:28,SALMEL,2,LID,,,Bombyllid
+GYP08,25,2021,3,28-Apr,24,4,12:40,6:32,SALMEL,11,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,24,4,12:40,7:35,SALMEL,12,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,24,4,12:40,9:09,SALMEL,17,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,24,4,12:40,9:13,SALMEL,4,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,24,4,12:40,10:13,SALMEL,1,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,24,4,12:40,10:20,SALMEL,2,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,24,4,12:40,10:40,SALMEL,9,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,24,4,12:40,13:07,SALMEL,6,BEE,Apis,,Apis mellifera
+GYP08,25,2021,3,28-Apr,24,4,12:40,19:09,SALMEL,1,BEE,Native,5,Native bee
+GYP08,15,2021,3,28-Apr,24,4,13:08,nothing,nothing,,NA,,,
+GYP08,15,2021,3,28-Apr,24,4,13:28,nothing,nothing,,NA,,,
+IRC01,walk,2021,3,29-Apr,23,0,10:00,,CALCAT,NA,BEE,Apis,,Apis mellifera
+IRC01,walk,2021,3,29-Apr,23,0,10:00,,EUCCHR,NA,BEE,Native,5,Native bee
+IRC01,walk,2021,3,29-Apr,23,0,10:00,,EUCCHR,NA,LID,,,Bombyllid
+IRC01,45,2021,3,29-Apr,23,0,9:52,3:53,EUCCHR,1,BEE,Native,5,Native bee
+IRC01,45,2021,3,29-Apr,23,0,9:52,15:00,CALCAT,1,BEE,Apis,,Apis mellifera
+IRC01,45,2021,3,29-Apr,23,0,9:52,16:52,EUCCHR,NA,BEE,Native,5,Native bee
+IRC01,25,2021,3,29-Apr,25,1,10:28,5:22,EUCCHR,NA,BEE,Apis,,Apis mellifera
+IRC01,25,2021,3,29-Apr,25,1,10:28,5:25,EUCCHR,NA,BEE,Apis,,Apis mellifera
+IRC01,25,2021,3,29-Apr,25,1,10:28,10:20,EUCCHR,2,BEE,Apis,,Apis mellifera
+IRC01,25,2021,3,29-Apr,25,1,10:28,11:12,EUCCHR,4,BEE,Apis,,Apis mellifera
+IRC01,20,2021,3,29-Apr,26,2,10:51,1:03,EUCCHR,NA,LID,,,Bombyllid
+IRC01,20,2021,3,29-Apr,26,2,10:51,NA,DICCAP,NA,HUM,,,Hummingbird
+IRC01,0,2021,3,29-Apr,26,3,11:20,0:00,EUCCHR,19,BEE,Apis,,Apis mellifera
+IRC01,0,2021,3,29-Apr,26,3,11:20,4:28,EUCCHR,11,BEE,Apis,,Apis mellifera
+IRC01,0,2021,3,29-Apr,26,3,11:20,7:31,EUCCHR,3,BEE,Apis,,Apis mellifera
+IRC01,0,2021,3,29-Apr,26,3,11:20,7:45,DICCAP,2,BEE,Apis,,Apis mellifera
+IRC01,0,2021,3,29-Apr,26,3,11:20,8:53,EUCCHR,1,BEE,Apis,,Apis mellifera
+IRC01,0,2021,3,29-Apr,26,3,11:20,10:15,EUCCHR,1,BEE,Apis,,Apis mellifera
+IRC01,0,2021,3,29-Apr,26,3,11:20,16:12,EUCCHR,1,BEE,Apis,,Apis mellifera
+IRC01,0,2021,3,29-Apr,26,3,11:20,18:28,EUCCHR,2,BEE,Native,5,Native bee?
+IRC01,15,2021,3,29-Apr,27,4,11:45,nothing,nothing,,NA,,,
+IRC01,45,2021,3,29-Apr,27,4,12:07,7:02,EUCCHR,NA,LID,,,Bombyllid
+BD21,40,2021,3,30-Apr,23,0,9:00,1:21,SALMEL,21,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,1:32,SALMEL,3,DIP,,,Diptera
+BD21,40,2021,3,30-Apr,23,0,9:00,2:53,SALMEL,1,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,3:40,SALMEL,35,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,5:20,SALMEL,18,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,5:24,SALMEL,2,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,5:57,SALMEL,10,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,7:02,SALMEL,2,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,7:03,SALMEL,1,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,7:40,SALMEL,6,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,8:11,SALMEL,1,SYP,,,Syphrid fly
+BD21,40,2021,3,30-Apr,23,0,9:00,8:44,SALMEL,10,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,9:04,SALMEL,34,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,9:58,SALMEL,21,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,10:11,SALMEL,4,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,11:20,SALMEL,11,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,11:23,SALMEL,11,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,12:23,SALMEL,26,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,12:42,SALMEL,1,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,14:22,SALMEL,2,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,14:22,SALMEL,10,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,15:12,SALMEL,2,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,15:23,SALMEL,16,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,15:38,SALMEL,2,BEE,Native,5,Native bee
+BD21,40,2021,3,30-Apr,23,0,9:00,15:38,SALMEL,NA,BEE,Native,10,Halictid
+BD21,40,2021,3,30-Apr,23,0,9:00,17:58,SALMEL,1,BEE,Native,5,Same as PHAPAR native honey CRYINT
+BD21,40,2021,3,30-Apr,23,0,9:00,18:39,SALMEL,12,BEE,Apis,,Apis mellifera
+BD21,40,2021,3,30-Apr,23,0,9:00,19:01,SALMEL,1,BEE,Native,10,Native bee
+IRC23,walk,2021,3,30-Apr,23,0,NA,,BRANIG,NA,BEE,Native,10,Anthophorine bee
+IRC23,45,2021,3,30-Apr,29,3,11:45,0:00,CALMAC,NA,BEE,Native,10,Anthophorine bee
+IRC23,45,2021,3,30-Apr,29,3,11:45,6:24,ENCCAL,NA,DIP,,,Diptera
+IRC23,45,2021,3,30-Apr,29,3,11:45,7:40,CALMAC,1,BEE,Native,10,Anthophorine bee
+IRC23,45,2021,3,30-Apr,29,3,11:45,15:24,CALMAC,NA,BEE,Native,10,Anthophorine bee
+IRC23,45,2021,3,30-Apr,29,3,11:45,17:03,ENCCAL,NA,BEE,Native,10,Native bee
+IRC23,45,2021,3,30-Apr,29,3,11:45,18:29,CALMAC,NA,BEE,Native,5,Native bee
+IRC23,45,2021,3,30-Apr,29,3,11:45,19:02,ENCCAL,NA,BEE,Native,10,Native bee
+IRC23,45,2021,3,30-Apr,29,3,11:45,19:40,ENCCAL,NA,BEE,Native,10,Native bee
+IRC23,35,2021,3,30-Apr,29,4,12:12,9:21,BRANIG,NA,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:04,SALMEL,6,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:05,SALMEL,5,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:06,SALMEL,2,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:08,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:08,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:11,SALMEL,14,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:12,SALMEL,7,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:16,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:16,SALMEL,11,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:18,SALMEL,2,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:18,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:19,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:20,SALMEL,21,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:21,SALMEL,3,BEE,Apis,,Apis mellifera
+BD21,10,2021,3,30-Apr,23,0,9:02,9:21,SALMEL,2,BEE,Apis,,Apis mellifera
+BD21,15,2021,3,30-Apr,25,0,9:25,9:28,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,15,2021,3,30-Apr,25,0,9:25,9:30,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,15,2021,3,30-Apr,25,0,9:25,9:35,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,15,2021,3,30-Apr,25,0,9:25,9:40,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,15,2021,3,30-Apr,25,0,9:25,9:43,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,15,2021,3,30-Apr,25,0,9:25,9:45,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:50,SALMEL,3,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:51,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:51,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:53,SALMEL,2,BEE,Native,5,Native bee
+BD21,0,2021,3,30-Apr,26,2,9:50,9:54,SALMEL,13,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:54,SALMEL,4,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:55,SALMEL,1,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:56,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:57,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:58,SALMEL,NA,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,9:58,SALMEL,2,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,10:00,SALMEL,7,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,10:02,SALMEL,2,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,10:06,SALMEL,5,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,10:06,SALMEL,NA,BEE,Native,20,Carpenter bee
+BD21,0,2021,3,30-Apr,26,2,9:50,10:07,SALMEL,6,BEE,Apis,,Apis mellifera
+BD21,0,2021,3,30-Apr,26,2,9:50,10:08,SALMEL,NA,BEE,Native,10,halictid
+BD21,0,2021,3,30-Apr,26,2,9:50,10:09,SALMEL,NA,BEE,Apis,,Apis mellifera
+IRC23,20,2021,3,30-Apr,29,4,11:49,nothing,nothing,,NA,,,
+IRC23,25,2021,3,30-Apr,29,4,12:19,12:34,BRANIG,40,BEE,Apis,,Apis mellifera
+IRC23,25,2021,3,30-Apr,29,4,12:19,12:35,BRANIG,2,BEE,Apis,,Apis mellifera
+I14,40,2021,3,3-May,18,0,9:04,,nothing,,NA,,,
+I14,10,2021,3,3-May,19,2,9:33,,nothing,,NA,,,
+I14,40,2021,3,3-May,19,3,9:57,3:01,BRANIG,NA,FLY,,,Butterfly
+I14,10,2021,3,3-May,20,3,10:21,15:00,CAMMIC,NA,BEE,Native,5,Native bee
+I14,10,2021,3,3-May,20,3,10:21,15:04,CAMMIC,NA,LID,,,Bombyllid
+I15,25,2021,3,3-May,21,4,11:33,6:52,BRANIG,NA,BEE,Apis,,Apis mellifera
+I15,25,2021,3,3-May,21,4,11:33,8:00,BRANIG,2,LID,,,Bombyllid
+I15,25,2021,3,3-May,21,4,11:33,16:24,BRANIG,NA,SYP,,,Syphrid fly
+I15,25,2021,3,3-May,21,4,11:33,16:25,BRANIG,NA,BEE,Native,10,Native bee
+I15,25,2021,3,3-May,21,4,11:33,19:36,BRANIG,NA,BEE,Native,10,Native bee
+I15,20,2021,3,3-May,21,5,11:55,5:02,BRANIG,1,BEE,Native,5,Native bee
+I15,20,2021,3,3-May,21,5,11:55,10:28,BRANIG,2,BEE,Apis,,Apis mellifera
+I15,20,2021,3,3-May,21,5,11:55,10:29,BRANIG,1,SYP,,,Syphrid fly
+I15,20,2021,3,3-May,21,3,12:22,5:23,BRANIG,NA,SYP,,,Syphrid fly
+I15,20,2021,3,3-May,21,3,12:22,6:41,BRANIG,NA,BEE,Apis,,Apis mellifera
+I15,20,2021,3,3-May,21,3,12:22,7:23,BRANIG,19,BEE,Apis,,Apis mellifera
+I15,20,2021,3,3-May,21,3,12:22,8:08,BRANIG,1,BEE,Native,10,Halictid
+I15,20,2021,3,3-May,21,3,12:22,11:42,BRANIG,26,BEE,Apis,,Apis mellifera
+I15,25,2021,3,3-May,21,2,12:43,4:32,BRANIG,NA,BEE,Apis,,Apis mellifera
+SS05,0,2021,3,4-May,19,2,9:15,12:21,EROCIC,NA,BEE,Apis,,Apis mellifera
+SS05,0,2021,3,4-May,19,2,9:15,15:01,CRYMUR,1,BEE,Apis,,Apis mellifera
+SS05,0,2021,3,4-May,19,2,9:15,15:03,CRYMUR,4,BEE,Apis,,Apis mellifera
+SS05,0,2021,3,4-May,19,2,9:15,17:28,CRYMUR,5,BEE,Apis,,Apis mellifera
+SS05,0,2021,3,4-May,19,2,9:15,19:32,MIRLAE,NA,BEE,Apis,,Apis mellifera
+SS05,5,2021,3,4-May,20,2,9:43,2:28,CRYMUR,NA,SYP,,,Syphrid fly
+SS05,10,2021,3,4-May,20,2,10:05,10:27,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS05,10,2021,3,4-May,20,2,10:05,10:27,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS05,10,2021,3,4-May,20,2,10:05,10:27,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS05,10,2021,3,4-May,20,2,10:05,10:27,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS05,40,2021,3,4-May,22,2,10:30,6:06,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS05,40,2021,3,4-May,22,2,10:30,6:40,CRYMUR,8,BEE,Apis,,Apis mellifera
+SS05,40,2021,3,4-May,22,2,10:30,8:07,CASEXE,NA,HUM,,,Hummingbird
+SS05,40,2021,3,4-May,22,2,10:30,17:11,BRANIG,NA,BEE,Native,5,Native bee
+SS05,40,2021,3,4-May,22,2,10:30,17:20,CRYMUR,2,BEE,Apis,,Apis mellifera
+SS05,45,2021,3,4-May,22,2,10:52,0:54,CRYMUR,4,BEE,Apis,,Apis mellifera
+SS05,45,2021,3,4-May,22,2,10:52,5:11,CALMAC,NA,BEE,Native,10,Native bee
+SS05,45,2021,3,4-May,22,2,10:52,7:32,BRANIG,NA,BEE,Apis,,Apis mellifera
+SS05,45,2021,3,4-May,22,2,10:52,7:40,BRANIG,NA,SYP,,,Syphrid fly
+SS05,45,2021,3,4-May,22,2,10:52,7:40,CRYMUR,NA,SYP,,,Syphrid fly
+SS05,45,2021,3,4-May,22,2,10:52,7:42,CRYMUR,NA,DIP,,,Diptera
+SS05,45,2021,3,4-May,22,2,10:52,8:02,CRYMUR,NA,BEE,Native,5,Native bee
+SS05,45,2021,3,4-May,22,2,10:52,8:02,CRYMUR,NA,BEE,Native,5,Native bee
+SS05,45,2021,3,4-May,22,2,10:52,9:03,CRYMUR,1,BEE,Apis,,Apis mellifera
+SS05,45,2021,3,4-May,22,2,10:52,17:14,CRYMUR,11,DIP,,,Diptera
+SS05,45,2021,3,4-May,22,2,10:52,18:44,CRYMUR,NA,BEE,Native,10,Native bee
+SS05,45,2021,3,4-May,22,2,10:52,19:32,CRYMUR,7,BEE,Apis,,Apis mellifera
+BKR10,walk,2021,3,4-May,22,4,12:50,NA,SALMEL,,BEE,Apis,,Apis mellifera
+BKR10,walk,2021,3,4-May,22,4,12:50,NA,CASEXE,,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,0:00,SALMEL,2,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,0:21,SALMEL,5,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,1:14,SALMEL,16,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,1:32,SALMEL,24,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,1:33,SALMEL,15,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,3:05,SALMEL,10,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,3:42,SALMEL,4,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,4:32,SALMEL,11,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,5:24,SALMEL,3,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,6:35,SALMEL,17,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,6:44,SALMEL,2,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,6:45,SALMEL,1,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,6:47,SALMEL,14,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,7:52,SALMEL,25,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,8:01,SALMEL,17,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,9:58,SALMEL,15,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,10:24,SALMEL,2,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,10:53,SALMEL,48,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,12:01,SALMEL,19,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,12:12,SALMEL,37,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,15:24,SALMEL,21,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,15:26,SALMEL,12,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,17:13,SALMEL,5,BEE,Apis,,Apis mellifera
+BKR10,45,2021,3,4-May,22,4,13:03,19:08,SALMEL,1,BEE,Native,10,Halictid
+BKR10,25,2021,3,4-May,22,4,13:31,0:32,BRANIG,2,BEE,Native,5,native bee
+BKR10,25,2021,3,4-May,22,4,13:31,,BRANIG,5,BEE,Native,5,native bee
+BKR10,25,2021,3,4-May,22,4,13:31,2:52,BRANIG,1,BEE,Native,10,native bee
+BKR10,25,2021,3,4-May,22,4,13:31,5:50,BRANIG,4,BEE,Native,5,native bee
+BKR10,25,2021,3,4-May,22,4,13:31,5:51,BRANIG,2,BEE,Native,5,native bee
+BKR10,25,2021,3,4-May,22,4,13:31,8:32,BRANIG,5,DIP,,,Diptera
+BKR10,25,2021,3,4-May,22,4,13:31,11:13,BRANIG,2,DIP,,,Diptera
+BKR10,25,2021,3,4-May,22,4,13:31,11:45,BRANIG,1,BEE,Native,5,native bee
+BKR10,25,2021,3,4-May,22,4,13:31,13:26,BRANIG,13,DIP,,,Diptera
+BKR10,25,2021,3,4-May,22,4,13:31,16:32,BRANIG,5,DIP,,,Diptera
+BKR10,25,2021,3,4-May,22,4,13:31,18:10,BRANIG,3,DIP,,,Diptera
+BKR10,25,2021,3,4-May,22,4,13:31,19:20,BRANIG,5,DIP,,,Diptera
+BKR10,20,2021,3,4-May,22,4,13:55,0:51,SILMAR,NA,BEE,Apis,,Apis mellifera
+BKR10,20,2021,3,4-May,22,4,13:55,6:10,SILMAR,NA,DIP,,,Diptera
+BKR10,20,2021,3,4-May,22,4,13:55,8:52,SILMAR,NA,DIP,,,Diptera
+GYP02,45,2021,3,6-May,18,2,8:55,0:00,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,18,2,8:55,2:10,SCRCAL,0.1,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,18,2,8:55,5:00,SCRCAL,0.1,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,18,2,8:55,,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,18,2,8:55,7:12,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,18,2,8:55,16:08,ERICON,NA,DIP,,,Diptera
+GYP02,15,2021,3,6-May,18,2,9:22,6:15,SALMEL,7,BEE,Apis,,Apis mellifera
+GYP02,15,2021,3,6-May,18,2,9:22,NA,ERICAL,NA,HUM,,,Hummingbird
+GYP02,15,2021,3,6-May,18,2,9:22,NA,ERICAL,NA,BEE,Apis,,Apis mellifera
+GYP02,15,2021,3,6-May,19,2,9:50,0:00,CALMAC,1,BEE,Native,10,native bee
+GYP02,15,2021,3,6-May,19,2,9:50,12:15,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP02,15,2021,3,6-May,19,2,9:50,16:28,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,21,4,10:40,1:02,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,21,4,10:40,3:25,SALMEL,NA,LID,,,Bombyllid
+GYP02,45,2021,3,6-May,21,4,10:40,6:18,SALMEL,3,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,21,4,10:40,7:28,SALMEL,7,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,21,4,10:40,7:52,SALMEL,4,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,21,4,10:40,8:55,SALMEL,2,BEE,Native,5,Native bee
+GYP02,45,2021,3,6-May,21,4,10:40,17:28,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP02,45,2021,3,6-May,21,4,10:40,18:12,ERICON,NA,DIP,,,Diptera
+GYP02,45,2021,3,6-May,21,4,10:40,18:20,SALMEL,NA,FLY,,,Butterfly
+GYP02,45,2021,3,6-May,21,4,10:40,19:55,SALMEL,3,BEE,Apis,,Apis mellifera
+GYP04,35,2021,3,6-May,21,5,11:40,1:02,KECANT,4,BEE,Apis,,Apis mellifera
+GYP04,35,2021,3,6-May,21,5,11:40,3:21,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP04,35,2021,3,6-May,21,5,11:40,5:10,KECANT,3,BEE,Apis,,Apis mellifera
+GYP04,35,2021,3,6-May,21,5,11:40,10:07,KECANT,5,BEE,Apis,,Apis mellifera
+GYP04,35,2021,3,6-May,21,5,11:40,17:18,KECANT,3,BEE,Apis,,Apis mellifera
+GYP04,30,2021,3,6-May,21,5,12:03,6:32,SALMEL,6,BEE,Apis,,Apis mellifera
+GYP04,30,2021,3,6-May,21,5,12:03,7:50,SALMEL,4,BEE,Apis,,Apis mellifera
+GYP04,30,2021,3,6-May,21,5,12:03,11:36,SALMEL,7,BEE,Apis,,Apis mellifera
+GYP04,30,2021,3,6-May,21,5,12:03,12:00,SALMEL,20,BEE,Apis,,Apis mellifera
+GYP04,30,2021,3,6-May,21,5,12:03,16:11,SALMEL,5,BEE,Apis,,Apis mellifera
+GYP04,30,2021,3,6-May,21,5,12:03,16:16,SALMEL,1,BEE,Apis,,Apis mellifera
+GYP04,20,2021,3,6-May,21,5,12:28,0:00,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP04,20,2021,3,6-May,21,5,12:28,10:28,SALMEL,9,BEE,Apis,,Apis mellifera
+GYP04,10,2021,3,6-May,21,5,12:55,12:21,SALMEL,NA,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,0:00,ERICAL,2,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,0:00,ERICAL,1,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,2:12,ERICAL,15,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,3:22,ERICAL,3,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,4:07,ERICAL,2,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,4:10,ERICAL,NA,BEE,Bombus,,Bombus
+GYP04,5,2021,3,6-May,21,5,13:12,6:01,ERICAL,5,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,7:52,ERICAL,NA,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,7:58,ERICAL,2,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,10:40,ERICAL,3,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,14:38,ERICAL,2,BEE,Apis,,Apis mellifera
+GYP04,5,2021,3,6-May,21,5,13:12,18:02,ERICAL,1,BEE,Apis,,Apis mellifera
+GYP04,0,2021,3,6-May,21,4,13:35,4:06,ERICAL,2,BEE,Apis,,Apis mellifera
+GYP04,0,2021,3,6-May,21,4,13:35,9:20,ERICAL,3,BEE,Apis,,Apis mellifera
+GYP04,0,2021,3,6-May,21,4,13:35,13:13,ERICAL,10,LID,,,Bombyllid
+GYP04,0,2021,3,6-May,21,4,13:35,13:25,ERICAL,23,BEE,Apis,,Apis mellifera
+GYP04,0,2021,3,6-May,21,4,13:35,16:40,ERICAL,1,BEE,Apis,,Apis mellifera
+GYP04,0,2021,3,6-May,21,4,13:35,17:21,ERICAL,NA,BEE,Native,10,Anthophorine
+GYP04,0,2021,3,6-May,21,4,13:35,17:53,ERICAL,2,BEE,Apis,,Apis mellifera
+GYP04,0,2021,3,6-May,21,4,13:35,NA,ERICAL,NA,BEE,Native,5,native bee
+SS03,45,2021,3,7-May,17,2,9:30,2:56,EROBRA,NA,BEE,Apis,,Apis mellifera
+SS03,45,2021,3,7-May,17,2,9:30,17:02,EROBRA,2,BEE,Apis,,Apis mellifera
+SS03,35,2021,3,7-May,17,2,9:56,nothing,nothing,,NA,,,
+SS03,20,2021,3,7-May,18,2,10:22,0:15,CRYMUR,1,SYP,,,Syphrid fly
+SS03,20,2021,3,7-May,18,2,10:22,1:21,CRYMUR,NA,LID,,,Bombyllid
+SS03,20,2021,3,7-May,18,2,10:22,1:24,EROBRA,NA,LID,,,Bombyllid
+SS03,20,2021,3,7-May,18,2,10:22,12:32,EROBRA,NA,BEE,Apis,,Apis mellifera
+SS03,5,2021,3,7-May,18,3,10:50,3:12,BRANIG,1,BEE,Apis,,Apis mellifera
+SS03,5,2021,3,7-May,18,3,10:50,5:13,EROBRA,NA,BEE,Native,5,Native bee
+SS03,5,2021,3,7-May,18,3,10:50,,BRANIG,NA,BEE,Native,5,Native bee
+SS03,5,2021,3,7-May,18,3,10:50,14:34,EROBRA,NA,BEE,Apis,,Apis mellifera
+SS03,0,2021,3,7-May,18,3,11:17,7:20,EROBRA,3,BEE,Apis,,Apis mellifera
+SS03,0,2021,3,7-May,18,3,11:17,12:05,BRANIG,NA,BEE,Apis,,Apis mellifera
+SS03,0,2021,3,7-May,18,3,11:17,16:07,CALSPL,NA,BEE,Native,10,Native bee
+SS03,0,2021,3,7-May,18,3,11:17,NA,GILANG,NA,BEE,Apis,,Apis mellifera
+SS04,0,2021,3,7-May,19,2,12:08,nothing,nothing,,NA,,,
+SS04,5,2021,3,7-May,18,3,12:30,0:00,BRANIG,25,BEE,Apis,,Apis mellifera
+SS04,5,2021,3,7-May,18,3,12:30,0:05,HIRINC,2,BEE,Native,10,Native bee
+SS04,5,2021,3,7-May,18,3,12:30,1:55,BRANIG,17,BEE,Apis,,Apis mellifera
+SS04,5,2021,3,7-May,18,3,12:30,2:01,GILANG,NA,BEE,Apis,,Apis mellifera
+SS04,5,2021,3,7-May,18,3,12:30,3:11,BRANIG,1,BEE,Apis,,Apis mellifera
+SS04,5,2021,3,7-May,18,3,12:30,4:28,BRANIG,32,BEE,Apis,,Apis mellifera
+SS04,5,2021,3,7-May,18,3,12:30,10:51,BRANIG,3,BEE,Native,5,Native bee
+SS04,5,2021,3,7-May,18,3,12:30,12:23,HIRINC,54,BEE,Native,10,Native bee
+SS04,5,2021,3,7-May,18,3,12:30,16:58,GILANG,NA,BEE,Native,5,Native bee
+SS04,10,2021,3,7-May,21,4,12:55,13:02,BRANIG,NA,BEE,Apis,,Apis mellifera
+SS04,10,2021,3,7-May,21,4,12:55,14:12,GILANG,1,LID,,,Bombyllid
+SS04,15,2021,3,7-May,21,4,13:15,0:00,HIRINC,NA,BEE,Native,10,Native bee
+SS04,15,2021,3,7-May,21,4,13:15,2:10,HIRINC,2,BEE,Apis,,Apis mellifera
+SS04,15,2021,3,7-May,21,4,13:15,3:10,HIRINC,1,BEE,Apis,,Apis mellifera
+SS04,15,2021,3,7-May,21,4,13:15,3:41,HIRINC,31,BEE,Apis,,Apis mellifera
+SS04,15,2021,3,7-May,21,4,13:15,5:36,HIRINC,2,BEE,Apis,,Apis mellifera
+SS04,15,2021,3,7-May,21,4,13:15,NA,CRYMUR,NA,BEE,Apis,,Apis mellifera
+SS04,15,2021,3,7-May,21,4,13:15,NA,BRANIG,NA,BEE,Native,10,Native bee
+SS04,15,2021,3,7-May,21,4,13:15,NA,CRYMUR,NA,SYP,,,Syphrid fly
+SS04,15,2021,3,7-May,21,4,13:15,NA,CRYMUR,NA,BEE,Native,5,Native bee
+SS04,15,2021,3,7-May,21,4,13:15,NA,CRYMUR,NA,DIP,,,Diptera
+SS04,45,2021,3,7-May,21,4,13:40,6:26,SALMEL,NA,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,0:00,CRYMUR,21,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,0:00,CRYMUR,17,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,0:12,CRYMUR,10,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,1:08,CRYMUR,16,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,4:41,CRYMUR,4,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,8:11,BRANIG,NA,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,10:05,CRYMUR,11,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,10:51,CRYMUR,2,BEE,Native,5,Native bee
+SS04,special,2021,3,7-May,21,4,14:12,12:02,CRYMUR,NA,SYP,,,Syphrid fly
+SS04,special,2021,3,7-May,21,4,14:12,12:55,BRANIG,1,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,14:12,CRYMUR,2,BEE,Native,5,Native bee
+SS04,special,2021,3,7-May,21,4,14:12,17:10,CRYMUR,27,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,17:20,CRYMUR,64,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,17:48,CRYMUR,5,DIP,,,Diptera
+SS04,special,2021,3,7-May,21,4,14:12,18:13,CRYMUR,6,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,18:38,CRYMUR,12,BEE,Apis,,Apis mellifera
+SS04,special,2021,3,7-May,21,4,14:12,18:38,CRYMUR,5,SYP,,,Syphrid fly
+I40,45,2021,3,10-May,18,4,10:00,nothing,nothing,,NA,,,
+I40,30,2021,3,10-May,18,5,10:35,10:02,ACMGLA,NA,BEE,Apis,,Apis mellifera
+I40,20,2021,3,10-May,18,5,10:56,nothing,nothing,,NA,,,
+I40,15,2021,3,10-May,18,5,11:20,7:23,ACMGLA,NA,BEE,Apis,,Apis mellifera
+I40,10,2021,3,10-May,18,6,11:41,12:20,SALMEL,NA,BEE,Apis,,Apis mellifera
+I40,10,2021,3,10-May,18,6,11:41,12:35,SALMEL,NA,BEE,Bombus,,Bombus
+I40,5,2021,3,10-May,19,5,12:05,19:32,ERICON,5,BEE,Apis,,Apis mellifera
+I40,6,2021,3,10-May,19,5,12:05,0:00,SALMEL,15,BEE,Apis,,Apis mellifera
+I40,6,2021,3,10-May,19,5,12:05,0:00,SALMEL,5,BEE,Apis,,Apis mellifera
+I40,6,2021,3,10-May,19,5,12:05,5:41,SALMEL,26,BEE,Apis,,Apis mellifera
+I40,6,2021,3,10-May,19,5,12:05,12:14,SALMEL,2,BEE,Apis,,Apis mellifera
+I40,6,2021,3,10-May,19,5,12:05,13:12,SALMEL,1,BEE,Apis,,Apis mellifera
+I40,6,2021,3,10-May,19,5,12:05,14:45,SALMEL,14,BEE,Apis,,Apis mellifera
+I40,6,2021,3,10-May,19,5,12:05,18:23,SALMEL,6,BEE,Apis,,Apis mellifera
+I40,6,2021,3,10-May,19,5,12:05,19:30,BRANIG,NA,BEE,Apis,,Apis mellifera
+I08,0,2021,3,10-May,19,5,13:35,3:01,ERICON,1,BEE,Apis,,Apis mellifera
+I20,40,2021,3,11-May,17,3,9:50,0:00,ERIFAS,1,BEE,Apis,,Apis mellifera
+I20,40,2021,3,11-May,17,3,9:50,NA,CALSPL,NA,BEE,Native,10,Native bee
+I20,40,2021,3,11-May,17,2,10:10,NA,ERICON,NA,BEE,Apis,,Apis mellifera
+I20,40,2021,3,11-May,17,2,10:10,NA,ERIFAS,NA,BEE,Native,5,Native bee
+I20,40,2021,3,11-May,17,2,10:10,NA,ERIFAS,NA,FLY,,,Butterfly
+I20,40,2021,3,11-May,17,2,10:10,NA,ERICON,NA,FLY,,,Butterfly
+I50,0,2021,3,11-May,18,0,11:20,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
+I50,10,2021,3,11-May,19,0,12:00,7:52,ACMGLA,2,BEE,Native,10,Native bee
+I50,10,2021,3,11-May,19,0,12:00,NA,ERICAL,NA,HUM,,,Hummingbird
+I50,10,2021,3,11-May,19,0,12:00,16:08,ACMGLA,5,BEE,Native,10,Native bee
+I50,15,2021,3,11-May,20,0,12:21,NA,ERICAL,NA,HUM,,,Hummingbird
+I50,15,2021,3,11-May,20,0,12:21,9:06,ACMGLA,,BEE,Apis,,Apis mellifera
+I50,15,2021,3,11-May,20,0,12:21,12:34,ACMGLA,1,BEE,Native,10,Native bee
+I50,15,2021,3,11-May,20,0,12:21,NA,ERICAL,NA,LID,,,Bombyllid
+I50,15,2021,3,11-May,20,0,12:21,NA,ERICAL,NA,BEE,Apis,,Apis mellifera
+I50,15,2021,3,11-May,20,0,12:21,NA,ERICAL,NA,BEE,Native,10,Native bee
+I50,15,2021,3,11-May,20,0,12:21,NA,ERICAL,NA,BEE,Native,5,Native bee
+I50,35,2021,3,11-May,21,3,13:04,nothing,nothing,,NA,,,
+I50,35,2021,3,11-May,21,3,13:04,NA,BRANIG,NA,LID,,,Bombyllid
+I50,40,2021,3,11-May,21,3,13:25,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
+GYP09,34,2021,3,12-May,18,0,9:15,17:15,ERIFAS,2,SYP,,,Syphrid fly
+GYP09,34,2021,3,12-May,20,2,9:58,2:38,ERIFAS,10,BEE,Apis,,Apis mellifera
+GYP09,34,2021,3,12-May,20,2,9:58,19:04,ERIFAS,1,SYP,,,Syphrid fly
+GYP09,0,2021,3,12-May,20,2,10:00,2:02,KECANT,1,BEE,Native,5,Native bee
+GYP09,0,2021,3,12-May,20,2,10:00,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
+GYP09,0,2021,3,12-May,20,2,10:00,NA,BRANIG,NA,BEE,Native,10,Native bee
+GYP09,0,2021,3,12-May,21,2,10:21,5:07,KECANT,2,BEE,Native,10,Native bee
+GYP09,0,2021,3,12-May,21,2,10:21,NA,BRANIG,NA,BEE,Native,10,Native bee
+I02,walk,2021,3,12-May,22,4,13:55,,TRILAN,NA,HUM,,,Hummingbird
+I02,walk,2021,3,12-May,22,4,13:55,,DEIFAS,NA,LID,,,Bombyllid
+I02,38,2021,3,12-May,22,4,11:45,1:02,CALSPL,1,BEE,Native,10,Native bee
+I02,38,2021,3,12-May,22,4,11:45,1:40,SALMEL,26,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,4:12,SALMEL,38,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,4:58,SALMEL,20,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,6:27,SALMEL,9,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,7:05,SALMEL,1,BEE,Native,5,Native bee
+I02,38,2021,3,12-May,22,4,11:45,7:24,SALMEL,3,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,8:08,SALMEL,18,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,9:01,SALMEL,9,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,9:36,SALMEL,6,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,9:52,SALMEL,24,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,NA,ACMGLA,NA,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,12:39,SALMEL,2,BEE,Native,5,Native bee
+I02,38,2021,3,12-May,22,4,11:45,12:37,SALMEL,4,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,14:09,SALMEL,5,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,14:09,SALMEL,39,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,17:01,SALMEL,11,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,17:21,SALMEL,3,BEE,Native,10,Native bee
+I02,38,2021,3,12-May,22,4,11:45,17:56,SALMEL,36,BEE,Apis,,Apis mellifera
+I02,38,2021,3,12-May,22,4,11:45,18:23,SALMEL,24,BEE,Apis,,Apis mellifera
+I02,35,2021,3,12-May,22,4,12:13,5:24,ACMGLA,2,BEE,Apis,,Apis mellifera
+I02,35,2021,3,12-May,22,4,12:13,14:45,ACMGLA,1,BEE,Native,5,Native bee
+I02,10,2021,3,12-May,22,4,12:44,nothing,nothing,,NA,,,
+I02,0,2021,3,12-May,22,4,13:05,4:28,ACMGLA,NA,BEE,Apis,,Apis mellifera
+I02,0,2021,3,12-May,22,4,13:05,12:58,DEIFAS,2,LID,,,Bombyllid
+I02,0,2021,3,12-May,22,4,13:05,17:42,DEIFAS,1,BEE,Native,5,Native bee
+I02,30,2021,3,12-May,22,3,13:52,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
+I02,40,2021,3,12-May,22,3,13:30,NA,ACMGLA,NA,BEE,Apis,,Apis mellifera
+I02,40,2021,3,12-May,22,3,13:30,NA,CALSPL,NA,BEE,Native,10,Native bee
+I02,40,2021,3,12-May,22,3,13:30,18:31,BRANIG,2,BEE,Apis,,Apis mellifera
+IRC08,0,2021,3,13-May,17,1,9:20,nothing,nothing,,NA,,,
+IRC08,10,2021,3,13-May,18,2,9:42,4:23,CALMAC,1,BEE,Apis,,Apis mellifera
+IRC08,walk,2021,3,13-May,18,2,10:05,9:42,EROCIC,2,SYP,,,Syphrid fly
+IRC08,walk,2021,3,13-May,18,2,10:05,18:41,EROCIC,NA,BEE,Apis,,Apis mellifera
+IRC08,walk,2021,3,13-May,18,2,10:05,NA,BRANIG,NA,BEE,Apis,,Apis mellifera
+IRC08,25,2021,3,13-May,18,2,10:22,4:12,BRANIG,5,BEE,Native,10,Native bee
+IRC08,25,2021,3,13-May,18,2,10:22,4:30,BRANIG,NA,BEE,Native,10,Native bee
+IRC08,25,2021,3,13-May,18,2,10:22,4:42,BRANIG,NA,BEE,Apis,,Apis mellifera
+IRC08,25,2021,3,13-May,18,2,10:22,14:07,BRANIG,2,BEE,Apis,,Apis mellifera
+IRC08,25,2021,3,13-May,18,2,10:22,16:03,BRANIG,1,BEE,Native,5,Native bee
+IRC08,40,2021,3,13-May,18,2,10:58,18:23,BRANIG,2,BEE,Apis,,Apis mellifera
+IRC08,40,2021,3,13-May,18,2,10:58,18:40,BRANIG,5,BEE,Apis,,Apis mellifera
+IRC08,45,2021,3,13-May,18,2,11:28,0:00,CALMAC,NA,BEE,Apis,,Apis mellifera
+IRC08,45,2021,3,13-May,18,2,11:28,16:42,BRANIG,NA,BEE,Apis,,Apis mellifera
 SS04,15,2022,1,16-Mar,19,3,10:33,19:34,EROCIC,3,BEE,Apis,,Apis mellifera
 SS04,15,2022,1,16-Mar,19,3,10:33,NA,EROCIC,1,LID,,,Bombyllid
 SS04,15,2022,1,16-Mar,19,3,10:33,NA,EROCIC,1,SYP,,,Syphrid
